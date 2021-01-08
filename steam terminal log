@@ -1,0 +1,545 @@
+steam 
+Running Steam on manjarolinux 20.2.1 64-bit
+STEAM_RUNTIME is enabled automatically
+Pins up-to-date!
+Steam client's requirements are satisfied
+/home/leader/.local/share/Steam/ubuntu12_32/steam
+[2021-01-09 00:03:29] Startup - updater built Dec 20 2020 23:07:02
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+[2021-01-09 00:03:29] Loading cached metrics from disk (/home/leader/.local/share/Steam/package/steam_client_metrics.bin)
+[2021-01-09 00:03:29] Using the following download hosts for Public, Realm steamglobal
+[2021-01-09 00:03:29] 1. https://steamcdn-a.akamaihd.net, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+[2021-01-09 00:03:29] Verifying installation...
+[2021-01-09 00:03:29] Verification complete
+Loaded SDL version 2.0.14-6278618
+/usr/share/themes/Breath/gtk-2.0/widgets/entry:70: error: unexpected identifier 'direction', expected character '}'
+
+(steam:31148): Gtk-WARNING **: 00:03:29.557: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Breath/gtk-2.0/widgets/styles:36: error: invalid string constant "combobox_entry", expected valid string constant
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+STEAM_RUNTIME_HEAVY: ./steam-runtime-heavy
+[0109/000330.742466:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[0109/000330.775390:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0109/000330.775474:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1608505622
+[0109/000330.775486:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0109/000330.775494:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0109/000330.858936:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0109/000330.859012:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1608505622
+[0109/000330.859022:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0109/000330.859032:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0109/000330.859787:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[0109/000330.973078:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[0109/000331.028158:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0109/000331.028310:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1608505622
+[0109/000331.028324:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0109/000331.028334:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0109/000331.029374:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+CAppInfoCacheReadFromDiskThread took 185 milliseconds to initialize
+CApplicationManagerPopulateThread took 3743 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Proceed to auto login
+
+** (steam:31148): WARNING **: 00:03:35.167: Unknown device type 14
+
+** (steam:31148): WARNING **: 00:03:35.167: Could not create object for /org/freedesktop/NetworkManager/Devices/1: unknown object type
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Opted-in Controller Mask for AppId 0: 0
+
+** (steam:31148): WARNING **: 00:03:35.452: Ignoring invalid property 'autoconnect-priority'
+
+** (steam:31148): WARNING **: 00:03:35.452: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.452: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.452: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.452: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.452: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.453: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.453: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.453: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.454: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.454: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.455: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.455: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.455: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.455: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.455: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.455: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.456: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.456: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.456: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.456: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.456: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.457: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.457: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.457: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.457: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.458: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.458: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.458: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.458: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.458: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.459: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.459: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.459: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.459: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.459: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.460: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'gateway'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.460: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.461: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.461: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.462: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.462: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.463: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.463: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.464: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.465: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.465: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.466: Ignoring invalid property 'autoconnect-priority'
+
+** (steam:31148): WARNING **: 00:03:35.466: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.466: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.466: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.466: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.467: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.467: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.467: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.467: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.467: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.467: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.468: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.468: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.469: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.469: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.470: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.470: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'gateway'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.471: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.471: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.471: Ignoring invalid property 'interface-name'
+
+** (steam:31148): WARNING **: 00:03:35.472: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Unknown setting 'proxy'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'route-data'
+
+** (steam:31148): WARNING **: 00:03:35.472: Ignoring invalid property 'address-data'
+
+(steam:31148): Gtk-WARNING **: 00:03:35.643: gtk_disable_setlocale() must be called before gtk_init()
+Xlib:  extension "NV-GLX" missing on display ":0".
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+local (potentially out of sync) copy of roaming config loaded - 31132 bytes.
+roaming config store loaded successfully - 31132 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 26ms
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+[0109/000340.349005:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0109/000340.470297:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0109/000340.598710:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Failed to init SteamVR because it isn't installed
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+ExecCommandLine: "'/home/leader/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 12.48 seconds
+[0109/000341.978582:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0109/000342.006957:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0109/000342.056248:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+BuildCompleteAppOverviewChange: 414
+RegisterForAppOverview 1: 35ms
+RegisterForAppOverview 2: 35ms
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+[745920]Non-Steam Controller Configs Enabled: 1
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+CAPIJobRequestUserStats - Server response failed 2
+Opted-in Controller Mask for AppId 745920: 7
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+_v2-entry-point[31396]: STEAM_COMPAT_APP_ID=745920
+_v2-entry-point[31396]: STEAM_COMPAT_SESSION_ID=31ae48387437bb64
+_v2-entry-point[31396]: XDG_RUNTIME_DIR=/run/user/1000
+_v2-entry-point[31395]: STEAM_COMPAT_APP_ID=745920
+_v2-entry-point[31395]: STEAM_COMPAT_SESSION_ID=31ae48387437bb64
+_v2-entry-point[31395]: XDG_RUNTIME_DIR=/run/user/1000
+esync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+wine: Using RTKit to control niceness in the [-15,15] range
+_v2-entry-point[31912]: STEAM_COMPAT_APP_ID=745920
+_v2-entry-point[31912]: STEAM_COMPAT_SESSION_ID=31ae48387437bb64
+_v2-entry-point[31912]: XDG_RUNTIME_DIR=/run/user/1000
+_v2-entry-point[31927]: STEAM_COMPAT_APP_ID=745920
+_v2-entry-point[31927]: STEAM_COMPAT_SESSION_ID=31ae48387437bb64
+_v2-entry-point[31927]: XDG_RUNTIME_DIR=/run/user/1000
+*** stack smashing detected ***: terminated
+wine: Unhandled page fault on read access to FFFFFFFFFFFFFFFF at address 00007FE1FF618C65 (thread 00b4), starting debugger...
+^CTraceback (most recent call last):
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 955, in <module>
+    g_session.run()
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 928, in run
+    self.run_proc([g_proton.wine_bin, "steam"] + sys.argv[2:] + self.cmdlineappend)
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 920, in run_proc
+    subprocess.call(args, env=local_env, stderr=self.log_file, stdout=self.log_file)
+  File "/usr/lib/python3.7/subprocess.py", line 325, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 990, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 1624, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.7/subprocess.py", line 1582, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 955, in <module>
+    g_session.run()
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 928, in run
+    self.run_proc([g_proton.wine_bin, "steam"] + sys.argv[2:] + self.cmdlineappend)
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 920, in run_proc
+    subprocess.call(args, env=local_env, stderr=self.log_file, stdout=self.log_file)
+  File "/usr/lib/python3.7/subprocess.py", line 325, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 990, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 1624, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.7/subprocess.py", line 1582, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
+src/clientdll/installscript_posix.cpp (419) : Assertion Failed: Standalone evaluator returned error code for app 745920
+src/clientdll/installscript_posix.cpp (419) : Assertion Failed: Standalone evaluator returned error code for app 745920
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+assert_20210109001334_27.dmp[32802]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20210109001334_27.dmp
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+Game update: AppID 745920 "", ProcID 32805, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 32808 != 32806, skipping destruction (fork without exec?)
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+_v2-entry-point[32806]: STEAM_COMPAT_APP_ID=745920
+_v2-entry-point[32806]: STEAM_COMPAT_SESSION_ID=31ae48387437bb64
+_v2-entry-point[32806]: XDG_RUNTIME_DIR=/run/user/1000
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 32816 != 32806, skipping destruction (fork without exec?)
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Starting app 745920
+>>> Adding process 32805 for game ID 745920
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+>>> Adding process 32806 for game ID 745920
+>>> Adding process 32807 for game ID 745920
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to Completed with ""
+>>> Adding process 32809 for game ID 745920
+>>> Adding process 32810 for game ID 745920
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 32811 for game ID 745920
+>>> Adding process 32812 for game ID 745920
+>>> Adding process 32819 for game ID 745920
+>>> Adding process 32820 for game ID 745920
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 32822 for game ID 745920
+Installing breakpad exception handler for appid(steam)/version(1608507519)
+assert_20210109001334_27.dmp[32802]: Finished uploading minidump (out-of-process): success = yes
+assert_20210109001334_27.dmp[32802]: response: CrashID=bp-b9f1491a-b947-4ffc-9329-03e9e2210108
+assert_20210109001334_27.dmp[32802]: file ''/tmp/dumps/assert_20210109001334_27.dmp'', upload yes: ''CrashID=bp-b9f1491a-b947-4ffc-9329-03e9e2210108''
+Traceback (most recent call last):
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 958, in <module>
+    g_session.run_proc([g_proton.wineserver_bin, "-w"])
+  File "/home/leader/.local/share/Steam/steamapps/common/Proton - Experimental/proton", line 920, in run_proc
+    subprocess.call(args, env=local_env, stderr=self.log_file, stdout=self.log_file)
+  File "/usr/lib/python3.7/subprocess.py", line 325, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 990, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.7/subprocess.py", line 1624, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.7/subprocess.py", line 1582, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
+Game removed: AppID 745920 "", ProcID 32805 
+Uploaded AppInterfaceStats to Steam
+Exiting app 745920
+No cached sticky mapping in ActivateActionSet.Steam: An X Error occurred
+X Error of failed request:  BadWindow (invalid Window parameter)
+Major opcode of failed request:  40 (X_TranslateCoords)
+Resource id in failed request:  0xe00635
+Serial number of failed request:  22626
+xerror_handler: X failed, continuing
+
+ 

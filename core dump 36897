@@ -1,0 +1,170 @@
+[leader@manjaro ~]$ coredumpctl info 36897
+           PID: 36897 (x86_64-linux-gn)
+           UID: 1000 (leader)
+           GID: 1000 (leader)
+        Signal: 11 (SEGV)
+     Timestamp: Sat 2021-01-09 00:21:13 IST (6min ago)
+  Command Line: /usr/libexec/steam-runtime-tools-0/x86_64-linux-gnu-vulkaninfo -j
+    Executable: /usr/bin/x86_64-linux-gnu-vulkaninfo
+ Control Group: /user.slice/user-1000.slice/user@1000.service/app.slice/app-org.kde.konsole-81df86d0932748068>
+          Unit: user@1000.service
+     User Unit: app-org.kde.konsole-81df86d0932748068af3b34def48db7e.scope
+         Slice: user-1000.slice
+     Owner UID: 1000 (leader)
+       Boot ID: 9a7f1aa770434f39b6621a414bc62249
+    Machine ID: 91ad11a594a24d7fa2b28dc300cdbb75
+      Hostname: manjaro
+       Storage: /var/lib/systemd/coredump/core.x86_64-linux-gn.1000.9a7f1aa770434f39b6621a414bc62249.36897.16>
+       Message: Process 36897 (x86_64-linux-gn) of user 1000 dumped core.
+                
+                Stack trace of thread 36897:
+                #0  0x00007f8789d63db9 n/a (/run/host/usr/lib/libc-2.32.so + 0x8bdb9)
+...skipping...
+           PID: 36897 (x86_64-linux-gn)
+           UID: 1000 (leader)
+           GID: 1000 (leader)
+        Signal: 11 (SEGV)
+     Timestamp: Sat 2021-01-09 00:21:13 IST (6min ago)
+  Command Line: /usr/libexec/steam-runtime-tools-0/x86_64-linux-gnu-vulkaninfo -j
+    Executable: /usr/bin/x86_64-linux-gnu-vulkaninfo
+ Control Group: /user.slice/user-1000.slice/user@1000.service/app.slice/app-org.kde.konsole-81df86d0932748068>
+          Unit: user@1000.service
+     User Unit: app-org.kde.konsole-81df86d0932748068af3b34def48db7e.scope
+         Slice: user-1000.slice
+     Owner UID: 1000 (leader)
+       Boot ID: 9a7f1aa770434f39b6621a414bc62249
+    Machine ID: 91ad11a594a24d7fa2b28dc300cdbb75
+      Hostname: manjaro
+       Storage: /var/lib/systemd/coredump/core.x86_64-linux-gn.1000.9a7f1aa770434f39b6621a414bc62249.36897.16>
+       Message: Process 36897 (x86_64-linux-gn) of user 1000 dumped core.
+                
+                Stack trace of thread 36897:
+                #0  0x00007f8789d63db9 n/a (/run/host/usr/lib/libc-2.32.so + 0x8bdb9)
+~
+~
+~
+~
+~
+[leader@manjaro ~]$ coredumpctl gdb 36897 
+           PID: 36897 (x86_64-linux-gn)
+           UID: 1000 (leader)
+           GID: 1000 (leader)
+        Signal: 11 (SEGV)
+     Timestamp: Sat 2021-01-09 00:21:13 IST (6min ago)
+  Command Line: /usr/libexec/steam-runtime-tools-0/x86_64-linux-gnu-vulkaninfo -j
+    Executable: /usr/bin/x86_64-linux-gnu-vulkaninfo
+ Control Group: /user.slice/user-1000.slice/user@1000.service/app.slice/app-org.kde.konsole-81df86d0932748068af3b34def48db7e.scope
+          Unit: user@1000.service
+     User Unit: app-org.kde.konsole-81df86d0932748068af3b34def48db7e.scope
+         Slice: user-1000.slice
+     Owner UID: 1000 (leader)
+       Boot ID: 9a7f1aa770434f39b6621a414bc62249
+    Machine ID: 91ad11a594a24d7fa2b28dc300cdbb75
+      Hostname: manjaro
+       Storage: /var/lib/systemd/coredump/core.x86_64-linux-gn.1000.9a7f1aa770434f39b6621a414bc62249.36897.1610131873000000.zst
+       Message: Process 36897 (x86_64-linux-gn) of user 1000 dumped core.
+                
+                Stack trace of thread 36897:
+                #0  0x00007f8789d63db9 n/a (/run/host/usr/lib/libc-2.32.so + 0x8bdb9)
+
+GNU gdb (GDB) 10.1
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+/usr/bin/x86_64-linux-gnu-vulkaninfo: No such file or directory.
+
+warning: Can't open file /usr/bin/x86_64-linux-gnu-vulkaninfo during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libXext.so.6.4.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libnvidia-glcore.so.390.138 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libnvidia-tls.so.390.138 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libGLX_nvidia.so.390.138 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libvulkan_intel.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libicudata.so.67.1 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/liblzma.so.5.2.5 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libicuuc.so.67.1 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxml2.so.2.9.10 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libncursesw.so.6.2 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libedit.so.0.0.63 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libffi.so.7.1.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libdrm.so.2.4.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxshmfence.so.1.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxcb-sync.so.1.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxcb-present.so.0.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libX11-xcb.so.1.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libzstd.so.1.4.5 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libexpat.so.1.6.12 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libz.so.1.2.11 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxcb-randr.so.0.1.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libwayland-client.so.0.3.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxcb-dri3.so.0.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libelf-0.181.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libdrm_amdgpu.so.1.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libLLVM-11.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libvulkan_radeon.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libpthread-2.32.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libvulkan.so.1.2.164 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libm-2.32.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libXdmcp.so.6.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libXau.so.6.0.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libc-2.32.so during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libgcc_s.so.1 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libstdc++.so.6.0.28 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libX11.so.6.4.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libxcb.so.1.1.0 during file-backed mapping note processing
+
+warning: Can't open file /run/host/usr/lib/libdl-2.32.so during file-backed mapping note processing
+
+warning: Can't open file /usr/lib/x86_64-linux-gnu/ld-2.15.so during file-backed mapping note processing
+[New LWP 36897]
+Core was generated by `/usr/libexec/steam-runtime-tools-0/x86_64-linux-gnu-vulkaninfo -j'.
+Program terminated with signal SIGSEGV, Segmentation fault.
+#0  0x00007f8789d63db9 in ?? ()
+ 
