@@ -1,0 +1,10 @@
+======================
+Proton: 1610641627 proton-5.13-5
+SteamGameId: 745920
+Command: ['/home/leader/.local/share/Steam/steamapps/common/Temtem/Temtem.exe']
+Options: {'forcelgadd', 'wined3d'}
+SteamLinuxRuntime: v0.20210114.1-0-g5a1cbb7
+pressure-vessel: 0.20210114.0+srt1 scout 0.20210114.2
+soldier: 0.20210114.2 soldier 0.20210114.2
+======================
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
