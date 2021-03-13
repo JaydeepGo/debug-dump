@@ -1,0 +1,506 @@
+.
+[leader@manjaro ~]$ steam
+Running Steam on manjarolinux 20.2.1 64-bit
+STEAM_RUNTIME is enabled automatically
+Pins up-to-date!
+Steam client's requirements are satisfied
+/home/leader/.local/share/Steam/ubuntu12_32/steam
+[2021-03-12 15:46:18] Startup - updater built Feb 12 2021 23:21:33
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+[2021-03-12 15:46:18] Loading cached metrics from disk (/home/leader/.local/share/Steam/package/steam_client_metrics.bin)
+[2021-03-12 15:46:18] Using the following download hosts for Public, Realm steamglobal
+[2021-03-12 15:46:18] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2021-03-12 15:46:18] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2021-03-12 15:46:18] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+[2021-03-12 15:46:18] Verifying installation...
+[2021-03-12 15:46:18] Verification complete
+Loaded SDL version 2.0.15-6363475
+/usr/share/themes/Breath/gtk-2.0/widgets/entry:70: error: unexpected identifier 'direction', expected character '}'
+
+(steam:28888): Gtk-WARNING **: 15:46:18.914: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Breath/gtk-2.0/widgets/styles:36: error: invalid string constant "combobox_entry", expected valid string constant
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+STEAM_RUNTIME_HEAVY: ./steam-runtime-heavy
+[0312/154620.569810:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[0312/154620.618984:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0312/154620.619261:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1613172115
+[0312/154620.619321:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0312/154620.619371:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0312/154620.697246:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0312/154620.697509:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1613172115
+[0312/154620.697588:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0312/154620.697652:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0312/154620.698798:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[0312/154620.829966:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[0312/154620.891720:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0312/154620.892101:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1613172115
+[0312/154620.892118:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0312/154620.892132:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0312/154620.892977:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+CAppInfoCacheReadFromDiskThread took 238 milliseconds to initialize
+CApplicationManagerPopulateThread took 19286 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Proceed to auto login
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Opted-in Controller Mask for AppId 0: 2
+
+(steam:28888): Gtk-WARNING **: 15:46:41.663: gtk_disable_setlocale() must be called before gtk_init()
+local (potentially out of sync) copy of roaming config loaded - 33178 bytes.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:28888): LIBDBUSMENU-GLIB-WARNING **: 15:46:41.680: Trying to remove a child that doesn't believe we're it's parent.
+Xlib:  extension "NV-GLX" missing on display ":0".
+vkEnumeratePhysicalDevices failed, unable to init and enumerate GPUs with Vulkan.
+BInit - Unable to initialize Vulkan!
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+roaming config store loaded successfully - 33178 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 39ms
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+[0312/154645.102418:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0312/154645.239042:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0312/154645.385753:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/leader/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 27.39 seconds
+[0312/154646.235305:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0312/154646.232182:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0312/154646.258353:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+BuildCompleteAppOverviewChange: 418
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+RegisterForAppOverview 1: 86ms
+RegisterForAppOverview 2: 88ms
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+[730]Non-Steam Controller Configs Enabled: 0
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to UpdatingAppInfo with ""
+Opted-in Controller Mask Forced Off
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 730, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 730, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+Game update: AppID 730 "", ProcID 29229, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 29233 != 29230, skipping destruction (fork without exec?)
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Starting app 730
+>>> Adding process 29229 for game ID 730
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+>>> Adding process 29230 for game ID 730
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 730, ActionID 1] : LaunchApp changed task to Completed with ""
+>>> Adding process 29231 for game ID 730
+>>> Adding process 29232 for game ID 730
+>>> Adding process 29234 for game ID 730
+>>> Adding process 29235 for game ID 730
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 29236 for game ID 730
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 29237 for game ID 730
+>>> Adding process 29238 for game ID 730
+>>> Adding process 29239 for game ID 730
+Installing breakpad exception handler for appid(steam)/version(1613176728)
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 29804 for game ID 730
+>>> Adding process 29805 for game ID 730
+>>> Adding process 29806 for game ID 730
+>>> Adding process 29807 for game ID 730
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 29826 != 29825, skipping destruction (fork without exec?)
+>>> Adding process 29822 for game ID 730
+>>> Adding process 29824 for game ID 730
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+>>> Adding process 29825 for game ID 730
+>>> Adding process 29827 for game ID 730
+>>> Adding process 29828 for game ID 730
+SDL video target is 'x11'
+This system supports the OpenGL extension GL_EXT_framebuffer_object.
+This system supports the OpenGL extension GL_EXT_framebuffer_blit.
+This system supports the OpenGL extension GL_EXT_framebuffer_multisample.
+This system DOES NOT support the OpenGL extension GL_APPLE_fence.
+This system DOES NOT support the OpenGL extension GL_NV_fence.
+This system supports the OpenGL extension GL_ARB_sync.
+This system supports the OpenGL extension GL_EXT_draw_buffers2.
+This system DOES NOT support the OpenGL extension GL_EXT_bindable_uniform.
+This system DOES NOT support the OpenGL extension GL_APPLE_flush_buffer_range.
+This system supports the OpenGL extension GL_ARB_map_buffer_range.
+This system supports the OpenGL extension GL_ARB_vertex_buffer_object.
+This system supports the OpenGL extension GL_ARB_occlusion_query.
+This system DOES NOT support the OpenGL extension GL_APPLE_texture_range.
+This system DOES NOT support the OpenGL extension GL_APPLE_client_storage.
+This system DOES NOT support the OpenGL extension GL_ARB_uniform_buffer.
+This system supports the OpenGL extension GL_ARB_vertex_array_bgra.
+This system supports the OpenGL extension GL_EXT_vertex_array_bgra.
+This system supports the OpenGL extension GL_ARB_framebuffer_object.
+This system DOES NOT support the OpenGL extension GL_GREMEDY_string_marker.
+This system supports the OpenGL extension GL_ARB_debug_output.
+This system supports the OpenGL extension GL_EXT_direct_state_access.
+This system DOES NOT support the OpenGL extension GL_NV_bindless_texture.
+This system supports the OpenGL extension GL_AMD_pinned_memory.
+This system supports the OpenGL extension GL_EXT_framebuffer_multisample_blit_scaled.
+This system supports the OpenGL extension GL_EXT_texture_sRGB_decode.
+This system DOES NOT support the OpenGL extension GL_NVX_gpu_memory_info.
+This system DOES NOT support the OpenGL extension GL_ATI_meminfo.
+This system supports the OpenGL extension GL_EXT_texture_compression_s3tc.
+This system supports the OpenGL extension GL_EXT_texture_compression_dxt1.
+This system supports the OpenGL extension GL_ANGLE_texture_compression_dxt3.
+This system supports the OpenGL extension GL_ANGLE_texture_compression_dxt5.
+This system supports the OpenGL extension GL_ARB_buffer_storage.
+This system supports the OpenGL extension GLX_EXT_swap_control_tear.
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/engine_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/engine_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/filesystem_stdio_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/filesystem_stdio_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/inputsystem_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/inputsystem_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vphysics_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vphysics_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/materialsystem_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/materialsystem_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/datacache_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/datacache_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/studiorender_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/studiorender_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/soundemittersystem_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/soundemittersystem_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vscript_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vscript_client.so: wrong ELF class: ELFCLASS32
+Installing breakpad exception handler for appid(gameoverlayui)/version(20210212232140)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vguimatsurface_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vguimatsurface_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vgui2_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/vgui2_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/shaderapidx9_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/shaderapidx9_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/localize_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/localize_client.so: wrong ELF class: ELFCLASS32
+Created D3D9 device successfully
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[0312/154734.250996:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[0312/154734.485190:ERROR:frame_sink_video_capturer_impl.cc(206)] Invalid resolutions constraints: 0x0 must not be greater than 0x0; and also within media::limits.
+Using breakpad minidump system 730/13783.1245.JC
+Using breakpad crash handler
+[S_API] SteamAPI_Init(): Loaded '/home/leader/.local/share/Steam/linux64/steamclient.so' OK.
+Game update: AppID 730 "", ProcID 29828, IP 0.0.0.0:0
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+Setting breakpad minidump AppID = 730
+Forcing breakpad minidump interfaces to load
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / User
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198292933612 [API loaded yes]
+SteamInternal_SetMinidumpSteamID:  Setting Steam ID:  76561198292933612
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+Initialized low level socket/threading support.
+RecordSteamInterfaceCreation (PID 29828): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 29828): SteamNetworkingSocketsSerialized004 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUser020 / User
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / HTTP
+/home/buildbot/buildslave/sdr_public_ubuntu64_linux/build/src/steamnetworkingsockets/clientlib/csteamnetworkingsockets_steam.cpp(138): Assertion Failed: Initted interface twice?
+Set SteamNetworkingSockets P2P_STUN_ServerList to '103.10.124.162:3478' as per SteamNetworkingSocketsSerialized
+Got ISteamNetworkingSockets user interfaces from standalone lib
+Pending ping measurement until network config is obtained.
+RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=730&partner=valve)
+AuthStatus (steamid:76561198292933612):  Attempting  (Requesting cert)
+USRLOCAL path using Steam profile data folder:
+/home/leader/.local/share/Steam/userdata/332667884/730/local
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+Timed out waiting for game mapping!
+No cached sticky mapping in GetActionSetHandle. Native Steam Controller support won't work.
+RESZ NOT SUPPORTED!
+INTZ NOT SUPPORTED!
+RESZ NOT SUPPORTED!
+INTZ NOT SUPPORTED!
+
+ ##### swap interval = 0     swap limit = 1 #####
+CGLMShaderPair::SetProgramPair: Centroid masks differ at link time of vertex shader screenspaceeffect_vs30 and pixel shader underwater_ps30!
+Filesystem successfully switched to safe whitelist mode
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/matchmaking_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/matchmaking_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/client_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/client_client.so: wrong ELF class: ELFCLASS32
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+CClientSteamContext logged on = 1
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/server_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/bin/server_client.so: wrong ELF class: ELFCLASS32
+Game.dll loaded for "Counter-Strike: Global Offensive"
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/soundemittersystem_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/soundemittersystem_client.so: wrong ELF class: ELFCLASS32
+ failed to dlopen /home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/scenefilecache_client.so error=/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/bin/scenefilecache_client.so: wrong ELF class: ELFCLASS32
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+CGameEventManager::AddListener: event 'server_pre_shutdown' unknown.
+CGameEventManager::AddListener: event 'game_newmap' unknown.
+CGameEventManager::AddListener: event 'finale_start' unknown.
+CGameEventManager::AddListener: event 'round_start' unknown.
+CGameEventManager::AddListener: event 'round_end' unknown.
+CGameEventManager::AddListener: event 'difficulty_changed' unknown.
+CGameEventManager::AddListener: event 'player_death' unknown.
+CGameEventManager::AddListener: event 'hltv_replay' unknown.
+CGameEventManager::AddListener: event 'player_connect' unknown.
+CGameEventManager::AddListener: event 'player_disconnect' unknown.
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/cooperative).
+GameTypes: missing mapgroupsSP entry for game type/mode (cooperative/coopmission).
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / 
+RecordSteamInterfaceCreation (PID 29828): SteamFriends017 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMaking009 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchGameSearch001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamMatchMakingServers002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUSERSTATS_INTERFACE_VERSION012 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPS_INTERFACE_VERSION008 / 
+RecordSteamInterfaceCreation (PID 29828): SteamNetworking006 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTTP_INTERFACE_VERSION003 / 
+RecordSteamInterfaceCreation (PID 29828): SteamController007 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMUGC_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMAPPLIST_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSIC_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMINVENTORY_INTERFACE_V003 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMVIDEO_INTERFACE_V002 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamInput001 / 
+Fontconfig warning: "/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/panorama/fonts/conf.d/41-repl-os-win.conf", line 148: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/panorama/fonts/conf.d/41-repl-os-win.conf", line 160: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: line 38: unknown element "fontpattern"
+Fontconfig warning: line 39: unknown element "fontpattern"
+Fontconfig warning: line 40: unknown element "fontpattern"
+Fontconfig warning: line 41: unknown element "fontpattern"
+Fontconfig warning: line 42: unknown element "fontpattern"
+RecordSteamInterfaceCreation (PID 29828): SteamGameStats001 / 
+RecordSteamInterfaceCreation (PID 29828): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+RecordSteamInterfaceCreation (PID 29828): SteamAppDisableUpdate001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamGameCoordinator001 / 
+RecordSteamInterfaceCreation (PID 29828): SteamUser021 / User
+RecordSteamInterfaceCreation (PID 29828): SteamUtils010 / Utils
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+assert_20210312154734_1.dmp[29934]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20210312154734_1.dmp
+>>> Adding process 29933 for game ID 730
+assert_20210312154734_1.dmp[29934]: Finished uploading minidump (out-of-process): success = yes
+assert_20210312154734_1.dmp[29934]: response: Discarded=1
+assert_20210312154734_1.dmp[29934]: file ''/tmp/dumps/assert_20210312154734_1.dmp'', upload yes: ''Discarded=1''
+pid 29934 != 29933, skipping destruction (fork without exec?)
+/home/leader/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo.sh: line 88: 29828 Segmentation fault      (core dumped) ${DEBUGGER} "${GAMEROOT}"/${GAMEEXE} "$@"
+Game removed: AppID 730 "", ProcID 29828 
+Game 730 created interface STEAMAPPLIST_INTERFACE_VERSION001 / 
+Game 730 created interface STEAMAPPS_INTERFACE_VERSION008 / 
+Game 730 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+Game 730 created interface STEAMHTTP_INTERFACE_VERSION003 / 
+Game 730 created interface STEAMHTTP_INTERFACE_VERSION003 / HTTP
+Game 730 created interface STEAMINVENTORY_INTERFACE_V003 / 
+Game 730 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / 
+Game 730 created interface STEAMMUSIC_INTERFACE_VERSION001 / 
+Game 730 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / 
+Game 730 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / 
+Game 730 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / 
+Game 730 created interface STEAMUGC_INTERFACE_VERSION014 / 
+Game 730 created interface STEAMUSERSTATS_INTERFACE_VERSION012 / 
+Game 730 created interface STEAMVIDEO_INTERFACE_V002 / 
+Game 730 created interface SteamAppDisableUpdate001 / 
+Game 730 created interface SteamController007 / 
+Game 730 created interface SteamFriends017 / 
+Game 730 created interface SteamGameCoordinator001 / 
+Game 730 created interface SteamGameStats001 / 
+Game 730 created interface SteamInput001 / 
+Game 730 created interface SteamMatchGameSearch001 / 
+Game 730 created interface SteamMatchMaking009 / 
+Game 730 created interface SteamMatchMakingServers002 / 
+Game 730 created interface SteamNetworking006 / 
+Game 730 created interface SteamNetworkingSocketsSerialized004 / 
+Game 730 created interface SteamUser020 / User
+Game 730 created interface SteamUser021 / 
+Game 730 created interface SteamUser021 / User
+Game 730 created interface SteamUtils009 / Utils
+Game 730 created interface SteamUtils010 / 
+Game 730 created interface SteamUtils010 / Utils
+Game 730 method call count for IClientUser::BLoggedOn : 8
+Game 730 method call count for IClientUser::BIsSubscribedApp : 1
+Game 730 method call count for IClientUser::GetUserDataFolder : 1
+Game 730 method call count for IClientUser::GetSteamID : 22
+Game 730 method call count for IClientUser::BSetDurationControlOnlineState : 1
+Game 730 method call count for IClientFriends::GetFriendCount : 1
+Game 730 method call count for IClientFriends::GetFriendPersonaState : 90
+Game 730 method call count for IClientFriends::GetFriendRelationship : 90
+Game 730 method call count for IClientFriends::GetFriendGamePlayed : 90
+Game 730 method call count for IClientFriends::GetFriendByIndex : 90
+Game 730 method call count for IClientFriends::GetPersonaName : 1
+Game 730 method call count for IClientFriends::GetFriendPersonaName_Public : 8
+Game 730 method call count for IClientUtils::IsSteamChina : 3
+Game 730 method call count for IClientUtils::InitFilterText : 1
+Game 730 method call count for IClientUtils::GetServerRealTime : 1
+Game 730 method call count for IClientUtils::GetAppID : 151
+Game 730 method call count for IClientUtils::GetConnectedUniverse : 3
+Game 730 method call count for IClientUtils::GetLauncherType : 1
+Game 730 method call count for IClientUtils::RecordSteamInterfaceCreation : 144
+Game 730 method call count for IClientUtils::GetIPCountry : 1
+Game 730 method call count for IClientAppManager::GetActiveBeta : 1
+Game 730 method call count for IClientAppManager::GetAppStateInfo : 1
+Game 730 method call count for IClientAppManager::GetCurrentLanguage : 2
+Game 730 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 730 method call count for IClientNetworking::AllowP2PPacketRelay : 1
+Game 730 method call count for IClientRemoteStorage::EnumerateUserSubscribedFiles : 1
+Game 730 method call count for IClientRemoteStorage::FileRead : 2
+Game 730 method call count for IClientRemoteStorage::GetFileSize : 2
+Game 730 method call count for IClientRemoteStorage::FileExists : 1
+Game 730 method call count for IClientGameCoordinator::SendMessage : 1
+Game 730 method call count for IClientGameStats::GetNewSession : 1
+Game 730 method call count for IClientHTTP::SendHTTPRequest : 1
+Game 730 method call count for IClientHTTP::SetHTTPRequestHeaderValue : 1
+Game 730 method call count for IClientHTTP::CreateHTTPRequest : 1
+Game 730 method call count for IClientControllerSerialized::HasGameMapping : 51
+Game 730 method call count for IClientControllerSerialized::GetActionSetHandle : 1
+Game 730 method call count for IClientNetworkingSocketsSerialized::GetSTUNServer : 2
+Game 730 method call count for IClientNetworkingSocketsSerialized::GetCertAsync : 1
+Game 730 method call count for IClientNetworkingSocketsSerialized::GetCachedRelayTicketCount : 1
+Uploaded AppInterfaceStats to Steam
+Exiting app 730
+No cached sticky mapping in ActivateActionSet.
+ 
