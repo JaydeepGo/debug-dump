@@ -1,0 +1,2971 @@
+Computer Information:
+    Manufacturer:  Unknown
+    Model:  Unknown
+    Form Factor: Laptop
+    No Touch Input Detected
+
+Processor Information:
+    CPU Vendor:  GenuineIntel
+    CPU Brand:  Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+    CPU Family:  0x6
+    CPU Model:  0x3d
+    CPU Stepping:  0x4
+    CPU Type:  0x0
+    Speed:  2700 Mhz
+    4 logical processors
+    2 physical processors
+    HyperThreading:  Supported
+    FCMOV:  Supported
+    SSE2:  Supported
+    SSE3:  Supported
+    SSSE3:  Supported
+    SSE4a:  Unsupported
+    SSE41:  Supported
+    SSE42:  Supported
+    AES:  Supported
+    AVX:  Supported
+    AVX2:  Unsupported
+    AVX512F:  Unsupported
+    AVX512PF:  Unsupported
+    AVX512ER:  Unsupported
+    AVX512CD:  Unsupported
+    AVX512VNNI:  Unsupported
+    SHA:  Unsupported
+    CMPXCHG16B:  Supported
+    LAHF/SAHF:  Supported
+    PrefetchW:  Unsupported
+
+Operating System Version:
+    "Manjaro Linux" (64 bit)
+    Kernel Name:  Linux
+    Kernel Version:  5.10.3-arch1-1
+    X Server Vendor:  The X.Org Foundation
+    X Server Release:  12010000
+    X Window Manager:  KWin
+    Steam Runtime Version:  steam-runtime_0.20210317.0
+
+Video Card:
+    Driver:  Intel Mesa Intel(R) HD Graphics 5500 (BDW GT2)
+    Driver Version:  4.6 (Compatibility Profile) Mesa 21.0.1
+    OpenGL Version: 4.6
+    Desktop Color Depth: 24 bits per pixel
+    Monitor Refresh Rate: 60 Hz
+    VendorID:  0x8086
+    DeviceID:  0x1616
+    Revision Not Detected
+    Number of Monitors:  1
+    Number of Logical Video Cards:  1
+    Primary Display Resolution:  1366 x 768
+    Desktop Resolution: 1366 x 768
+    Primary Display Size: 13.54" x 7.64" (15.51" diag)
+                                            34.4cm x 19.4cm (39.4cm diag)
+    Primary VRAM Not Detected
+
+Sound card:
+    Audio device: Intel Broadwell HDMI
+
+Memory:
+    RAM:  11891 Mb
+
+VR Hardware:
+    VR Headset: None detected
+
+Miscellaneous:
+    UI Language:  English
+    LANG:  en_IN
+    Total Hard Disk Space Available:  338197 Mb
+    Largest Free Hard Disk Block:  50602 Mb
+
+Storage:
+    Number of SSDs: 0
+    SSD sizes: %s1
+    Number of HDDs: 0
+    HDD sizes: %s1
+
+"LD_* scout runtime" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/leader/.local/share/Steam",
+    "data_path" : "/home/leader/.local/share/Steam",
+    "bin32_path" : "/home/leader/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/lib/steam/steam",
+    "steamscript_version" : "1.0.0.69",
+    "issues" : [
+      "unexpected-steam-uri-handler",
+      "unexpected-steam-desktop-id"
+    ]
+  },
+  "runtime" : {
+    "path" : "/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime",
+    "version" : "0.20210317.0",
+    "issues" : [
+    ],
+    "pinned_libs_32" : {
+      "list" : [
+        " 16982399      4 drwxr-xr-x   2 leader   leader       4096 Apr 13 23:09 pinned_libs_32",
+        " 16932649      4 lrwxrwxrwx   1 leader   leader        106 Apr 13 23:09 pinned_libs_32/libdbusmenu-gtk.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libdbusmenu-gtk.so.4.0.13",
+        " 16932653      4 -rw-r--r--   1 leader   leader         71 Apr 13 23:09 pinned_libs_32/system_libdbusmenu-glib.so.4",
+        " 16932651      0 -rw-r--r--   1 leader   leader          0 Apr 13 23:09 pinned_libs_32/has_pins",
+        " 16932652      4 lrwxrwxrwx   1 leader   leader        107 Apr 13 23:09 pinned_libs_32/libdbusmenu-glib.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libdbusmenu-glib.so.4.0.13",
+        " 16932650      4 -rw-r--r--   1 leader   leader         69 Apr 13 23:09 pinned_libs_32/system_libdbusmenu-gtk.so.4",
+        " 16932668      0 lrwxrwxrwx   1 leader   leader         12 Apr 13 23:09 pinned_libs_32/libcurl.so.3 -> libcurl.so.4",
+        " 16932657      4 -rw-r--r--   1 leader   leader         70 Apr 13 23:09 pinned_libs_32/system_libgtk-x11-2.0.so.0",
+        " 16932654      4 lrwxrwxrwx   1 leader   leader        100 Apr 13 23:09 pinned_libs_32/libGLU.so.1 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libGLU.so.1.3.08004",
+        " 16932655      4 -rw-r--r--   1 leader   leader         50 Apr 13 23:09 pinned_libs_32/system_libGLU.so.1",
+        " 16932656      4 lrwxrwxrwx   1 leader   leader        108 Apr 13 23:09 pinned_libs_32/libgtk-x11-2.0.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libgtk-x11-2.0.so.0.2400.10",
+        " 16932658      4 lrwxrwxrwx   1 leader   leader         97 Apr 13 23:09 pinned_libs_32/libcurl.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libcurl.so.4.2.0",
+        " 16932664      4 lrwxrwxrwx   1 leader   leader         95 Apr 13 23:09 pinned_libs_32/libdbus-1.so.3 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu/libdbus-1.so.3.5.8",
+        " 16932667      4 -rw-r--r--   1 leader   leader         55 Apr 13 23:09 pinned_libs_32/system_libudev.so.0",
+        " 16932659      4 -rw-r--r--   1 leader   leader         52 Apr 13 23:09 pinned_libs_32/system_libcurl.so.4",
+        " 16932665      4 -rw-r--r--   1 leader   leader         58 Apr 13 23:09 pinned_libs_32/system_libdbus-1.so.3",
+        " 16932661      4 -rw-r--r--   1 leader   leader         53 Apr 13 23:09 pinned_libs_32/system_libjack.so.0",
+        " 16932660      4 lrwxrwxrwx   1 leader   leader         97 Apr 13 23:09 pinned_libs_32/libjack.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/libjack.so.0.1.0",
+        " 16932666      4 lrwxrwxrwx   1 leader   leader         94 Apr 13 23:09 pinned_libs_32/libudev.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu/libudev.so.0.13.0"
+      ]
+    },
+    "pinned_libs_64" : {
+      "list" : [
+        " 16982400      4 drwxr-xr-x   2 leader   leader       4096 Apr 13 23:09 pinned_libs_64",
+        " 16932636      4 lrwxrwxrwx   1 leader   leader        108 Apr 13 23:09 pinned_libs_64/libdbusmenu-gtk.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libdbusmenu-gtk.so.4.0.13",
+        " 16932640      4 -rw-r--r--   1 leader   leader         67 Apr 13 23:09 pinned_libs_64/system_libdbusmenu-glib.so.4",
+        " 16932638      0 -rw-r--r--   1 leader   leader          0 Apr 13 23:09 pinned_libs_64/has_pins",
+        " 16932639      4 lrwxrwxrwx   1 leader   leader        109 Apr 13 23:09 pinned_libs_64/libdbusmenu-glib.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libdbusmenu-glib.so.4.0.13",
+        " 16932637      4 -rw-r--r--   1 leader   leader         65 Apr 13 23:09 pinned_libs_64/system_libdbusmenu-gtk.so.4",
+        " 16932669      0 lrwxrwxrwx   1 leader   leader         12 Apr 13 23:09 pinned_libs_64/libcurl.so.3 -> libcurl.so.4",
+        " 16932641      4 lrwxrwxrwx   1 leader   leader        102 Apr 13 23:09 pinned_libs_64/libGLU.so.1 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libGLU.so.1.3.08004",
+        " 16932642      4 -rw-r--r--   1 leader   leader         46 Apr 13 23:09 pinned_libs_64/system_libGLU.so.1",
+        " 16932648      4 -rw-r--r--   1 leader   leader         60 Apr 13 23:09 pinned_libs_64/system_libpangox-1.0.so.0",
+        " 16932643      4 lrwxrwxrwx   1 leader   leader         99 Apr 13 23:09 pinned_libs_64/libcurl.so.4 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libcurl.so.4.2.0",
+        " 16932663      4 -rw-r--r--   1 leader   leader         51 Apr 13 23:09 pinned_libs_64/system_libudev.so.0",
+        " 16932644      4 -rw-r--r--   1 leader   leader         48 Apr 13 23:09 pinned_libs_64/system_libcurl.so.4",
+        " 16932646      4 -rw-r--r--   1 leader   leader         49 Apr 13 23:09 pinned_libs_64/system_libjack.so.0",
+        " 16932645      4 lrwxrwxrwx   1 leader   leader         99 Apr 13 23:09 pinned_libs_64/libjack.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libjack.so.0.1.0",
+        " 16932647      4 lrwxrwxrwx   1 leader   leader        108 Apr 13 23:09 pinned_libs_64/libpangox-1.0.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/libpangox-1.0.so.0.3000.0",
+        " 16932662      4 lrwxrwxrwx   1 leader   leader         96 Apr 13 23:09 pinned_libs_64/libudev.so.0 -> /home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib/x86_64-linux-gnu/libudev.so.0.13.0"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "manjaro",
+    "id_like" : [
+      "arch"
+    ],
+    "name" : "Manjaro Linux",
+    "pretty_name" : "Manjaro Linux",
+    "build_id" : "rolling"
+  },
+  "container" : {
+    "type" : "none"
+  },
+  "driver_environment" : [
+    "DISPLAY=:0",
+    "LD_LIBRARY_PATH=/home/leader/.local/share/Steam/ubuntu12_32:/home/leader/.local/share/Steam/ubuntu12_32/panorama:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_32:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/pinned_libs_64:/usr/lib/libfakeroot:/usr/lib32:/usr/lib/opencollada:/usr/lib/openmpi:/usr/lib:/usr/lib/tls:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib/i386-linux-gnu:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib/x86_64-linux-gnu:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/lib:/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n030000006d04000016c2000011010000,Logitech Dual Action,a:b1,b:b2,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b10,lefttrigger:b6,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b11,righttrigger:b7,rightx:a2,righty:a3,start:b9,x:b0,y:b3,\n030000006d0400001dc2000014400000,Logitech F310 Gamepad (XInput),a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,",
+    "XDG_RUNTIME_DIR=/run/user/1000"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib32/ld-2.33.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0"
+          ],
+          "renderer" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "1.2.145 (device 0x8086:0x1616) (driver 21.0.1)",
+          "devices" : [
+            {
+              "name" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+              "api-version" : "1.2.145",
+              "driver-version" : "21.0.1",
+              "vendor-id" : "0x8086",
+              "device-id" : "0x1616",
+              "type" : "integrated-gpu"
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.11.0",
+            "libva info: Trying to open /usr/lib32/dri/iHD_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "libva info: Trying to open /usr/lib32/dri/i965_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0",
+            "vaEndPicture (va_display, context) failed: invalid parameter (18)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib32/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/vmwgfx_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib32/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib32/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/i386-linux-gnu/dri/dummy_drv_video.so"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1"
+        },
+        {
+          "library_path" : "/usr/lib32/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib32/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib32/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/ld-2.33.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "Xlib:  extension \"NV-GLX\" missing on display \":0\".",
+            "vkEnumeratePhysicalDevices (instance, physical_device_count, NULL) failed: ERROR_INITIALIZATION_FAILED (-3)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : 1,
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "vaCreateBuffer (va_display, context, VAPictureParameterBufferType, sizeof (VAPictureParameterBufferH264), 1, &pic_param_h264, &pic_param_buf) failed: invalid VAContextID (5)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/usr/lib/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/zink_dri.so"
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/usr/lib/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/usr/lib/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/home/leader/.local/share/Steam/ubuntu12_32/steam-runtime/usr/lib/x86_64-linux-gnu/dri/dummy_drv_video.so"
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.1"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.390.141"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1"
+        },
+        {
+          "library_path" : "/usr/lib/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0"
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/usr/lib/libGLX_nvidia.so.390.141"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+    "c-utf8-missing",
+    "i18n-supported-missing"
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "LC_CTYPE=en_IN;LC_NUMERIC=en_IN;LC_TIME=en_IN;LC_COLLATE=C;LC_MONETARY=en_IN;LC_MESSAGES=en_IN;LC_PAPER=en_IN;LC_NAME=en_IN;LC_ADDRESS=en_IN;LC_TELEPHONE=en_IN;LC_MEASUREMENT=en_IN;LC_IDENTIFICATION=en_IN",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "error-domain" : "srt-locale-error-quark",
+      "error-code" : 0,
+      "error" : "No such file or directory"
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/glvnd/egl_vendor.d/10_nvidia.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/intel_icd.i686.json",
+        "library_path" : "/usr/lib32/libvulkan_intel.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/radeon_icd.i686.json",
+        "library_path" : "/usr/lib32/libvulkan_radeon.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/nvidia_icd.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.0.65",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/usr/share/vulkan/icd.d/amd_icd64.json",
+        "library_path" : "/usr/lib/amdvlk64.so",
+        "api_version" : "1.2.170",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/home/leader/.local/share/vulkan/implicit_layer.d/steamfossilize_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/leader/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/leader/.local/share/vulkan/implicit_layer.d/steamfossilize_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/leader/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/leader/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/leader/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/home/leader/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/home/leader/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+    {
+      "id" : "steam-native.desktop",
+      "commandline" : "/usr/bin/steam-native %U",
+      "filename" : "/usr/share/applications/steam-native.desktop",
+      "default_steam_uri_handler" : true,
+      "steam_uri_handler" : true
+    },
+    {
+      "id" : "steam.desktop",
+      "commandline" : "/usr/bin/steam-runtime %U",
+      "filename" : "/usr/share/applications/steam.desktop",
+      "default_steam_uri_handler" : false,
+      "steam_uri_handler" : true
+    }
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+
+"scout runtime container" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/leader/.local/share/Steam",
+    "data_path" : "/home/leader/.local/share/Steam",
+    "bin32_path" : "/home/leader/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/lib/steam/steam",
+    "steamscript_version" : "1.0.0.69",
+    "issues" : [
+      "missing-steam-uri-handler",
+      "unexpected-steam-uri-handler"
+    ]
+  },
+  "runtime" : {
+    "path" : "/",
+    "version" : "0.20210317.0",
+    "issues" : [
+    ],
+    "overrides" : {
+      "list" : [
+        "    78    0 drwxr-xr-x   4 leader   leader         80 Apr 20 18:02 overrides",
+        "   103    0 drwxr-xr-x   4 leader   leader        220 Apr 20 18:02 overrides/lib",
+        "   235    0 drwxr-xr-x   7 leader   leader       2080 Apr 20 18:02 overrides/lib/x86_64-linux-gnu",
+        "   375    0 drwxr-xr-x   2 leader   leader        160 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases",
+        "   381    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/x86_64-linux-gnu/libbz2.so.1.0",
+        "   380    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libcurl.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl.so.4",
+        "   379    0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4",
+        "   378    0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libldap-2.4.so.2 -> /usr/lib/x86_64-linux-gnu/libldap_r-2.4.so.2",
+        "   377    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libvpx.so.1.0 -> /usr/lib/x86_64-linux-gnu/libvpx.so.1",
+        "   376    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/x86_64-linux-gnu/libXaw.so.7",
+        "   374    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/libEGL_nvidia.so.390.141",
+        "   373    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/libEGL_mesa.so.0.0.0",
+        "   372    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/libGLX_nvidia.so.390.141",
+        "   370    0 drwxr-xr-x   2 leader   leader         60 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan",
+        "   371    0 lrwxrwxrwx   1 leader   leader         29 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan/amdvlk64.so -> /run/host/usr/lib/amdvlk64.so",
+        "   367    0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer",
+        "   369    0 lrwxrwxrwx   1 leader   leader         73 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/leader/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "   368    0 lrwxrwxrwx   1 leader   leader         70 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/leader/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "   354    0 drwxr-xr-x   2 leader   leader        280 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau",
+        "   366    0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/vdpau/libvdpau_nouveau.so.1.0.0",
+        "   365    0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/vdpau/libvdpau_nouveau.so.1.0.0",
+        "   364    0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so -> /run/host/usr/lib/vdpau/libvdpau_nvidia.so.390.141",
+        "   363    0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1 -> /run/host/usr/lib/vdpau/libvdpau_nvidia.so.390.141",
+        "   362    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/vdpau/libvdpau_r300.so.1.0.0",
+        "   361    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/vdpau/libvdpau_r300.so.1.0.0",
+        "   360    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/vdpau/libvdpau_r600.so.1.0.0",
+        "   359    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/vdpau/libvdpau_r600.so.1.0.0",
+        "   358    0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "   357    0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "   356    0 lrwxrwxrwx   1 leader   leader         47 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so -> /run/host/usr/lib/vdpau/libvdpau_trace.so.1.0.0",
+        "   355    0 lrwxrwxrwx   1 leader   leader         47 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/vdpau/libvdpau_trace.so.1.0.0",
+        "   330    0 drwxr-xr-x   2 leader   leader        500 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri",
+        "   353    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/dri/i915_dri.so",
+        "   352    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/dri/i965_dri.so",
+        "   351    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/dri/iris_dri.so",
+        "   350    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/dri/kms_swrast_dri.so",
+        "   349    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/dri/nouveau_dri.so",
+        "   348    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/dri/nouveau_vieux_dri.so",
+        "   347    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/dri/r200_dri.so",
+        "   346    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/dri/r300_dri.so",
+        "   345    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/dri/r600_dri.so",
+        "   344    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/dri/radeon_dri.so",
+        "   343    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/dri/radeonsi_dri.so",
+        "   342    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/dri/swrast_dri.so",
+        "   341    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/dri/virtio_gpu_dri.so",
+        "   340    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/dri/vmwgfx_dri.so",
+        "   339    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/dri/zink_dri.so",
+        "   338    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/dri/i965_drv_video.so",
+        "   337    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/dri/iHD_drv_video.so",
+        "   336    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/dri/nouveau_drv_video.so",
+        "   335    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "   334    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/dri/r600_drv_video.so",
+        "   333    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/dri/radeonsi_drv_video.so",
+        "   332    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/s3g_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "   331    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/vdpau_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "   329    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/libEGL.so.1.1.0",
+        "   328    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/libGLdispatch.so.0.0.0",
+        "   327    0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdl.so.2 -> /run/host/usr/lib/libdl-2.33.so",
+        "   326    0 lrwxrwxrwx   1 leader   leader         30 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libc.so.6 -> /run/host/usr/lib/libc-2.33.so",
+        "   325    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/libBrokenLocale-2.33.so",
+        "   324    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libanl.so.1 -> /run/host/usr/lib/libanl-2.33.so",
+        "   323    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/libpthread-2.33.so",
+        "   322    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/libcrypt-2.33.so",
+        "   321    0 lrwxrwxrwx   1 leader   leader         30 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libm.so.6 -> /run/host/usr/lib/libm-2.33.so",
+        "   320    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libmemusage.so -> /run/host/usr/lib/libmemusage.so",
+        "   319    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libmvec.so.1 -> /run/host/usr/lib/libmvec-2.33.so",
+        "   318    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/libnsl-2.33.so",
+        "   317    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpcprofile.so -> /run/host/usr/lib/libpcprofile.so",
+        "   316    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/libresolv-2.33.so",
+        "   315    0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/librt.so.1 -> /run/host/usr/lib/librt-2.33.so",
+        "   314    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/libthread_db-1.0.so",
+        "   313    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libutil.so.1 -> /run/host/usr/lib/libutil-2.33.so",
+        "   312    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-glsi.so.390.141 -> /run/host/usr/lib/libnvidia-glsi.so.390.141",
+        "   311    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/libgbm.so.1.0.0",
+        "   310    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/libdrm.so.2.4.0",
+        "   309    0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/libwayland-server.so.0.1.0",
+        "   308    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libffi.so.7 -> /run/host/usr/lib/libffi.so.7.1.0",
+        "   307    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/libexpat.so.1.6.12",
+        "   306    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/libglapi.so.0.0.0",
+        "   305    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/libX11-xcb.so.1.0.0",
+        "   304    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/libxcb.so.1.1.0",
+        "   303    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXau.so.6 -> /run/host/usr/lib/libXau.so.6.0.0",
+        "   302    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/libXdmcp.so.6.0.0",
+        "   301    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/libxcb-dri2.so.0.0.0",
+        "   300    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/libxcb-xfixes.so.0.0.0",
+        "   299    0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/libwayland-client.so.0.3.0",
+        "   298    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/libxcb-dri3.so.0.0.0",
+        "   297    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/libxcb-present.so.0.0.0",
+        "   296    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/libxcb-sync.so.1.0.0",
+        "   295    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/libxshmfence.so.1.0.0",
+        "   294    0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/libgcc_s.so.1",
+        "   293    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGL.so.1 -> /run/host/usr/lib/libGL.so.1.7.0",
+        "   292    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/libGLX.so.0.0.0",
+        "   291    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libX11.so.6 -> /run/host/usr/lib/libX11.so.6.4.0",
+        "   290    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/libGLESv1_CM_nvidia.so.390.141",
+        "   289    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib/libGLESv2.so.2.1.0",
+        "   288    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-tls.so.390.141 -> /run/host/usr/lib/libnvidia-tls.so.390.141",
+        "   287    0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-glcore.so.390.141 -> /run/host/usr/lib/libnvidia-glcore.so.390.141",
+        "   286    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXext.so.6 -> /run/host/usr/lib/libXext.so.6.4.0",
+        "   285    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/libGLX_mesa.so.0.0.0",
+        "   284    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/libxcb-glx.so.0.0.0",
+        "   283    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/libXfixes.so.3.1.0",
+        "   282    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/libXxf86vm.so.1.0.0",
+        "   281    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/libxcb-shm.so.0.0.0",
+        "   280    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/libGLX_mesa.so.0.0.0",
+        "   279    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib/libOpenGL.so.0.0.0",
+        "   278    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libvulkan.so.1 -> /run/host/usr/lib/libvulkan.so.1.2.172",
+        "   277    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/libvdpau.so.1.0.0",
+        "   276    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva.so.2 -> /run/host/usr/lib/libva.so.2.1100.0",
+        "   275    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/libva-drm.so.2.1100.0",
+        "   274    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/libva-glx.so.2.1100.0",
+        "   273    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/libva-x11.so.2.1100.0",
+        "   272    0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/libGLESv2_nvidia.so.390.141",
+        "   271    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/libcuda.so.390.141",
+        "   270    0 lrwxrwxrwx   1 leader   leader         54 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-fatbinaryloader.so.390.141 -> /run/host/usr/lib/libnvidia-fatbinaryloader.so.390.141",
+        "   269    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-cfg.so.1 -> /run/host/usr/lib/libnvidia-cfg.so.390.141",
+        "   268    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1 -> /run/host/usr/lib/libnvidia-egl-wayland.so.1.1.6",
+        "   267    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-eglcore.so.390.141 -> /run/host/usr/lib/libnvidia-eglcore.so.390.141",
+        "   266    0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/libnvidia-encode.so.390.141",
+        "   265    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/libnvcuvid.so.390.141",
+        "   264    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/libnvidia-fbc.so.390.141",
+        "   263    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ifr.so.1 -> /run/host/usr/lib/libnvidia-ifr.so.390.141",
+        "   262    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/libnvidia-ml.so.390.141",
+        "   261    0 lrwxrwxrwx   1 leader   leader         53 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/libnvidia-ptxjitcompiler.so.390.141",
+        "   260    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/libOpenCL.so.1.0.0",
+        "   259    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/libstdc++.so.6.0.28",
+        "   258    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libz.so.1 -> /run/host/usr/lib/libz.so.1.2.11",
+        "   257    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/libzstd.so.1.4.9",
+        "   256    0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libLLVM-11.so -> /run/host/usr/lib/libLLVM-11.so",
+        "   255    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libedit.so.0 -> /run/host/usr/lib/libedit.so.0.0.64",
+        "   254    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libncursesw.so.6 -> /run/host/usr/lib/libncursesw.so.6.2",
+        "   253    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/libxml2.so.2.9.10",
+        "   252    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libicuuc.so.68 -> /run/host/usr/lib/libicuuc.so.68.2",
+        "   251    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libicudata.so.68 -> /run/host/usr/lib/libicudata.so.68.2",
+        "   250    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/liblzma.so.5.2.5",
+        "   249    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/libdrm_radeon.so.1.0.1",
+        "   248    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libelf.so.1 -> /run/host/usr/lib/libelf-0.183.so",
+        "   247    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/libdrm_amdgpu.so.1.0.0",
+        "   246    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/libdrm_nouveau.so.2.0.0",
+        "   245    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/libdrm_intel.so.1.0.0",
+        "   244    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/libpciaccess.so.0.11.1",
+        "   243    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/libsensors.so.5.0.0",
+        "   242    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libigdgmm.so.11 -> /run/host/usr/lib/libigdgmm.so.11.2.0",
+        "   241    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/libidn2.so.0.3.7",
+        "   240    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/libunistring.so.2.1.0",
+        "   239    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/libnss_compat-2.33.so",
+        "   238    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_db.so.2 -> /run/host/usr/lib/libnss_db-2.33.so",
+        "   237    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/libnss_files-2.33.so",
+        "   236    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/libnss_dns-2.33.so",
+        "   234    0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-xeon_phi -> x86_64-linux-gnu",
+        "   233    0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-haswell -> x86_64-linux-gnu",
+        "   232    0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-x86_64 -> x86_64-linux-gnu",
+        "   108    0 drwxr-xr-x   7 leader   leader       1680 Apr 20 18:02 overrides/lib/i386-linux-gnu",
+        "   225    0 drwxr-xr-x   2 leader   leader        160 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases",
+        "   231    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/i386-linux-gnu/libbz2.so.1.0",
+        "   230    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libcurl.so.3 -> /usr/lib/i386-linux-gnu/libcurl.so.4",
+        "   229    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/i386-linux-gnu/libcurl-gnutls.so.4",
+        "   228    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libldap-2.4.so.2 -> /usr/lib/i386-linux-gnu/libldap_r-2.4.so.2",
+        "   227    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libvpx.so.1.0 -> /usr/lib/i386-linux-gnu/libvpx.so.1",
+        "   226    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/i386-linux-gnu/libXaw.so.7",
+        "   224    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib32/libEGL_mesa.so.0.0.0",
+        "   221    0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan",
+        "   223    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so -> /run/host/usr/lib32/libvulkan_intel.so",
+        "   222    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so -> /run/host/usr/lib32/libvulkan_radeon.so",
+        "   218    0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer",
+        "   220    0 lrwxrwxrwx   1 leader   leader         73 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/leader/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "   219    0 lrwxrwxrwx   1 leader   leader         70 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/leader/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "   207    0 drwxr-xr-x   2 leader   leader        240 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau",
+        "   217    0 lrwxrwxrwx   1 leader   leader         51 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1.0.0",
+        "   216    0 lrwxrwxrwx   1 leader   leader         51 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1.0.0",
+        "   215    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib32/vdpau/libvdpau_r300.so.1.0.0",
+        "   214    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_r300.so.1.0.0",
+        "   213    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib32/vdpau/libvdpau_r600.so.1.0.0",
+        "   212    0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_r600.so.1.0.0",
+        "   211    0 lrwxrwxrwx   1 leader   leader         52 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "   210    0 lrwxrwxrwx   1 leader   leader         52 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "   209    0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_trace.so -> /run/host/usr/lib32/vdpau/libvdpau_trace.so.1.0.0",
+        "   208    0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_trace.so.1.0.0",
+        "   185    0 drwxr-xr-x   2 leader   leader        460 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri",
+        "   206    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib32/dri/i915_dri.so",
+        "   205    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib32/dri/i965_dri.so",
+        "   204    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib32/dri/iris_dri.so",
+        "   203    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib32/dri/kms_swrast_dri.so",
+        "   202    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib32/dri/nouveau_dri.so",
+        "   201    0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib32/dri/nouveau_vieux_dri.so",
+        "   200    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib32/dri/r200_dri.so",
+        "   199    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib32/dri/r300_dri.so",
+        "   198    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib32/dri/r600_dri.so",
+        "   197    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib32/dri/radeon_dri.so",
+        "   196    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib32/dri/radeonsi_dri.so",
+        "   195    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib32/dri/swrast_dri.so",
+        "   194    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib32/dri/virtio_gpu_dri.so",
+        "   193    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib32/dri/vmwgfx_dri.so",
+        "   192    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib32/dri/i965_drv_video.so",
+        "   191    0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib32/dri/nouveau_drv_video.so",
+        "   190    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "   189    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib32/dri/r600_drv_video.so",
+        "   188    0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib32/dri/radeonsi_drv_video.so",
+        "   187    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/s3g_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "   186    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/vdpau_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "   184    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libEGL.so.1 -> /run/host/usr/lib32/libEGL.so.1.1.0",
+        "   183    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib32/libGLdispatch.so.0.0.0",
+        "   182    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdl.so.2 -> /run/host/usr/lib32/libdl-2.33.so",
+        "   181    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/i386-linux-gnu/libc.so.6 -> /run/host/usr/lib32/libc-2.33.so",
+        "   180    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib32/libBrokenLocale-2.33.so",
+        "   179    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libanl.so.1 -> /run/host/usr/lib32/libanl-2.33.so",
+        "   178    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpthread.so.0 -> /run/host/usr/lib32/libpthread-2.33.so",
+        "   177    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib32/libcrypt-2.33.so",
+        "   176    0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/i386-linux-gnu/libm.so.6 -> /run/host/usr/lib32/libm-2.33.so",
+        "   175    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libmemusage.so -> /run/host/usr/lib32/libmemusage.so",
+        "   174    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnsl.so.1 -> /run/host/usr/lib32/libnsl-2.33.so",
+        "   173    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpcprofile.so -> /run/host/usr/lib32/libpcprofile.so",
+        "   172    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libresolv.so.2 -> /run/host/usr/lib32/libresolv-2.33.so",
+        "   171    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/librt.so.1 -> /run/host/usr/lib32/librt-2.33.so",
+        "   170    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib32/libthread_db-1.0.so",
+        "   169    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libutil.so.1 -> /run/host/usr/lib32/libutil-2.33.so",
+        "   168    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libgbm.so.1 -> /run/host/usr/lib32/libgbm.so.1.0.0",
+        "   167    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm.so.2 -> /run/host/usr/lib32/libdrm.so.2.4.0",
+        "   166    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/i386-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib32/libwayland-server.so.0.1.0",
+        "   165    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libffi.so.7 -> /run/host/usr/lib32/libffi.so.7.1.0",
+        "   164    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libexpat.so.1 -> /run/host/usr/lib32/libexpat.so.1.6.12",
+        "   163    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libglapi.so.0 -> /run/host/usr/lib32/libglapi.so.0.0.0",
+        "   162    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib32/libX11-xcb.so.1.0.0",
+        "   161    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb.so.1 -> /run/host/usr/lib32/libxcb.so.1.1.0",
+        "   160    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXau.so.6 -> /run/host/usr/lib32/libXau.so.6.0.0",
+        "   159    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib32/libXdmcp.so.6.0.0",
+        "   158    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib32/libxcb-dri2.so.0.0.0",
+        "   157    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib32/libxcb-xfixes.so.0.0.0",
+        "   156    0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/i386-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib32/libwayland-client.so.0.3.0",
+        "   155    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib32/libxcb-dri3.so.0.0.0",
+        "   154    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib32/libxcb-present.so.0.0.0",
+        "   153    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib32/libxcb-sync.so.1.0.0",
+        "   152    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib32/libxshmfence.so.1.0.0",
+        "   151    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib32/libgcc_s.so.1",
+        "   150    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGL.so.1 -> /run/host/usr/lib32/libGL.so.1.7.0",
+        "   149    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX.so.0 -> /run/host/usr/lib32/libGLX.so.0.0.0",
+        "   148    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libX11.so.6 -> /run/host/usr/lib32/libX11.so.6.4.0",
+        "   147    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib32/libGLESv2.so.2.1.0",
+        "   146    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib32/libGLX_mesa.so.0.0.0",
+        "   145    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib32/libxcb-glx.so.0.0.0",
+        "   144    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXext.so.6 -> /run/host/usr/lib32/libXext.so.6.4.0",
+        "   143    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib32/libXfixes.so.3.1.0",
+        "   142    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib32/libXxf86vm.so.1.0.0",
+        "   141    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib32/libxcb-shm.so.0.0.0",
+        "   140    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib32/libGLX_mesa.so.0.0.0",
+        "   139    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib32/libOpenGL.so.0.0.0",
+        "   138    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libvulkan.so.1 -> /run/host/usr/lib32/libvulkan.so.1.2.172",
+        "   137    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib32/libvdpau.so.1.0.0",
+        "   136    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva.so.2 -> /run/host/usr/lib32/libva.so.2.1100.0",
+        "   135    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib32/libva-drm.so.2.1100.0",
+        "   134    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib32/libva-glx.so.2.1100.0",
+        "   133    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib32/libva-x11.so.2.1100.0",
+        "   132    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib32/libOpenCL.so.1.0.0",
+        "   131    0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libz.so.1 -> /run/host/usr/lib32/libz.so.1.2.11",
+        "   130    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libzstd.so.1 -> /run/host/usr/lib32/libzstd.so.1.4.9",
+        "   129    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib32/libxcb-randr.so.0.1.0",
+        "   128    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib32/libstdc++.so.6.0.28",
+        "   127    0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libLLVM-11.so -> /run/host/usr/lib32/libLLVM-11.so",
+        "   126    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libncursesw.so.6 -> /run/host/usr/lib32/libncursesw.so.6.2",
+        "   125    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxml2.so.2 -> /run/host/usr/lib32/libxml2.so.2.9.10",
+        "   124    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libicuuc.so.68 -> /run/host/usr/lib32/libicuuc.so.68.2",
+        "   123    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libicudata.so.68 -> /run/host/usr/lib32/libicudata.so.68.2",
+        "   122    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/liblzma.so.5 -> /run/host/usr/lib32/liblzma.so.5.2.5",
+        "   121    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib32/libdrm_amdgpu.so.1.0.0",
+        "   120    0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libelf.so.1 -> /run/host/usr/lib32/libelf-0.183.so",
+        "   119    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib32/libdrm_radeon.so.1.0.1",
+        "   118    0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib32/libdrm_nouveau.so.2.0.0",
+        "   117    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib32/libdrm_intel.so.1.0.0",
+        "   116    0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib32/libpciaccess.so.0.11.1",
+        "   115    0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libsensors.so.5 -> /run/host/usr/lib32/libsensors.so.5.0.0",
+        "   114    0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libidn2.so.0 -> /run/host/usr/lib32/libidn2.so.0.3.7",
+        "   113    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libunistring.so.2 -> /run/host/usr/lib32/libunistring.so.2.1.0",
+        "   112    0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib32/libnss_compat-2.33.so",
+        "   111    0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_db.so.2 -> /run/host/usr/lib32/libnss_db-2.33.so",
+        "   110    0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib32/libnss_files-2.33.so",
+        "   109    0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib32/libnss_dns-2.33.so",
+        "   107    0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i686 -> i386-linux-gnu",
+        "   106    0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i586 -> i386-linux-gnu",
+        "   105    0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i486 -> i386-linux-gnu",
+        "   104    0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i386 -> i386-linux-gnu",
+        "    79    0 drwxr-xr-x   4 leader   leader         80 Apr 20 18:02 overrides/share",
+        "    84    0 drwxr-xr-x   5 leader   leader        100 Apr 20 18:02 overrides/share/vulkan",
+        "    96    0 drwxr-xr-x   2 leader   leader         40 Apr 20 18:02 overrides/share/vulkan/explicit_layer.d",
+        "    87    0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d",
+        "    94    4 -rw-------   0 leader   leader        700 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "    92    4 -rw-------   0 leader   leader        702 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "    90    4 -rw-------   0 leader   leader        512 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "    88    4 -rw-------   0 leader   leader        514 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "    85    0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/share/vulkan/icd.d",
+        "   101    4 -rw-------   0 leader   leader        164 Apr 20 18:02 overrides/share/vulkan/icd.d/0-i386-linux-gnu.json",
+        "    99    4 -rw-------   0 leader   leader        165 Apr 20 18:02 overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "    97    4 -rw-------   0 leader   leader        159 Apr 20 18:02 overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+        "12717199    4 -rw-r--r--   1 nobody   nobody        139 Mar 18 14:20 overrides/share/vulkan/icd.d/2.json",
+        "    80    0 drwxr-xr-x   3 leader   leader         60 Apr 20 18:02 overrides/share/glvnd",
+        "    81    0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/share/glvnd/egl_vendor.d",
+        "11813456    4 -rw-r--r--   1 nobody   nobody        105 Apr  5 12:31 overrides/share/glvnd/egl_vendor.d/1.json",
+        "11813993    4 -rw-r--r--   1 nobody   nobody        107 Mar 18 14:20 overrides/share/glvnd/egl_vendor.d/0.json"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "steamrt",
+    "id_like" : [
+      "ubuntu",
+      "debian"
+    ],
+    "name" : "Steam Runtime",
+    "pretty_name" : "Steam Runtime 1 (scout)",
+    "version_id" : "1",
+    "version_codename" : "scout",
+    "build_id" : "0.20210317.0",
+    "variant_id" : "com.valvesoftware.steamruntime.platform-amd64_i386-scout",
+    "variant" : "Platform"
+  },
+  "container" : {
+    "type" : "pressure-vessel",
+    "host" : {
+      "path" : "/run/host",
+      "os-release" : {
+        "id" : "manjaro",
+        "id_like" : [
+          "arch"
+        ],
+        "name" : "Manjaro Linux",
+        "pretty_name" : "Manjaro Linux",
+        "build_id" : "rolling"
+      }
+    }
+  },
+  "driver_environment" : [
+    "DISPLAY=:99.0",
+    "LD_LIBRARY_PATH=/overrides/lib/x86_64-linux-gnu:/overrides/lib/x86_64-linux-gnu/aliases:/overrides/lib/i386-linux-gnu:/overrides/lib/i386-linux-gnu/aliases",
+    "PULSE_CLIENTCONFIG=/run/user/1000/pulse/config",
+    "PULSE_SERVER=unix:/run/user/1000/pulse/native",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n030000006d04000016c2000011010000,Logitech Dual Action,a:b1,b:b2,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b10,lefttrigger:b6,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b11,righttrigger:b7,rightx:a2,righty:a3,start:b9,x:b0,y:b3,\n030000006d0400001dc2000014400000,Logitech F310 Gamepad (XInput),a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,",
+    "VK_ICD_FILENAMES=/overrides/share/vulkan/icd.d/0-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/2.json:/overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "__EGL_VENDOR_LIBRARY_FILENAMES=/overrides/share/glvnd/egl_vendor.d/0.json:/overrides/share/glvnd/egl_vendor.d/1.json"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib/i386-linux-gnu/ld-2.15.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0"
+          ],
+          "renderer" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "1.2.145 (device 0x8086:0x1616) (driver 21.0.1)",
+          "devices" : [
+            {
+              "name" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+              "api-version" : "1.2.145",
+              "driver-version" : "21.0.1",
+              "vendor-id" : "0x8086",
+              "device-id" : "0x1616",
+              "type" : "integrated-gpu"
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.11.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+            "libva error: dlopen of /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so failed: /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so: wrong ELF class: ELFCLASS64",
+            "libva info: Trying to open /overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+            "libva error: dlopen of /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so failed: /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so: wrong ELF class: ELFCLASS64",
+            "libva info: Trying to open /overrides/lib/i386-linux-gnu/dri/i965_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0",
+            "vaEndPicture (va_display, context) failed: invalid parameter (18)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nvidia_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/s3g_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/vdpau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/usr/lib/i386-linux-gnu/dri/dummy_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib32/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib32/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/x86_64-linux-gnu/ld-2.15.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "*** stack smashing detected ***: terminated"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : 134,
+          "terminating-signal" : 6,
+          "terminating-signal-name" : "Aborted",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.11.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_10",
+            "libva info: va_openDriver() returns 0",
+            "vaCreateBuffer (va_display, context, VAPictureParameterBufferType, sizeof (VAPictureParameterBufferH264), 1, &pic_param_h264, &pic_param_buf) failed: invalid VAContextID (5)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/iHD_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nvidia_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/s3g_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/vdpau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/usr/lib/x86_64-linux-gnu/dri/dummy_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.390.141",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_nvidia.so.390.141"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+    "c-utf8-missing",
+    "i18n-supported-missing"
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "LC_CTYPE=en_IN;LC_NUMERIC=en_IN;LC_TIME=en_IN;LC_COLLATE=C;LC_MONETARY=en_IN;LC_MESSAGES=en_IN;LC_PAPER=en_IN;LC_NAME=en_IN;LC_ADDRESS=en_IN;LC_TELEPHONE=en_IN;LC_MEASUREMENT=en_IN;LC_IDENTIFICATION=en_IN",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "error-domain" : "srt-locale-error-quark",
+      "error-code" : 0,
+      "error" : "No such file or directory"
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/glvnd/egl_vendor.d/0.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/glvnd/egl_vendor.d/1.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/0-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/2.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.0.65",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan/amdvlk64.so",
+        "api_version" : "1.2.170",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+
+"soldier runtime container" information:
+{
+  "can-write-uinput" : true,
+  "steam-installation" : {
+    "path" : "/home/leader/.local/share/Steam",
+    "data_path" : "/home/leader/.local/share/Steam",
+    "bin32_path" : "/home/leader/.local/share/Steam/ubuntu12_32",
+    "steamscript_path" : "/usr/lib/steam/steam",
+    "steamscript_version" : "1.0.0.69",
+    "issues" : [
+      "missing-steam-uri-handler",
+      "unexpected-steam-uri-handler"
+    ]
+  },
+  "runtime" : {
+    "path" : "/",
+    "version" : "0.20210317.0",
+    "issues" : [
+    ],
+    "overrides" : {
+      "list" : [
+        "       79      0 drwxr-xr-x   4 leader   leader         80 Apr 20 18:02 overrides",
+        "      104      0 drwxr-xr-x   4 leader   leader        220 Apr 20 18:02 overrides/lib",
+        "      234      0 drwxr-xr-x   7 leader   leader       2080 Apr 20 18:02 overrides/lib/x86_64-linux-gnu",
+        "      374      0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases",
+        "      378      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/x86_64-linux-gnu/libbz2.so.1.0",
+        "      377      0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4",
+        "      376      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/x86_64-linux-gnu/libOSMesa.so.8",
+        "      375      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/x86_64-linux-gnu/libXaw.so.7",
+        "      373      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL_nvidia.so.0 -> /run/host/usr/lib/libEGL_nvidia.so.390.141",
+        "      372      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib/libEGL_mesa.so.0.0.0",
+        "      371      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_nvidia.so.0 -> /run/host/usr/lib/libGLX_nvidia.so.390.141",
+        "      369      0 drwxr-xr-x   2 leader   leader         60 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan",
+        "      370      0 lrwxrwxrwx   1 leader   leader         29 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan/amdvlk64.so -> /run/host/usr/lib/amdvlk64.so",
+        "      366      0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer",
+        "      368      0 lrwxrwxrwx   1 leader   leader         73 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/leader/.local/share/Steam/ubuntu12_64/libVkLayer_steam_fossilize.so",
+        "      367      0 lrwxrwxrwx   1 leader   leader         70 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/leader/.local/share/Steam/ubuntu12_64/steamoverlayvulkanlayer.so",
+        "      353      0 drwxr-xr-x   2 leader   leader        280 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau",
+        "      365      0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      364      0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      363      0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so -> /run/host/usr/lib/vdpau/libvdpau_nvidia.so.390.141",
+        "      362      0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.1 -> /run/host/usr/lib/vdpau/libvdpau_nvidia.so.390.141",
+        "      361      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib/vdpau/libvdpau_r300.so.1.0.0",
+        "      360      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib/vdpau/libvdpau_r300.so.1.0.0",
+        "      359      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib/vdpau/libvdpau_r600.so.1.0.0",
+        "      358      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib/vdpau/libvdpau_r600.so.1.0.0",
+        "      357      0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      356      0 lrwxrwxrwx   1 leader   leader         50 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      355      0 lrwxrwxrwx   1 leader   leader         47 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so -> /run/host/usr/lib/vdpau/libvdpau_trace.so.1.0.0",
+        "      354      0 lrwxrwxrwx   1 leader   leader         47 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib/vdpau/libvdpau_trace.so.1.0.0",
+        "      329      0 drwxr-xr-x   2 leader   leader        500 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri",
+        "      352      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib/dri/i915_dri.so",
+        "      351      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib/dri/i965_dri.so",
+        "      350      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib/dri/iris_dri.so",
+        "      349      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib/dri/kms_swrast_dri.so",
+        "      348      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib/dri/nouveau_dri.so",
+        "      347      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib/dri/nouveau_vieux_dri.so",
+        "      346      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib/dri/r200_dri.so",
+        "      345      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib/dri/r300_dri.so",
+        "      344      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib/dri/r600_dri.so",
+        "      343      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib/dri/radeon_dri.so",
+        "      342      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib/dri/radeonsi_dri.so",
+        "      341      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib/dri/swrast_dri.so",
+        "      340      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib/dri/virtio_gpu_dri.so",
+        "      339      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib/dri/vmwgfx_dri.so",
+        "      338      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/zink_dri.so -> /run/host/usr/lib/dri/zink_dri.so",
+        "      337      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib/dri/i965_drv_video.so",
+        "      336      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so -> /run/host/usr/lib/dri/iHD_drv_video.so",
+        "      335      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib/dri/nouveau_drv_video.so",
+        "      334      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "      333      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib/dri/r600_drv_video.so",
+        "      332      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib/dri/radeonsi_drv_video.so",
+        "      331      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/s3g_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "      330      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/dri/vdpau_drv_video.so -> /run/host/usr/lib/dri/vdpau_drv_video.so",
+        "      328      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libEGL.so.1 -> /run/host/usr/lib/libEGL.so.1.1.0",
+        "      327      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib/libGLdispatch.so.0.0.0",
+        "      326      0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdl.so.2 -> /run/host/usr/lib/libdl-2.33.so",
+        "      325      0 lrwxrwxrwx   1 leader   leader         30 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libc.so.6 -> /run/host/usr/lib/libc-2.33.so",
+        "      324      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib/libBrokenLocale-2.33.so",
+        "      323      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libanl.so.1 -> /run/host/usr/lib/libanl-2.33.so",
+        "      322      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpthread.so.0 -> /run/host/usr/lib/libpthread-2.33.so",
+        "      321      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib/libcrypt-2.33.so",
+        "      320      0 lrwxrwxrwx   1 leader   leader         30 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libm.so.6 -> /run/host/usr/lib/libm-2.33.so",
+        "      319      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libmemusage.so -> /run/host/usr/lib/libmemusage.so",
+        "      318      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libmvec.so.1 -> /run/host/usr/lib/libmvec-2.33.so",
+        "      317      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnsl.so.1 -> /run/host/usr/lib/libnsl-2.33.so",
+        "      316      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpcprofile.so -> /run/host/usr/lib/libpcprofile.so",
+        "      315      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libresolv.so.2 -> /run/host/usr/lib/libresolv-2.33.so",
+        "      314      0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/librt.so.1 -> /run/host/usr/lib/librt-2.33.so",
+        "      313      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib/libthread_db-1.0.so",
+        "      312      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libutil.so.1 -> /run/host/usr/lib/libutil-2.33.so",
+        "      311      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-glsi.so.390.141 -> /run/host/usr/lib/libnvidia-glsi.so.390.141",
+        "      310      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libgbm.so.1 -> /run/host/usr/lib/libgbm.so.1.0.0",
+        "      309      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm.so.2 -> /run/host/usr/lib/libdrm.so.2.4.0",
+        "      308      0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib/libwayland-server.so.0.1.0",
+        "      307      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libffi.so.7 -> /run/host/usr/lib/libffi.so.7.1.0",
+        "      306      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libexpat.so.1 -> /run/host/usr/lib/libexpat.so.1.6.12",
+        "      305      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libglapi.so.0 -> /run/host/usr/lib/libglapi.so.0.0.0",
+        "      304      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib/libX11-xcb.so.1.0.0",
+        "      303      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb.so.1 -> /run/host/usr/lib/libxcb.so.1.1.0",
+        "      302      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXau.so.6 -> /run/host/usr/lib/libXau.so.6.0.0",
+        "      301      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib/libXdmcp.so.6.0.0",
+        "      300      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib/libxcb-dri2.so.0.0.0",
+        "      299      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib/libxcb-xfixes.so.0.0.0",
+        "      298      0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib/libwayland-client.so.0.3.0",
+        "      297      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib/libxcb-dri3.so.0.0.0",
+        "      296      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib/libxcb-present.so.0.0.0",
+        "      295      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib/libxcb-sync.so.1.0.0",
+        "      294      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib/libxshmfence.so.1.0.0",
+        "      293      0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib/libgcc_s.so.1",
+        "      292      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGL.so.1 -> /run/host/usr/lib/libGL.so.1.7.0",
+        "      291      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX.so.0 -> /run/host/usr/lib/libGLX.so.0.0.0",
+        "      290      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libX11.so.6 -> /run/host/usr/lib/libX11.so.6.4.0",
+        "      289      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv1_CM_nvidia.so.1 -> /run/host/usr/lib/libGLESv1_CM_nvidia.so.390.141",
+        "      288      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib/libGLESv2.so.2.1.0",
+        "      287      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-tls.so.390.141 -> /run/host/usr/lib/libnvidia-tls.so.390.141",
+        "      286      0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-glcore.so.390.141 -> /run/host/usr/lib/libnvidia-glcore.so.390.141",
+        "      285      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXext.so.6 -> /run/host/usr/lib/libXext.so.6.4.0",
+        "      284      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib/libGLX_mesa.so.0.0.0",
+        "      283      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib/libxcb-glx.so.0.0.0",
+        "      282      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib/libXfixes.so.3.1.0",
+        "      281      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib/libXxf86vm.so.1.0.0",
+        "      280      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib/libxcb-shm.so.0.0.0",
+        "      279      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib/libGLX_mesa.so.0.0.0",
+        "      278      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib/libOpenGL.so.0.0.0",
+        "      277      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libvulkan.so.1 -> /run/host/usr/lib/libvulkan.so.1.2.172",
+        "      276      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib/libvdpau.so.1.0.0",
+        "      275      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva.so.2 -> /run/host/usr/lib/libva.so.2.1100.0",
+        "      274      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib/libva-drm.so.2.1100.0",
+        "      273      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib/libva-glx.so.2.1100.0",
+        "      272      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib/libva-x11.so.2.1100.0",
+        "      271      0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.2 -> /run/host/usr/lib/libGLESv2_nvidia.so.390.141",
+        "      270      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libcuda.so.1 -> /run/host/usr/lib/libcuda.so.390.141",
+        "      269      0 lrwxrwxrwx   1 leader   leader         54 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-fatbinaryloader.so.390.141 -> /run/host/usr/lib/libnvidia-fatbinaryloader.so.390.141",
+        "      268      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-cfg.so.1 -> /run/host/usr/lib/libnvidia-cfg.so.390.141",
+        "      267      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1 -> /run/host/usr/lib/libnvidia-egl-wayland.so.1.1.6",
+        "      266      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-eglcore.so.390.141 -> /run/host/usr/lib/libnvidia-eglcore.so.390.141",
+        "      265      0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-encode.so.1 -> /run/host/usr/lib/libnvidia-encode.so.390.141",
+        "      264      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvcuvid.so.1 -> /run/host/usr/lib/libnvcuvid.so.390.141",
+        "      263      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-fbc.so.1 -> /run/host/usr/lib/libnvidia-fbc.so.390.141",
+        "      262      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ifr.so.1 -> /run/host/usr/lib/libnvidia-ifr.so.390.141",
+        "      261      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ml.so.1 -> /run/host/usr/lib/libnvidia-ml.so.390.141",
+        "      260      0 lrwxrwxrwx   1 leader   leader         53 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1 -> /run/host/usr/lib/libnvidia-ptxjitcompiler.so.390.141",
+        "      259      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib/libOpenCL.so.1.0.0",
+        "      258      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib/libstdc++.so.6.0.28",
+        "      257      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libz.so.1 -> /run/host/usr/lib/libz.so.1.2.11",
+        "      256      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libzstd.so.1 -> /run/host/usr/lib/libzstd.so.1.4.9",
+        "      255      0 lrwxrwxrwx   1 leader   leader         31 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libLLVM-11.so -> /run/host/usr/lib/libLLVM-11.so",
+        "      254      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libedit.so.0 -> /run/host/usr/lib/libedit.so.0.0.64",
+        "      253      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libncursesw.so.6 -> /run/host/usr/lib/libncursesw.so.6.2",
+        "      252      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libxml2.so.2 -> /run/host/usr/lib/libxml2.so.2.9.10",
+        "      251      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libicuuc.so.68 -> /run/host/usr/lib/libicuuc.so.68.2",
+        "      250      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libicudata.so.68 -> /run/host/usr/lib/libicudata.so.68.2",
+        "      249      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/liblzma.so.5 -> /run/host/usr/lib/liblzma.so.5.2.5",
+        "      248      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib/libdrm_radeon.so.1.0.1",
+        "      247      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libelf.so.1 -> /run/host/usr/lib/libelf-0.183.so",
+        "      246      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib/libdrm_amdgpu.so.1.0.0",
+        "      245      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib/libdrm_nouveau.so.2.0.0",
+        "      244      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib/libdrm_intel.so.1.0.0",
+        "      243      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib/libpciaccess.so.0.11.1",
+        "      242      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libsensors.so.5 -> /run/host/usr/lib/libsensors.so.5.0.0",
+        "      241      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libigdgmm.so.11 -> /run/host/usr/lib/libigdgmm.so.11.2.0",
+        "      240      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libidn2.so.0 -> /run/host/usr/lib/libidn2.so.0.3.7",
+        "      239      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libunistring.so.2 -> /run/host/usr/lib/libunistring.so.2.1.0",
+        "      238      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib/libnss_compat-2.33.so",
+        "      237      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_db.so.2 -> /run/host/usr/lib/libnss_db-2.33.so",
+        "      236      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib/libnss_files-2.33.so",
+        "      235      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/x86_64-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib/libnss_dns-2.33.so",
+        "      233      0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-xeon_phi -> x86_64-linux-gnu",
+        "      232      0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-haswell -> x86_64-linux-gnu",
+        "      231      0 lrwxrwxrwx   1 leader   leader         16 Apr 20 18:02 overrides/lib/platform-x86_64 -> x86_64-linux-gnu",
+        "      109      0 drwxr-xr-x   7 leader   leader       1680 Apr 20 18:02 overrides/lib/i386-linux-gnu",
+        "      226      0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases",
+        "      230      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libbz2.so.1 -> /usr/lib/i386-linux-gnu/libbz2.so.1.0",
+        "      229      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libcurl-gnutls.so.3 -> /usr/lib/i386-linux-gnu/libcurl-gnutls.so.4",
+        "      228      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libOSMesa.so.6 -> /usr/lib/i386-linux-gnu/libOSMesa.so.8",
+        "      227      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/aliases/libXaw7.so.7 -> /usr/lib/i386-linux-gnu/libXaw.so.7",
+        "      225      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libEGL_mesa.so.0 -> /run/host/usr/lib32/libEGL_mesa.so.0.0.0",
+        "      222      0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan",
+        "      224      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so -> /run/host/usr/lib32/libvulkan_intel.so",
+        "      223      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so -> /run/host/usr/lib32/libvulkan_radeon.so",
+        "      219      0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer",
+        "      221      0 lrwxrwxrwx   1 leader   leader         73 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so -> /home/leader/.local/share/Steam/ubuntu12_32/libVkLayer_steam_fossilize.so",
+        "      220      0 lrwxrwxrwx   1 leader   leader         70 Apr 20 18:02 overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so -> /home/leader/.local/share/Steam/ubuntu12_32/steamoverlayvulkanlayer.so",
+        "      208      0 drwxr-xr-x   2 leader   leader        240 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau",
+        "      218      0 lrwxrwxrwx   1 leader   leader         51 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so -> /run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      217      0 lrwxrwxrwx   1 leader   leader         51 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_nouveau.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1.0.0",
+        "      216      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so -> /run/host/usr/lib32/vdpau/libvdpau_r300.so.1.0.0",
+        "      215      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r300.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_r300.so.1.0.0",
+        "      214      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so -> /run/host/usr/lib32/vdpau/libvdpau_r600.so.1.0.0",
+        "      213      0 lrwxrwxrwx   1 leader   leader         48 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_r600.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_r600.so.1.0.0",
+        "      212      0 lrwxrwxrwx   1 leader   leader         52 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so -> /run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      211      0 lrwxrwxrwx   1 leader   leader         52 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_radeonsi.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1.0.0",
+        "      210      0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_trace.so -> /run/host/usr/lib32/vdpau/libvdpau_trace.so.1.0.0",
+        "      209      0 lrwxrwxrwx   1 leader   leader         49 Apr 20 18:02 overrides/lib/i386-linux-gnu/vdpau/libvdpau_trace.so.1 -> /run/host/usr/lib32/vdpau/libvdpau_trace.so.1.0.0",
+        "      186      0 drwxr-xr-x   2 leader   leader        460 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri",
+        "      207      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i915_dri.so -> /run/host/usr/lib32/dri/i915_dri.so",
+        "      206      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i965_dri.so -> /run/host/usr/lib32/dri/i965_dri.so",
+        "      205      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/iris_dri.so -> /run/host/usr/lib32/dri/iris_dri.so",
+        "      204      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so -> /run/host/usr/lib32/dri/kms_swrast_dri.so",
+        "      203      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_dri.so -> /run/host/usr/lib32/dri/nouveau_dri.so",
+        "      202      0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so -> /run/host/usr/lib32/dri/nouveau_vieux_dri.so",
+        "      201      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r200_dri.so -> /run/host/usr/lib32/dri/r200_dri.so",
+        "      200      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r300_dri.so -> /run/host/usr/lib32/dri/r300_dri.so",
+        "      199      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r600_dri.so -> /run/host/usr/lib32/dri/r600_dri.so",
+        "      198      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeon_dri.so -> /run/host/usr/lib32/dri/radeon_dri.so",
+        "      197      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so -> /run/host/usr/lib32/dri/radeonsi_dri.so",
+        "      196      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/swrast_dri.so -> /run/host/usr/lib32/dri/swrast_dri.so",
+        "      195      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so -> /run/host/usr/lib32/dri/virtio_gpu_dri.so",
+        "      194      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so -> /run/host/usr/lib32/dri/vmwgfx_dri.so",
+        "      193      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/i965_drv_video.so -> /run/host/usr/lib32/dri/i965_drv_video.so",
+        "      192      0 lrwxrwxrwx   1 leader   leader         44 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so -> /run/host/usr/lib32/dri/nouveau_drv_video.so",
+        "      191      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "      190      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/r600_drv_video.so -> /run/host/usr/lib32/dri/r600_drv_video.so",
+        "      189      0 lrwxrwxrwx   1 leader   leader         45 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so -> /run/host/usr/lib32/dri/radeonsi_drv_video.so",
+        "      188      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/s3g_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "      187      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/dri/vdpau_drv_video.so -> /run/host/usr/lib32/dri/vdpau_drv_video.so",
+        "      185      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libEGL.so.1 -> /run/host/usr/lib32/libEGL.so.1.1.0",
+        "      184      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLdispatch.so.0 -> /run/host/usr/lib32/libGLdispatch.so.0.0.0",
+        "      183      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdl.so.2 -> /run/host/usr/lib32/libdl-2.33.so",
+        "      182      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/i386-linux-gnu/libc.so.6 -> /run/host/usr/lib32/libc-2.33.so",
+        "      181      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libBrokenLocale.so.1 -> /run/host/usr/lib32/libBrokenLocale-2.33.so",
+        "      180      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libanl.so.1 -> /run/host/usr/lib32/libanl-2.33.so",
+        "      179      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpthread.so.0 -> /run/host/usr/lib32/libpthread-2.33.so",
+        "      178      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libcrypt.so.1 -> /run/host/usr/lib32/libcrypt-2.33.so",
+        "      177      0 lrwxrwxrwx   1 leader   leader         32 Apr 20 18:02 overrides/lib/i386-linux-gnu/libm.so.6 -> /run/host/usr/lib32/libm-2.33.so",
+        "      176      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libmemusage.so -> /run/host/usr/lib32/libmemusage.so",
+        "      175      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnsl.so.1 -> /run/host/usr/lib32/libnsl-2.33.so",
+        "      174      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpcprofile.so -> /run/host/usr/lib32/libpcprofile.so",
+        "      173      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libresolv.so.2 -> /run/host/usr/lib32/libresolv-2.33.so",
+        "      172      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/librt.so.1 -> /run/host/usr/lib32/librt-2.33.so",
+        "      171      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libthread_db.so.1 -> /run/host/usr/lib32/libthread_db-1.0.so",
+        "      170      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libutil.so.1 -> /run/host/usr/lib32/libutil-2.33.so",
+        "      169      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libgbm.so.1 -> /run/host/usr/lib32/libgbm.so.1.0.0",
+        "      168      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm.so.2 -> /run/host/usr/lib32/libdrm.so.2.4.0",
+        "      167      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/i386-linux-gnu/libwayland-server.so.0 -> /run/host/usr/lib32/libwayland-server.so.0.1.0",
+        "      166      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libffi.so.7 -> /run/host/usr/lib32/libffi.so.7.1.0",
+        "      165      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libexpat.so.1 -> /run/host/usr/lib32/libexpat.so.1.6.12",
+        "      164      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libglapi.so.0 -> /run/host/usr/lib32/libglapi.so.0.0.0",
+        "      163      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libX11-xcb.so.1 -> /run/host/usr/lib32/libX11-xcb.so.1.0.0",
+        "      162      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb.so.1 -> /run/host/usr/lib32/libxcb.so.1.1.0",
+        "      161      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXau.so.6 -> /run/host/usr/lib32/libXau.so.6.0.0",
+        "      160      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXdmcp.so.6 -> /run/host/usr/lib32/libXdmcp.so.6.0.0",
+        "      159      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-dri2.so.0 -> /run/host/usr/lib32/libxcb-dri2.so.0.0.0",
+        "      158      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-xfixes.so.0 -> /run/host/usr/lib32/libxcb-xfixes.so.0.0.0",
+        "      157      0 lrwxrwxrwx   1 leader   leader         46 Apr 20 18:02 overrides/lib/i386-linux-gnu/libwayland-client.so.0 -> /run/host/usr/lib32/libwayland-client.so.0.3.0",
+        "      156      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-dri3.so.0 -> /run/host/usr/lib32/libxcb-dri3.so.0.0.0",
+        "      155      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-present.so.0 -> /run/host/usr/lib32/libxcb-present.so.0.0.0",
+        "      154      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-sync.so.1 -> /run/host/usr/lib32/libxcb-sync.so.1.0.0",
+        "      153      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxshmfence.so.1 -> /run/host/usr/lib32/libxshmfence.so.1.0.0",
+        "      152      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libgcc_s.so.1 -> /run/host/usr/lib32/libgcc_s.so.1",
+        "      151      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGL.so.1 -> /run/host/usr/lib32/libGL.so.1.7.0",
+        "      150      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX.so.0 -> /run/host/usr/lib32/libGLX.so.0.0.0",
+        "      149      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libX11.so.6 -> /run/host/usr/lib32/libX11.so.6.4.0",
+        "      148      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLESv2.so.2 -> /run/host/usr/lib32/libGLESv2.so.2.1.0",
+        "      147      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX_mesa.so.0 -> /run/host/usr/lib32/libGLX_mesa.so.0.0.0",
+        "      146      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-glx.so.0 -> /run/host/usr/lib32/libxcb-glx.so.0.0.0",
+        "      145      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXext.so.6 -> /run/host/usr/lib32/libXext.so.6.4.0",
+        "      144      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXfixes.so.3 -> /run/host/usr/lib32/libXfixes.so.3.1.0",
+        "      143      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libXxf86vm.so.1 -> /run/host/usr/lib32/libXxf86vm.so.1.0.0",
+        "      142      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-shm.so.0 -> /run/host/usr/lib32/libxcb-shm.so.0.0.0",
+        "      141      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libGLX_indirect.so.0 -> /run/host/usr/lib32/libGLX_mesa.so.0.0.0",
+        "      140      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libOpenGL.so.0 -> /run/host/usr/lib32/libOpenGL.so.0.0.0",
+        "      139      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libvulkan.so.1 -> /run/host/usr/lib32/libvulkan.so.1.2.172",
+        "      138      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libvdpau.so.1 -> /run/host/usr/lib32/libvdpau.so.1.0.0",
+        "      137      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva.so.2 -> /run/host/usr/lib32/libva.so.2.1100.0",
+        "      136      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-drm.so.2 -> /run/host/usr/lib32/libva-drm.so.2.1100.0",
+        "      135      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-glx.so.2 -> /run/host/usr/lib32/libva-glx.so.2.1100.0",
+        "      134      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libva-x11.so.2 -> /run/host/usr/lib32/libva-x11.so.2.1100.0",
+        "      133      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libOpenCL.so.1 -> /run/host/usr/lib32/libOpenCL.so.1.0.0",
+        "      132      0 lrwxrwxrwx   1 leader   leader         34 Apr 20 18:02 overrides/lib/i386-linux-gnu/libz.so.1 -> /run/host/usr/lib32/libz.so.1.2.11",
+        "      131      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libzstd.so.1 -> /run/host/usr/lib32/libzstd.so.1.4.9",
+        "      130      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxcb-randr.so.0 -> /run/host/usr/lib32/libxcb-randr.so.0.1.0",
+        "      129      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libstdc++.so.6 -> /run/host/usr/lib32/libstdc++.so.6.0.28",
+        "      128      0 lrwxrwxrwx   1 leader   leader         33 Apr 20 18:02 overrides/lib/i386-linux-gnu/libLLVM-11.so -> /run/host/usr/lib32/libLLVM-11.so",
+        "      127      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libncursesw.so.6 -> /run/host/usr/lib32/libncursesw.so.6.2",
+        "      126      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libxml2.so.2 -> /run/host/usr/lib32/libxml2.so.2.9.10",
+        "      125      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libicuuc.so.68 -> /run/host/usr/lib32/libicuuc.so.68.2",
+        "      124      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libicudata.so.68 -> /run/host/usr/lib32/libicudata.so.68.2",
+        "      123      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/liblzma.so.5 -> /run/host/usr/lib32/liblzma.so.5.2.5",
+        "      122      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_amdgpu.so.1 -> /run/host/usr/lib32/libdrm_amdgpu.so.1.0.0",
+        "      121      0 lrwxrwxrwx   1 leader   leader         35 Apr 20 18:02 overrides/lib/i386-linux-gnu/libelf.so.1 -> /run/host/usr/lib32/libelf-0.183.so",
+        "      120      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_radeon.so.1 -> /run/host/usr/lib32/libdrm_radeon.so.1.0.1",
+        "      119      0 lrwxrwxrwx   1 leader   leader         43 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_nouveau.so.2 -> /run/host/usr/lib32/libdrm_nouveau.so.2.0.0",
+        "      118      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libdrm_intel.so.1 -> /run/host/usr/lib32/libdrm_intel.so.1.0.0",
+        "      117      0 lrwxrwxrwx   1 leader   leader         42 Apr 20 18:02 overrides/lib/i386-linux-gnu/libpciaccess.so.0 -> /run/host/usr/lib32/libpciaccess.so.0.11.1",
+        "      116      0 lrwxrwxrwx   1 leader   leader         39 Apr 20 18:02 overrides/lib/i386-linux-gnu/libsensors.so.5 -> /run/host/usr/lib32/libsensors.so.5.0.0",
+        "      115      0 lrwxrwxrwx   1 leader   leader         36 Apr 20 18:02 overrides/lib/i386-linux-gnu/libidn2.so.0 -> /run/host/usr/lib32/libidn2.so.0.3.7",
+        "      114      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libunistring.so.2 -> /run/host/usr/lib32/libunistring.so.2.1.0",
+        "      113      0 lrwxrwxrwx   1 leader   leader         41 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_compat.so.2 -> /run/host/usr/lib32/libnss_compat-2.33.so",
+        "      112      0 lrwxrwxrwx   1 leader   leader         37 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_db.so.2 -> /run/host/usr/lib32/libnss_db-2.33.so",
+        "      111      0 lrwxrwxrwx   1 leader   leader         40 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_files.so.2 -> /run/host/usr/lib32/libnss_files-2.33.so",
+        "      110      0 lrwxrwxrwx   1 leader   leader         38 Apr 20 18:02 overrides/lib/i386-linux-gnu/libnss_dns.so.2 -> /run/host/usr/lib32/libnss_dns-2.33.so",
+        "      108      0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i686 -> i386-linux-gnu",
+        "      107      0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i586 -> i386-linux-gnu",
+        "      106      0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i486 -> i386-linux-gnu",
+        "      105      0 lrwxrwxrwx   1 leader   leader         14 Apr 20 18:02 overrides/lib/platform-i386 -> i386-linux-gnu",
+        "       80      0 drwxr-xr-x   4 leader   leader         80 Apr 20 18:02 overrides/share",
+        "       85      0 drwxr-xr-x   5 leader   leader        100 Apr 20 18:02 overrides/share/vulkan",
+        "       97      0 drwxr-xr-x   2 leader   leader         40 Apr 20 18:02 overrides/share/vulkan/explicit_layer.d",
+        "       88      0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d",
+        "       95      4 -rw-------   0 leader   leader        700 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "       93      4 -rw-------   0 leader   leader        702 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "       91      4 -rw-------   0 leader   leader        512 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "       89      4 -rw-------   0 leader   leader        514 Apr 20 18:02 overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "       86      0 drwxr-xr-x   2 leader   leader        120 Apr 20 18:02 overrides/share/vulkan/icd.d",
+        "      102      4 -rw-------   0 leader   leader        164 Apr 20 18:02 overrides/share/vulkan/icd.d/0-i386-linux-gnu.json",
+        "      100      4 -rw-------   0 leader   leader        165 Apr 20 18:02 overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "       98      4 -rw-------   0 leader   leader        159 Apr 20 18:02 overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+        " 12717199      4 -rw-r--r--   1 nobody   nobody        139 Mar 18 14:20 overrides/share/vulkan/icd.d/2.json",
+        "       81      0 drwxr-xr-x   3 leader   leader         60 Apr 20 18:02 overrides/share/glvnd",
+        "       82      0 drwxr-xr-x   2 leader   leader         80 Apr 20 18:02 overrides/share/glvnd/egl_vendor.d",
+        " 11813456      4 -rw-r--r--   1 nobody   nobody        105 Apr  5 12:31 overrides/share/glvnd/egl_vendor.d/1.json",
+        " 11813993      4 -rw-r--r--   1 nobody   nobody        107 Mar 18 14:20 overrides/share/glvnd/egl_vendor.d/0.json"
+      ]
+    }
+  },
+  "os-release" : {
+    "id" : "steamrt",
+    "id_like" : [
+      "debian"
+    ],
+    "name" : "Steam Runtime",
+    "pretty_name" : "Steam Runtime 2 (soldier)",
+    "version_id" : "2",
+    "version_codename" : "soldier",
+    "build_id" : "0.20210317.0",
+    "variant_id" : "com.valvesoftware.steamruntime.platform-amd64_i386-soldier",
+    "variant" : "Platform"
+  },
+  "container" : {
+    "type" : "pressure-vessel",
+    "host" : {
+      "path" : "/run/host",
+      "os-release" : {
+        "id" : "manjaro",
+        "id_like" : [
+          "arch"
+        ],
+        "name" : "Manjaro Linux",
+        "pretty_name" : "Manjaro Linux",
+        "build_id" : "rolling"
+      }
+    }
+  },
+  "driver_environment" : [
+    "DISPLAY=:99.0",
+    "LD_LIBRARY_PATH=/overrides/lib/x86_64-linux-gnu:/overrides/lib/x86_64-linux-gnu/aliases:/overrides/lib/i386-linux-gnu:/overrides/lib/i386-linux-gnu/aliases",
+    "PULSE_CLIENTCONFIG=/run/user/1000/pulse/config",
+    "PULSE_SERVER=unix:/run/user/1000/pulse/native",
+    "SDL_GAMECONTROLLERCONFIG=03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n03000000de280000fc11000001000000,Steam Controller,a:b0,b:b1,back:b6,dpdown:b14,dpleft:b15,dpright:b13,dpup:b12,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,\n030000006d04000016c2000011010000,Logitech Dual Action,a:b1,b:b2,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b10,lefttrigger:b6,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b11,righttrigger:b7,rightx:a2,righty:a3,start:b9,x:b0,y:b3,\n030000006d0400001dc2000014400000,Logitech F310 Gamepad (XInput),a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,",
+    "VK_ICD_FILENAMES=/overrides/share/vulkan/icd.d/0-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json:/overrides/share/vulkan/icd.d/2.json:/overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "__EGL_VENDOR_LIBRARY_FILENAMES=/overrides/share/glvnd/egl_vendor.d/0.json:/overrides/share/glvnd/egl_vendor.d/1.json"
+  ],
+  "architectures" : {
+    "i386-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib/ld-linux.so.2",
+        "resolved" : "/usr/lib/i386-linux-gnu/ld-2.28.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0"
+          ],
+          "renderer" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "1.2.145 (device 0x8086:0x1616) (driver 21.0.1)",
+          "devices" : [
+            {
+              "name" : "Intel(R) HD Graphics 5500 (BDW GT2)",
+              "api-version" : "1.2.145",
+              "driver-version" : "21.0.1",
+              "vendor-id" : "0x8086",
+              "device-id" : "0x1616",
+              "type" : "integrated-gpu"
+            }
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.11.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+            "libva error: dlopen of /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so failed: /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so: wrong ELF class: ELFCLASS64",
+            "libva info: Trying to open /overrides/lib/i386-linux-gnu/dri/iHD_drv_video.so",
+            "libva info: va_openDriver() returns -1",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+            "libva error: dlopen of /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so failed: /overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so: wrong ELF class: ELFCLASS64",
+            "libva info: Trying to open /overrides/lib/i386-linux-gnu/dri/i965_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_7",
+            "libva info: va_openDriver() returns 0",
+            "vaEndPicture (va_display, context) failed: invalid parameter (18)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/i386-linux-gnu/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/nvidia_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/s3g_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/dri/vdpau_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib32/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib32/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib32/libGLX_mesa.so.0.0.0"
+        }
+      ]
+    },
+    "x86_64-linux-gnu" : {
+      "can-run" : true,
+      "runtime-linker" : {
+        "path" : "/lib64/ld-linux-x86-64.so.2",
+        "resolved" : "/usr/lib/x86_64-linux-gnu/ld-2.28.so"
+      },
+      "library-issues-summary" : [
+      ],
+      "graphics-details" : {
+        "x11/vulkan" : {
+          "messages" : [
+            "*** stack smashing detected ***: terminated",
+            "timeout: the monitored command dumped core"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-load",
+            "cannot-draw"
+          ],
+          "exit-status" : -1,
+          "terminating-signal" : 6,
+          "terminating-signal-name" : "Aborted",
+          "devices" : [
+          ]
+        },
+        "x11/vdpau" : {
+          "messages" : [
+            "Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory",
+            "vdp_device_create_x11 (display, screen, &device, &vdp_get_proc_address) failed: 1"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "x11/vaapi" : {
+          "messages" : [
+            "libva info: VA-API version 1.11.0",
+            "libva info: Trying to open /overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+            "libva info: Found init function __vaDriverInit_1_10",
+            "libva info: va_openDriver() returns 0",
+            "vaCreateBuffer (va_display, context, VAPictureParameterBufferType, sizeof (VAPictureParameterBufferH264), 1, &pic_param_h264, &pic_param_buf) failed: invalid VAContextID (5)"
+          ],
+          "renderer" : null,
+          "version" : null,
+          "issues" : [
+            "cannot-draw"
+          ],
+          "exit-status" : 1
+        },
+        "glx/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/gl" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "4.6 (Compatibility Profile) Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        },
+        "egl_x11/glesv2" : {
+          "renderer" : "Mesa Intel(R) HD Graphics 5500 (BDW GT2)",
+          "version" : "OpenGL ES 3.2 Mesa 21.0.1",
+          "library-vendor" : "glvnd"
+        }
+      },
+      "dri_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i915_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iris_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_vieux_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r200_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r300_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeon_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/swrast_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/zink_dri.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i915_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i965_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/iris_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/kms_swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_vieux_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r200_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r300_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r600_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeon_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeonsi_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/swrast_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/virtio_gpu_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/vmwgfx_dri.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/zink_dri.so",
+          "is_extra" : true
+        }
+      ],
+      "va-api_drivers" : [
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/i965_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/iHD_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nouveau_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/nvidia_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/r600_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/s3g_drv_video.so"
+        },
+        {
+          "library_path" : "/overrides/lib/x86_64-linux-gnu/dri/vdpau_drv_video.so"
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/i965_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/iHD_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nouveau_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/nvidia_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/r600_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/radeonsi_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/s3g_drv_video.so",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/dri/vdpau_drv_video.so",
+          "is_extra" : true
+        }
+      ],
+      "vdpau_drivers" : [
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nouveau.so",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nouveau.so.1",
+          "library_link" : "libvdpau_nouveau.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nvidia.so",
+          "library_link" : "libvdpau_nvidia.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_nvidia.so.1",
+          "library_link" : "libvdpau_nvidia.so.390.141",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r300.so",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r300.so.1",
+          "library_link" : "libvdpau_r300.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r600.so",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_r600.so.1",
+          "library_link" : "libvdpau_r600.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_radeonsi.so",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_radeonsi.so.1",
+          "library_link" : "libvdpau_radeonsi.so.1.0.0",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_trace.so",
+          "library_link" : "libvdpau_trace.so.1",
+          "is_extra" : true
+        },
+        {
+          "library_path" : "/run/host/usr/lib/vdpau/libvdpau_trace.so.1",
+          "library_link" : "libvdpau_trace.so.1.0.0",
+          "is_extra" : true
+        }
+      ],
+      "glx_drivers" : [
+        {
+          "library_soname" : "libGLX_indirect.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_mesa.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_mesa.so.0.0.0"
+        },
+        {
+          "library_soname" : "libGLX_nvidia.so.0",
+          "library_path" : "/run/host/usr/lib/libGLX_nvidia.so.390.141"
+        }
+      ]
+    }
+  },
+  "locale-issues" : [
+    "c-utf8-missing",
+    "i18n-supported-missing"
+  ],
+  "locales" : {
+    "<default>" : {
+      "resulting-name" : "LC_CTYPE=en_IN;LC_NUMERIC=en_IN;LC_TIME=en_IN;LC_COLLATE=C;LC_MONETARY=en_IN;LC_MESSAGES=en_IN;LC_PAPER=en_IN;LC_NAME=en_IN;LC_ADDRESS=en_IN;LC_TELEPHONE=en_IN;LC_MEASUREMENT=en_IN;LC_IDENTIFICATION=en_IN",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    },
+    "C" : {
+      "resulting-name" : "C",
+      "charset" : "ANSI_X3.4-1968",
+      "is_utf8" : false
+    },
+    "C.UTF-8" : {
+      "error-domain" : "srt-locale-error-quark",
+      "error-code" : 0,
+      "error" : "No such file or directory"
+    },
+    "en_US.UTF-8" : {
+      "resulting-name" : "en_US.UTF-8",
+      "charset" : "UTF-8",
+      "is_utf8" : true
+    }
+  },
+  "egl" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/glvnd/egl_vendor.d/0.json",
+        "library_path" : "libEGL_nvidia.so.0",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/glvnd/egl_vendor.d/1.json",
+        "library_path" : "libEGL_mesa.so.0",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "vulkan" : {
+    "icds" : [
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/0-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_intel.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/1-i386-linux-gnu.json",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan/libvulkan_radeon.so",
+        "api_version" : "1.2.145",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/2.json",
+        "library_path" : "libGLX_nvidia.so.0",
+        "api_version" : "1.0.65",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/icd.d/3-x86_64-linux-gnu.json",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan/amdvlk64.so",
+        "api_version" : "1.2.170",
+        "issues" : [
+        ]
+      }
+    ],
+    "explicit_layers" : [
+    ],
+    "implicit_layers" : [
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/0-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_32",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/1-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_fossilize_64",
+        "description" : "Steam Pipeline Caching Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/libVkLayer_steam_fossilize.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/2-i386-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_32",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/i386-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      },
+      {
+        "json_path" : "/overrides/share/vulkan/implicit_layer.d/3-x86_64-linux-gnu.json",
+        "name" : "VK_LAYER_VALVE_steam_overlay_64",
+        "description" : "Steam Overlay Layer",
+        "type" : "GLOBAL",
+        "api_version" : "1.2.136",
+        "implementation_version" : "1",
+        "library_path" : "/overrides/lib/x86_64-linux-gnu/vulkan_imp_layer/steamoverlayvulkanlayer.so",
+        "issues" : [
+        ]
+      }
+    ]
+  },
+  "desktop-entries" : [
+  ],
+  "xdg-portals" : {
+    "details" : {
+      "interfaces" : {
+        "org.freedesktop.portal.OpenURI" : {
+          "available" : true,
+          "version" : 3
+        },
+        "org.freedesktop.portal.Email" : {
+          "available" : true,
+          "version" : 3
+        }
+      },
+      "backends" : {
+        "org.freedesktop.impl.portal.desktop.gtk" : {
+          "available" : true
+        },
+        "org.freedesktop.impl.portal.desktop.kde" : {
+          "available" : true
+        }
+      }
+    },
+    "issues" : [
+    ]
+  },
+  "cpu-features" : {
+    "x86-64" : true,
+    "sse3" : true,
+    "cmpxchg16b" : true
+  }
+}
+ 

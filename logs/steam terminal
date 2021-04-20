@@ -1,0 +1,231 @@
+[leader@manjaro ~]$   STEAM_LINUX_RUNTIME_LOG=1 steam
+Running Steam on manjarolinux 21.0.1 64-bit
+STEAM_RUNTIME is enabled automatically
+Pins up-to-date!
+Steam client's requirements are satisfied
+WARNING: Using default/fallback debugger launch
+/home/leader/.local/share/Steam/ubuntu12_32/steam
+[2021-04-20 19:46:19] Startup - updater built Apr 12 2021 18:51:36
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[2021-04-20 19:46:19] Loading cached metrics from disk (/home/leader/.local/share/Steam/package/steam_client_metrics.bin)
+[2021-04-20 19:46:19] Using the following download hosts for Public, Realm steamglobal
+[2021-04-20 19:46:19] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2021-04-20 19:46:19] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2021-04-20 19:46:19] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[2021-04-20 19:46:19] Verifying installation...
+[2021-04-20 19:46:19] Verification complete
+Loaded SDL version 2.0.15-6484190
+/usr/share/themes/Breath/gtk-2.0/widgets/entry:70: error: unexpected identifier 'direction', expected character '}'
+
+(steam:52553): Gtk-WARNING **: 19:46:20.451: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Breath/gtk-2.0/widgets/styles:36: error: invalid string constant "combobox_entry", expected valid string constant
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+STEAM_RUNTIME_HEAVY: ./steam-runtime-heavy
+[0420/194622.429131:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[0420/194622.463890:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0420/194622.463975:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1618253516
+[0420/194622.464004:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0420/194622.464021:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0420/194622.534146:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0420/194622.534233:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1618253516
+[0420/194622.534246:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0420/194622.534254:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0420/194622.534969:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[0420/194622.660767:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[0420/194622.752208:WARNING:crash_reporting.cc(286)] Failed to set crash key: UserID with value: 0
+[0420/194622.752293:WARNING:crash_reporting.cc(286)] Failed to set crash key: BuildID with value: 1618253516
+[0420/194622.752309:WARNING:crash_reporting.cc(286)] Failed to set crash key: SteamUniverse with value: Public
+[0420/194622.752318:WARNING:crash_reporting.cc(286)] Failed to set crash key: Vendor with value: Valve
+[0420/194622.753410:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+CAppInfoCacheReadFromDiskThread took 354 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+CApplicationManagerPopulateThread took 5419 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Proceed to auto login
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Opted-in Controller Mask for AppId 0: 2
+
+(steam:52553): Gtk-WARNING **: 19:46:29.289: gtk_disable_setlocale() must be called before gtk_init()
+local (potentially out of sync) copy of roaming config loaded - 33198 bytes.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.349: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.350: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.350: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:52553): LIBDBUSMENU-GLIB-WARNING **: 19:46:29.350: Trying to remove a child that doesn't believe we're it's parent.
+Xlib:  extension "NV-GLX" missing on display ":0".
+vkEnumeratePhysicalDevices failed, unable to init and enumerate GPUs with Vulkan.
+BInit - Unable to initialize Vulkan!
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+roaming config store loaded successfully - 33198 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 34ms
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[0420/194634.690701:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[0420/194634.821396:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0420/194635.126772:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/leader/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 21.13 seconds
+[0420/194641.292492:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0420/194641.295838:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+[0420/194641.311355:INFO:crash_reporting.cc(270)] Crash reporting enabled for process: renderer
+BuildCompleteAppOverviewChange: 419
+RegisterForAppOverview 1: 48ms
+RegisterForAppOverview 2: 49ms
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[745920]Non-Steam Controller Configs Enabled: 0
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+CAPIJobRequestUserStats - Server response failed 2
+Opted-in Controller Mask Forced Off
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+[2021-04-20 19:56:53] Background update loop checking for update. . .
+[2021-04-20 19:56:53] Checking for available updates...
+[2021-04-20 19:56:53] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_client_ubuntu12
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+[2021-04-20 19:56:54] Download skipped: /client/steam_client_ubuntu12 version 1618256785, installed version 1618256785, existing pending version 0
+[2021-04-20 19:56:54] Nothing to do
+^Csrc/clientdll/installscript_posix.cpp (419) : Assertion Failed: Standalone evaluator returned error code for app 745920
+src/clientdll/installscript_posix.cpp (419) : Assertion Failed: Standalone evaluator returned error code for app 745920
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+assert_20210420201145_28.dmp[57086]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20210420201145_28.dmp
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 745920, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+Game update: AppID 745920 "", ProcID 57090, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/leader/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Starting app 745920
+>>> Adding process 57090 for game ID 745920
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+>>> Adding process 57091 for game ID 745920
+>>> Adding process 57092 for game ID 745920
+GameAction [AppID 745920, ActionID 1] : LaunchApp changed task to Completed with ""
+>>> Adding process 57093 for game ID 745920
+>>> Adding process 57094 for game ID 745920
+>>> Adding process 57095 for game ID 745920
+>>> Adding process 57096 for game ID 745920
+>>> Adding process 57100 for game ID 745920
+>>> Adding process 57102 for game ID 745920
+>>> Adding process 57104 for game ID 745920
+>>> Adding process 57107 for game ID 745920
+>>> Adding process 57108 for game ID 745920
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+Installing breakpad exception handler for appid(steam)/version(1618256785)
+assert_20210420201145_28.dmp[57086]: Finished uploading minidump (out-of-process): success = yes
+assert_20210420201145_28.dmp[57086]: response: CrashID=bp-56935f26-697b-48ad-8bb1-560472210420
+assert_20210420201145_28.dmp[57086]: file ''/tmp/dumps/assert_20210420201145_28.dmp'', upload yes: ''CrashID=bp-56935f26-697b-48ad-8bb1-560472210420''
+>>> Adding process 57521 for game ID 745920
+>>> Adding process 57522 for game ID 745920
+>>> Adding process 57523 for game ID 745920
+>>> Adding process 57524 for game ID 745920
+>>> Adding process 57539 for game ID 745920
+>>> Adding process 57541 for game ID 745920
+>>> Adding process 57542 for game ID 745920
+>>> Adding process 57567 for game ID 745920
+>>> Adding process 57568 for game ID 745920
+>>> Adding process 57569 for game ID 745920
+>>> Adding process 57572 for game ID 745920
+>>> Adding process 57574 for game ID 745920
+>>> Adding process 57577 for game ID 745920
+>>> Adding process 57586 for game ID 745920
+>>> Adding process 57606 for game ID 745920
+>>> Adding process 57624 for game ID 745920
+Game update: AppID 745920 "", ProcID 57568, IP 0.0.0.0:0
+RecordSteamInterfaceCreation (PID 57568): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 57568): SteamUser019 / User
+RecordSteamInterfaceCreation (PID 57568): SteamUser019 / User
+RecordSteamInterfaceCreation (PID 57568): SteamFriends015 / Friends
+RecordSteamInterfaceCreation (PID 57568): SteamUtils009 / Utils
+RecordSteamInterfaceCreation (PID 57568): SteamMatchMaking009 / Matchmaking
+RecordSteamInterfaceCreation (PID 57568): SteamMatchMakingServers002 / MatchmakingServers
+RecordSteamInterfaceCreation (PID 57568): STEAMUSERSTATS_INTERFACE_VERSION011 / UserStats
+RecordSteamInterfaceCreation (PID 57568): STEAMAPPS_INTERFACE_VERSION008 / Apps
+RecordSteamInterfaceCreation (PID 57568): SteamNetworking005 / Networking
+RecordSteamInterfaceCreation (PID 57568): STEAMREMOTESTORAGE_INTERFACE_VERSION014 / RemoteStorage
+RecordSteamInterfaceCreation (PID 57568): STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+RecordSteamInterfaceCreation (PID 57568): STEAMHTTP_INTERFACE_VERSION002 / HTTP
+RecordSteamInterfaceCreation (PID 57568): SteamController006 / Controller
+RecordSteamInterfaceCreation (PID 57568): STEAMUGC_INTERFACE_VERSION010 / UGC
+RecordSteamInterfaceCreation (PID 57568): STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+RecordSteamInterfaceCreation (PID 57568): STEAMMUSIC_INTERFACE_VERSION001 / Music
+RecordSteamInterfaceCreation (PID 57568): STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+RecordSteamInterfaceCreation (PID 57568): STEAMHTMLSURFACE_INTERFACE_VERSION_004 / HTMLSurface
+RecordSteamInterfaceCreation (PID 57568): STEAMINVENTORY_INTERFACE_V002 / Inventory
+RecordSteamInterfaceCreation (PID 57568): STEAMVIDEO_INTERFACE_V002 / Video
+RecordSteamInterfaceCreation (PID 57568): STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game removed: AppID 745920 "", ProcID 57568 
+Game 745920 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 745920 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 745920 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_004 / HTMLSurface
+Game 745920 created interface STEAMHTTP_INTERFACE_VERSION002 / HTTP
+Game 745920 created interface STEAMINVENTORY_INTERFACE_V002 / Inventory
+Game 745920 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 745920 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 745920 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 745920 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / RemoteStorage
+Game 745920 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 745920 created interface STEAMUGC_INTERFACE_VERSION010 / UGC
+Game 745920 created interface STEAMUSERSTATS_INTERFACE_VERSION011 / UserStats
+Game 745920 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 745920 created interface SteamController006 / Controller
+Game 745920 created interface SteamFriends015 / Friends
+Game 745920 created interface SteamMatchMaking009 / Matchmaking
+Game 745920 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 745920 created interface SteamNetworking005 / Networking
+Game 745920 created interface SteamUser019 / User
+Game 745920 created interface SteamUtils009 / Utils
+Game 745920 method call count for IClientUtils::RecordSteamInterfaceCreation : 22
+Game 745920 method call count for IClientUtils::GetSteamUILanguage : 1
+Game 745920 method call count for IClientUtils::GetAppID : 24
+Game 745920 method call count for IClientUser::GetSteamID : 1
+Uploaded AppInterfaceStats to Steam
+Exiting app 745920
+No cached sticky mapping in ActivateActionSet.Installing breakpad exception handler for appid(steam)/version(1618256785)
+^C[570]Non-Steam Controller Configs Enabled: 1
+[652720]Non-Steam Controller Configs Enabled: 1
+CAPIJobRequestUserStats - Server response failed 2
+
