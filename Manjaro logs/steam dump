@@ -1,0 +1,158 @@
+coredumpctl gdb 2266
+           PID: 2266 (steam)
+           UID: 1000 (leader)
+           GID: 1001 (leader)
+        Signal: 11 (SEGV)
+     Timestamp: Sat 2021-05-29 19:34:11 IST (3h 20min ago)
+  Command Line: /home/leader/.local/share/Steam/ubuntu12_32/steam
+    Executable: /home/leader/.local/share/Steam/ubuntu12_32/steam
+ Control Group: /user.slice/user-1000.slice/user@1000.service/app.slice/app-steam-f5115fad4ccf4f8a9a0fdffb467b8831.scope
+          Unit: user@1000.service
+     User Unit: app-steam-f5115fad4ccf4f8a9a0fdffb467b8831.scope
+         Slice: user-1000.slice
+     Owner UID: 1000 (leader)
+       Boot ID: b353983f6b1544468e2d014b0744f664
+    Machine ID: 2ea801c9a503465ca03e1ce6852b191e
+      Hostname: Pehla-Nasha
+       Storage: /var/lib/systemd/coredump/core.steam.1000.b353983f6b1544468e2d014b0744f664.2266.1622297051000000.zst
+       Message: Process 2266 (steam) of user 1000 dumped core.
+
+                Stack trace of thread 2266:
+                #0  0x00000000f5a7cd57 n/a (radeonsi_dri.so + 0x167d57)
+                #1  0x00000000f5a42f3c n/a (radeonsi_dri.so + 0x12df3c)
+                #2  0x00000000f5a3c105 n/a (radeonsi_dri.so + 0x127105)
+                #3  0x00000000f5a17181 n/a (radeonsi_dri.so + 0x102181)
+                #4  0x00000000f5c0e397 n/a (radeonsi_dri.so + 0x2f9397)
+                #5  0x00000000f5c0e715 n/a (radeonsi_dri.so + 0x2f9715)
+                #6  0x00000000f5bc2ee4 n/a (radeonsi_dri.so + 0x2adee4)
+                #7  0x00000000e551e0c5 n/a (/home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so + 0x5e0c5)
+
+GNU gdb (GDB) 10.2
+Copyright (C) 2021 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from /home/leader/.local/share/Steam/ubuntu12_32/steam...
+(No debugging symbols found in /home/leader/.local/share/Steam/ubuntu12_32/steam)
+
+warning: Can't open file /dev/shm/ValveIPCSHM_1000 (deleted) during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_542e3f45 during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_3c3a3c3d during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_671c2a99 during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_fe20b6d7 during file-backed mapping note processing
+
+warning: Can't open file /memfd:pulseaudio (deleted) during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-ValveIPCSharedObj-Steam during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_4d43a6bb during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_c4fbc703 during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_c9edbd50 during file-backed mapping note processing
+
+warning: Can't open file /memfd:xshmfence (deleted) during file-backed mapping note processing
+
+warning: Can't open file /dev/shm/u1000-Shm_125376fc during file-backed mapping note processing
+[New LWP 2266]
+[New LWP 2309]
+[New LWP 2317]
+[New LWP 2375]
+[New LWP 2376]
+[New LWP 2383]
+[New LWP 2384]
+[New LWP 2387]
+[New LWP 2408]
+[New LWP 2527]
+[New LWP 8302]
+[New LWP 2515]
+[New LWP 2485]
+[New LWP 2442]
+[New LWP 2439]
+[New LWP 2410]
+[New LWP 2407]
+[New LWP 2403]
+[New LWP 2402]
+[New LWP 2401]
+[New LWP 2388]
+[New LWP 2386]
+[New LWP 2382]
+[New LWP 2379]
+[New LWP 2319]
+[New LWP 2318]
+[New LWP 2316]
+[New LWP 2315]
+[New LWP 2314]
+[New LWP 2306]
+[New LWP 2278]
+[New LWP 2313]
+[New LWP 2312]
+[New LWP 2311]
+[New LWP 2310]
+Warning: couldn't activate thread debugging using libthread_db: Cannot find new threads: generic error
+
+warning: File "/usr/lib32/libthread_db-1.0.so" auto-loading has been declined by your `auto-load safe-path' set to "$debugdir:$datadir/auto-load".
+--Type <RET> for more, q to quit, c to continue without paging--
+To enable execution of this file add
+        add-auto-load-safe-path /usr/lib32/libthread_db-1.0.so
+line to your configuration file "/home/leader/.gdbinit".
+To completely disable this security protection add
+        set auto-load safe-path /
+line to your configuration file "/home/leader/.gdbinit".
+For more information about this security protection see the
+"Auto-loading safe path" section in the GDB manual.  E.g., run from the shell:
+        info "(gdb)Auto-loading safe path"
+
+warning: Unable to find libthread_db matching inferior's thread library, thread debugging will not be available.
+b[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/libthread_db.so.1".
+Core was generated by `/home/leader/.local/share/Steam/ubuntu12_32/steam'.
+Program terminated with signal SIGSEGV, Segmentation fault.
+t#0  0xf5a7cd57 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+[Current thread is 1 (Thread 0xf7891940 (LWP 2266))]
+(gdb) bt
+#0  0xf5a7cd57 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#1  0xf5a42f3c in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#2  0xf5a3c105 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#3  0xf5a17181 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#4  0xf5c0e397 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#5  0xf5c0e715 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#6  0xf5bc2ee4 in ?? () from /usr/lib32/dri/radeonsi_dri.so
+#7  0xe551e0c5 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#8  0xe5520882 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#9  0xe551cdcb in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#10 0xe81d87cd in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/steamui.so
+#11 0xe815dd84 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/steamui.so
+#12 0xe5508111 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#13 0xe5508312 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#14 0xe5508312 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#15 0xe5508312 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#16 0xe5508312 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#17 0xe550968d in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#18 0xe551727b in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#19 0xe552558b in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/vgui2_s.so
+#20 0xe77e83ae in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/steamui.so
+#21 0xe77ea78e in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/steamui.so
+#22 0xe77ecb74 in ?? () from /home/leader/.local/share/Steam/ubuntu12_32/steamui.so
+#23 0x565e1510 in ?? ()
+#24 0x565e24a3 in ?? ()
+--Type <RET> for more, q to quit, c to continue without paging--
+#25 0x565cb92e in ?? ()
+#26 0xf7909a0d in __libc_start_main () from /usr/lib32/libc.so.6
+#27 0x565d01d9 in _start ()
+(gdb)
+

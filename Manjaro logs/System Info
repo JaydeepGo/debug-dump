@@ -1,0 +1,105 @@
+inxi -Fazy
+System:
+  Kernel: 4.19.190-1-MANJARO x86_64 bits: 64 compiler: gcc v: 10.2.0
+  parameters: BOOT_IMAGE=/vmlinuz-4.19-x86_64
+  root=UUID=558351ff-0fcf-467f-b923-04e1f8f3740d rw quiet apparmor=1
+  security=apparmor resume=UUID=a87ccf7e-d9f2-4252-9a16-6486542fc25a
+  udev.log_priority=3
+  Desktop: KDE Plasma 5.21.5 tk: Qt 5.15.2 wm: kwin_x11 vt: 1 dm: SDDM
+  Distro: Manjaro Linux base: Arch Linux
+Machine:
+  Type: Laptop System: Hewlett-Packard product: HP Notebook
+  v: Type1ProductConfigId serial: <filter> Chassis: type: 10 serial: <filter>
+  Mobo: Hewlett-Packard model: 80C2 v: 96.51 serial: <filter>
+  UEFI-[Legacy]: Insyde v: F.26 date: 03/06/2018
+Battery:
+  ID-1: BAT1 charge: 7.0 Wh (100.0%) condition: 7.0/41.4 Wh (17.0%)
+  volts: 16.9 min: 14.8 model: COMPAL PABAS0241231 type: Li-ion
+  serial: <filter> status: Full
+CPU:
+  Info: Dual Core model: Intel Core i5-5200U bits: 64 type: MT MCP
+  arch: Broadwell family: 6 model-id: 3D (61) stepping: 4 microcode: 2F cache:
+  L2: 3 MiB
+  flags: avx avx2 lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx
+  bogomips: 17558
+  Speed: 1009 MHz min/max: 500/2700 MHz Core speeds (MHz): 1: 1009 2: 1025
+  3: 1043 4: 910
+  Vulnerabilities: Type: itlb_multihit status: KVM: Vulnerable
+  Type: l1tf mitigation: PTE Inversion
+  Type: mds mitigation: Clear CPU buffers; SMT vulnerable
+  Type: meltdown mitigation: PTI
+  Type: spec_store_bypass
+  mitigation: Speculative Store Bypass disabled via prctl and seccomp
+  Type: spectre_v1
+  mitigation: usercopy/swapgs barriers and __user pointer sanitization
+  Type: spectre_v2 mitigation: Full generic retpoline, IBPB: conditional,
+  IBRS_FW, STIBP: conditional, RSB filling
+  Type: srbds mitigation: Microcode
+  Type: tsx_async_abort status: Not affected
+Graphics:
+  Device-1: Intel HD Graphics 5500 vendor: Hewlett-Packard driver: i915
+  v: kernel bus-ID: 00:02.0 chip-ID: 8086:1616 class-ID: 0300
+  Device-2: AMD Sun XT [Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon
+  520 Mobile]
+  vendor: Hewlett-Packard driver: radeon v: kernel alternate: amdgpu
+  bus-ID: 0d:00.0 chip-ID: 1002:6660 class-ID: 0380
+  Device-3: Suyin HP Truevision HD type: USB driver: uvcvideo bus-ID: 1-5:8
+  chip-ID: 064e:930b class-ID: 0e02 serial: <filter>
+  Display: x11 server: X.Org 1.20.11 compositor: kwin_x11 driver:
+  loaded: ati,intel,radeon unloaded: modesetting,vesa alternate: fbdev
+  display-ID: :0 screens: 1
+  Screen-1: 0 s-res: 1366x768 s-dpi: 96 s-size: 361x203mm (14.2x8.0")
+  s-diag: 414mm (16.3")
+  Monitor-1: eDP1 res: 1366x768 hz: 60 dpi: 102 size: 340x190mm (13.4x7.5")
+  diag: 389mm (15.3")
+  OpenGL: renderer: Mesa Intel HD Graphics 5500 (BDW GT2) v: 4.6 Mesa 21.0.3
+  direct render: Yes
+Audio:
+  Device-1: Intel Broadwell-U Audio vendor: Hewlett-Packard
+  driver: snd_hda_intel v: kernel bus-ID: 00:03.0 chip-ID: 8086:160c
+  class-ID: 0403
+  Device-2: Intel Wildcat Point-LP High Definition Audio
+  vendor: Hewlett-Packard driver: snd_hda_intel v: kernel bus-ID: 00:1b.0
+  chip-ID: 8086:9ca0 class-ID: 0403
+  Sound Server-1: ALSA v: k4.19.190-1-MANJARO running: yes
+  Sound Server-2: JACK v: 0.125.0 running: no
+  Sound Server-3: PulseAudio v: 14.2 running: yes
+  Sound Server-4: PipeWire v: 0.3.28 running: no
+Network:
+  Device-1: Realtek RTL810xE PCI Express Fast Ethernet vendor: Hewlett-Packard
+  driver: r8169 v: kernel port: 5000 bus-ID: 07:00.0 chip-ID: 10ec:8136
+  class-ID: 0200
+  IF: enp7s0 state: down mac: <filter>
+  Device-2: Broadcom BCM43142 802.11b/g/n vendor: Hewlett-Packard driver: wl
+  v: kernel modules: bcma port: 4000 bus-ID: 13:00.0 chip-ID: 14e4:4365
+  class-ID: 0280
+  IF: wlp19s0 state: up mac: <filter>
+Bluetooth:
+  Device-1: Broadcom BCM43142A0 Bluetooth 4.0 type: USB driver: btusb v: 0.8
+  bus-ID: 1-4:7 chip-ID: 0a5c:216d class-ID: fe01 serial: <filter>
+  Report: rfkill ID: hci0 rfk-id: 1 state: up address: see --recommends
+Drives:
+  Local Storage: total: 465.76 GiB used: 234.92 GiB (50.4%)
+  SMART Message: Unable to run smartctl. Root privileges required.
+  ID-1: /dev/sda maj-min: 8:0 vendor: Crucial model: CT500MX500SSD1
+  size: 465.76 GiB block-size: physical: 4096 B logical: 512 B speed: 6.0 Gb/s
+  rotation: SSD serial: <filter> rev: 023 scheme: GPT
+Partition:
+  ID-1: / raw-size: 363.1 GiB size: 356.34 GiB (98.14%)
+  used: 234.78 GiB (65.9%) fs: ext4 dev: /dev/sda3 maj-min: 8:3
+  ID-2: /boot raw-size: 1024 MiB size: 1022 MiB (99.80%)
+  used: 145.5 MiB (14.2%) fs: vfat dev: /dev/sda2 maj-min: 8:2
+Swap:
+  Kernel: swappiness: 60 (default) cache-pressure: 100 (default)
+  ID-1: swap-1 type: partition size: 4 GiB used: 0 KiB (0.0%) priority: -2
+  dev: /dev/sda1 maj-min: 8:1
+Sensors:
+  System Temperatures: cpu: 50.5 C mobo: N/A gpu: radeon temp: 52.0 C
+  Fan Speeds (RPM): N/A
+Info:
+  Processes: 170 Uptime: 22m wakeups: 1 Memory: 11.65 GiB
+  used: 3.09 GiB (26.5%) Init: systemd v: 247 tool: systemctl Compilers:
+  gcc: 10.2.0 clang: 11.1.0 Packages: pacman: 1486 lib: 434 flatpak: 0
+  Shell: Bash v: 5.1.8 running-in: konsole inxi: 3.3.04
+
+
