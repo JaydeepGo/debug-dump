@@ -1,0 +1,543 @@
+======================
+Proton: 1630196477 6.16-GE-1
+SteamGameId: 1113000
+Command: ['/home/leader/.local/share/Steam/steamapps/common/Persona 4 Golden/P4G.exe']
+Options: {'forcelgadd'}
+depot: 0.20210723.18
+pressure-vessel: 0.20210722.0
+scripts: v0.20210722.0-0-gb142f90
+soldier: 0.20210719.0 soldier 0.20210719.0
+System WINEDLLOVERRIDES: mfplay=n
+======================
+fsync: up and running.
+9889.315:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wineboot.exe" at 0000000140000000: builtin
+9889.316:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9889.316:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9889.318:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9889.319:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9889.319:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9889.319:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9889.320:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 00000001EC2B0000: builtin
+9889.320:0028:002c:fixme:winediag:LdrInitializeThunk wine-staging 6.16 is a testing version containing experimental patches.
+9889.320:0028:002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+9889.426:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\services.exe" at 0000000140000000: builtin
+9889.427:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9889.427:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9889.429:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9889.430:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9889.431:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9889.431:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9889.431:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9889.432:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9889.433:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9889.433:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\userenv.dll" at 0000000388E20000: builtin
+9889.490:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+9889.492:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9889.492:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9889.495:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9889.496:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9889.496:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9889.496:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9889.496:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+9889.512:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9889.520:003c:0050:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32k.sys" at 0000000278BD0000: builtin
+9889.521:003c:0050:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\dxgkrnl.sys" at 000000033C0E0000: builtin
+9889.521:003c:0050:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\dxgmms1.sys" at 00000002A56F0000: builtin
+9889.528:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 00007F2EF1150000: builtin
+9889.532:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9889.532:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9889.580:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+9889.581:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9889.581:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9889.583:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9889.585:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9889.585:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9889.585:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9889.585:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+9889.596:005c:0060:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9889.607:005c:006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\win32k.sys" at 0000000278BD0000: builtin
+9889.608:005c:006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\dxgkrnl.sys" at 000000033C0E0000: builtin
+9889.611:005c:006c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\dxgmms1.sys" at 00000002A56F0000: builtin
+9889.618:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\wineusb.sys" at 00007F03B9D70000: builtin
+9889.627:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9889.628:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9889.645:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 00007F03B9200000: builtin
+9889.658:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidparse.sys" at 00000002ADF30000: builtin
+9889.660:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9889.660:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9889.661:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\hidclass.sys" at 000000031DF10000: builtin
+9889.661:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winehid.sys" at 00000003BA2A0000: builtin
+9889.675:003c:0058:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9889.675:003c:0058:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9890.096:003c:0058:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.096:003c:0058:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.096:003c:0058:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.110:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.110:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.110:005c:0068:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.118:005c:0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=0068
+9890.118:005c:0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+9890.118:005c:0068:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000102e0e8 rcx=000000000102de00 rdx=0000000000000000
+9890.118:005c:0068:trace:seh:dispatch_exception  rsi=00000000000000d2 rdi=0000000001690230 rbp=0000000000000050 rsp=000000000102dde0
+9890.118:005c:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000001150020 r11=0000000000000246
+9890.118:005c:0068:trace:seh:dispatch_exception  r12=000000000102e0e8 r13=00000000011c5fb0 r14=0000000000000000 r15=00000000011c5fb0
+9890.118:005c:0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+9890.118:005c:0068:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+9890.118:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102DFC0 rsp 000000000102E2B0 handler 00000002279C3230
+9890.118:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000102DE00, frame=000000000102DFC0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.118:005c:0068:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+9890.118:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102E2E0 rsp 000000000102E420 handler 00000002279C4B30
+9890.118:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000102DE00, frame=000000000102E2E0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.118:005c:0068:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000102E2B0
+9890.118:005c:0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=0068
+9890.118:005c:0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+9890.118:005c:0068:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000102e0e8 rcx=000000000102de00 rdx=0000000000000000
+9890.118:005c:0068:trace:seh:dispatch_exception  rsi=00000000000000d2 rdi=0000000001690230 rbp=0000000000000050 rsp=000000000102dde0
+9890.118:005c:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000001150020 r11=0000000000000246
+9890.118:005c:0068:trace:seh:dispatch_exception  r12=000000000102e0e8 r13=00000000011c5fb0 r14=0000000000000000 r15=00000000011c5fb0
+9890.118:005c:0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+9890.118:005c:0068:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+9890.118:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102DFC0 rsp 000000000102E2B0 handler 00000002279C3230
+9890.118:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000102DE00, frame=000000000102DFC0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.118:005c:0068:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+9890.118:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102E2E0 rsp 000000000102E420 handler 00000002279C4B30
+9890.118:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000102DE00, frame=000000000102E2E0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.118:005c:0068:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000102E2B0
+9890.128:005c:0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=0068
+9890.128:005c:0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+9890.128:005c:0068:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000102e0e8 rcx=000000000102de00 rdx=0000000000000000
+9890.128:005c:0068:trace:seh:dispatch_exception  rsi=00000000000000d8 rdi=0000000001690230 rbp=0000000000000053 rsp=000000000102dde0
+9890.128:005c:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=00000000011a0020 r11=0000000000000246
+9890.128:005c:0068:trace:seh:dispatch_exception  r12=000000000102e0e8 r13=0000000001150050 r14=0000000000000000 r15=0000000001150050
+9890.128:005c:0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+9890.128:005c:0068:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+9890.128:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102DFC0 rsp 000000000102E2B0 handler 00000002279C3230
+9890.128:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000102DE00, frame=000000000102DFC0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.128:005c:0068:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+9890.128:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102E2E0 rsp 000000000102E420 handler 00000002279C4B30
+9890.128:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000102DE00, frame=000000000102E2E0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.128:005c:0068:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000102E2B0
+9890.128:005c:0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=0068
+9890.128:005c:0068:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+9890.128:005c:0068:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000102e0e8 rcx=000000000102de00 rdx=0000000000000000
+9890.128:005c:0068:trace:seh:dispatch_exception  rsi=00000000000000d8 rdi=0000000001690230 rbp=0000000000000053 rsp=000000000102dde0
+9890.128:005c:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=00000000011a0020 r11=0000000000000246
+9890.128:005c:0068:trace:seh:dispatch_exception  r12=000000000102e0e8 r13=0000000001150050 r14=0000000000000000 r15=0000000001150050
+9890.128:005c:0068:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+9890.128:005c:0068:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+9890.128:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102DFC0 rsp 000000000102E2B0 handler 00000002279C3230
+9890.128:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000102DE00, frame=000000000102DFC0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.128:005c:0068:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+9890.128:005c:0068:trace:seh:call_stack_handlers found wine frame 000000000102E2E0 rsp 000000000102E420 handler 00000002279C4B30
+9890.128:005c:0068:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000102DE00, frame=000000000102E2E0 context=000000000102D320, dispatch=000000000102D1F0)
+9890.128:005c:0068:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000102E2B0
+9890.193:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\plugplay.exe" at 0000000140000000: builtin
+9890.194:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9890.194:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9890.196:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9890.197:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9890.197:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9890.197:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9890.197:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.199:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9890.200:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9890.200:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9890.200:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9890.278:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.278:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.278:0084:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.315:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\svchost.exe" at 0000000140000000: builtin
+9890.316:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9890.316:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9890.319:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9890.320:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9890.320:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9890.320:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9890.338:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wevtsvc.dll" at 00000002EBA70000: builtin
+9890.339:009c:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.348:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\nsiproxy.sys" at 00007F2EF0AC0000: builtin
+9890.355:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dnsapi.dll" at 000000029CFC0000: builtin
+9890.355:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nsi.dll" at 000000028DFA0000: builtin
+9890.356:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\iphlpapi.dll" at 00007F2EF0A80000: builtin
+9890.356:003c:004c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\ndis.sys" at 00000001DC4B0000: builtin
+9890.362:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9890.365:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.367:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9890.367:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9890.367:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9890.367:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.368:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.368:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+9890.368:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+9890.369:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.370:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\winsxs\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\\comctl32.dll" at 00000002BB750000: builtin
+9890.370:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 0000000297900000: builtin
+9890.370:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007F7424170000: builtin
+9890.443:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\explorer.exe" at 0000000140000000: builtin
+9890.444:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9890.444:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9890.446:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9890.447:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9890.447:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9890.447:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9890.448:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9890.448:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.450:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9890.450:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9890.450:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9890.525:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.525:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.526:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.532:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007FADC7550000: builtin
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+9890.820:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+9890.820:00b0:00b4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+9890.837:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+9890.837:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+9890.838:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\winsxs\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\\comctl32.dll" at 00000002BB750000: builtin
+9890.838:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 0000000297900000: builtin
+9890.838:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007FADC5F70000: builtin
+9890.848:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 00000002739C0000: builtin
+9890.848:00b0:00b4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\actxprxy.dll" at 00000001D0830000: builtin
+9890.849:00b0:00b4:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=00b4
+9890.849:00b0:00b4:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+9890.849:00b0:00b4:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000021e9d8 rcx=000000000021e6f0 rdx=0000000000000000
+9890.849:00b0:00b4:trace:seh:dispatch_exception  rsi=000000000000006c rdi=00000000004cb270 rbp=0000000140010028 rsp=000000000021e6d0
+9890.849:00b0:00b4:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=00000000004c0020 r11=0000000000000246
+9890.849:00b0:00b4:trace:seh:dispatch_exception  r12=000000000021e9d8 r13=00000000004e5ca0 r14=000000000036d4d0 r15=0000000000000005
+9890.849:00b0:00b4:trace:seh:call_stack_handlers found wine frame 000000000021E8B0 rsp 000000000021EBB0 handler 0000000327044380
+9890.849:00b0:00b4:trace:seh:call_teb_handler calling TEB handler 0000000327044380 (rec=000000000021E6F0, frame=000000000021E8B0 context=000000000021DC10, dispatch=000000000021DAE0)
+9890.849:00b0:00b4:trace:seh:call_teb_handler handler at 0000000327044380 returned 1
+9890.849:00b0:00b4:trace:seh:call_stack_handlers found wine frame 000000000021EBF0 rsp 000000000021ED40 handler 0000000327046800
+9890.849:00b0:00b4:trace:seh:call_teb_handler calling TEB handler 0000000327046800 (rec=000000000021E6F0, frame=000000000021EBF0 context=000000000021DC10, dispatch=000000000021DAE0)
+9890.849:00b0:00b4:trace:seh:RtlRestoreContext returning to 000000032704679A stack 000000000021EBB0
+9890.880:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcss.exe" at 0000000140000000: builtin
+9890.882:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9890.882:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9890.884:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9890.885:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9890.885:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9890.885:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9890.886:00c8:00cc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.909:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007F7423C30000: builtin
+9890.926:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+9890.926:0028:002c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+9890.929:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mpr.dll" at 000000024F470000: builtin
+9890.930:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wininet.dll" at 00000003A0440000: builtin
+9890.934:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\start.exe" at 0000000140000000: builtin
+9890.935:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9890.936:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9890.939:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9890.940:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9890.940:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9890.940:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9890.941:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9890.943:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9890.944:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+9890.945:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+9890.946:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9890.947:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 00000002BB750000: builtin
+9890.947:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 0000000297900000: builtin
+9890.947:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007F83A0E10000: builtin
+9891.021:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007F83A06E0000: builtin
+9891.034:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+9891.034:0020:0024:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+9891.065:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\start.exe" at 0000000140000000: builtin
+9891.067:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+9891.067:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+9891.070:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+9891.071:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+9891.071:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+9891.071:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+9891.072:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+9891.074:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+9891.076:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+9891.078:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+9891.078:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 00000002BB750000: builtin
+9891.078:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 0000000297900000: builtin
+9891.078:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007FE242D60000: builtin
+9891.156:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007FE242620000: builtin
+9891.168:00f0:00f4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 00000002F7230000: builtin
+9891.169:00f0:00f4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+9891.173:00f0:00f4:fixme:exec:SHELL_execute flags ignored: 0x00000100
+9891.209:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\Program Files (x86)\\Steam\\steam.exe" at 7E8E0000: builtin
+9891.210:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+9891.210:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B600000: builtin
+9891.213:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 6A280000: builtin
+9891.214:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 70B40000: builtin
+9891.214:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 6BC00000: builtin
+9891.214:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 61740000: builtin
+9891.216:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 6C9C0000: builtin
+9891.217:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 62FC0000: builtin
+9891.219:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 63480000: builtin
+9891.219:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6BCC0000: builtin
+9891.219:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 6ED00000: builtin
+9891.219:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 68500000: builtin
+9891.219:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 6A400000: builtin
+9891.222:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 63BC0000: builtin
+9891.223:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 64A40000: builtin
+9891.225:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 71200000: builtin
+9891.226:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 00D20000: builtin
+9891.226:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 68E00000: builtin
+9891.226:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 7D740000: builtin
+9891.623:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 7E4C0000: builtin
+9891.636:00f8:00fc:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 68700000: builtin
+9891.637:00f8:00fc:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+Setting breakpad minidump AppID = 1113000
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198292933612 [API loaded no]
+9891.692:00f8:0104:err:steam:initialize_vr_data Could not load libopenvr_api.so.
+9891.809:0108:010c:trace:loaddll:build_module Loaded L"Z:\\home\\leader\\.local\\share\\Steam\\steamapps\\common\\Persona 4 Golden\\P4G.exe" at 00400000: native
+9891.810:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+9891.810:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B600000: builtin
+9891.812:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 6A280000: builtin
+9891.813:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 70B40000: builtin
+9891.813:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 6BC00000: builtin
+9891.813:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 61740000: builtin
+9891.814:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-convert-l1-1-0.dll" at 61F00000: builtin
+9891.814:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-filesystem-l1-1-0.dll" at 65D40000: builtin
+9891.815:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-heap-l1-1-0.dll" at 6CA00000: builtin
+9891.816:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-locale-l1-1-0.dll" at 66600000: builtin
+9891.816:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-math-l1-1-0.dll" at 61F80000: builtin
+9891.817:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-multibyte-l1-1-0.dll" at 6F600000: builtin
+9891.817:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-runtime-l1-1-0.dll" at 63740000: builtin
+9891.818:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-stdio-l1-1-0.dll" at 6B7C0000: builtin
+9891.819:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-string-l1-1-0.dll" at 6FF00000: builtin
+9891.820:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-time-l1-1-0.dll" at 6CF40000: builtin
+9891.820:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-utility-l1-1-0.dll" at 6ED40000: builtin
+9891.821:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\vulkan-1.dll" at 69AC0000: builtin
+9891.823:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 29450000: builtin
+9891.825:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 62FC0000: builtin
+9891.826:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 63480000: builtin
+9891.826:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6BCC0000: builtin
+9891.827:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 296F0000: builtin
+9891.828:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winevulkan.dll" at 682C0000: builtin
+9891.828:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dxgi.dll" at 29910000: native
+9891.829:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\d3d11.dll" at 6A540000: native
+9891.831:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\d3dcompiler_43.dll" at 29B20000: native
+9891.834:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 68500000: builtin
+9891.834:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 6A400000: builtin
+9891.834:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\d3dx11_43.dll" at 00140000: native
+9891.842:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 71200000: builtin
+9891.842:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 6CC40000: builtin
+9891.843:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\hid.dll" at 666C0000: builtin
+9891.843:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dinput8.dll" at 7E910000: builtin
+9891.845:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\VCRUNTIME140.dll" at 29D30000: native
+9891.846:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-crt-environment-l1-1-0.dll" at 62D40000: builtin
+9891.846:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcp140.dll" at 00180000: native
+9891.847:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 64EC0000: builtin
+9891.849:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 63BC0000: builtin
+9891.849:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 64A40000: builtin
+9891.850:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\aclui.dll" at 68E00000: builtin
+9891.850:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 7C620000: builtin
+9891.851:0108:010c:trace:loaddll:build_module Loaded L"Z:\\home\\leader\\.local\\share\\Steam\\steamapps\\common\\Persona 4 Golden\\steam_api.dll" at 3B400000: native
+9891.852:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mpr.dll" at 70940000: builtin
+9891.853:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 6D780000: builtin
+9891.853:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wininet.dll" at 61940000: builtin
+9891.855:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msacm32.dll" at 6A040000: builtin
+9891.855:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winmm.dll" at 29D50000: builtin
+9891.860:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WMASF.DLL" at 2A010000: native
+9891.860:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wmvcore.dll" at 29E10000: native
+9891.863:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\x3daudio1_7.dll" at 7DFC0000: builtin
+9891.944:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 7D5F0000: builtin
+9891.958:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 68700000: builtin
+9891.958:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\uxtheme.dll" : builtin
+9891.961:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-core-synch-l1-2-0.dll" at 6DE80000: builtin
+9891.961:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-core-fibers-l1-1-1.dll" at 6AC80000: builtin
+9891.962:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\api-ms-win-core-localization-l1-2-1.dll" at 62B80000: builtin
+9891.966:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\bcrypt.dll" at 66240000: builtin
+9891.967:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\CRYPT32.dll" at 6E8C0000: builtin
+9891.971:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WLDAP32.dll" at 6CA80000: builtin
+9891.971:0108:010c:err:wldap32:DllMain No libldap support, expect problems
+9892.021:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\lsteamclient.dll" at F5970000: builtin
+9892.021:0108:010c:trace:loaddll:build_module Loaded L"C:\\Program Files (x86)\\Steam\\steamclient.dll" at 38000000: native
+9892.021:0108:010c:warn:debugstr:OutputDebugStringA "[S_API] SteamAPI_Init(): Loaded 'C:\\Program Files (x86)\\Steam\\steamclient.dll' OK.\n"
+9892.021:0108:010c:trace:seh:dispatch_exception code=40010006 flags=0 addr=7B011057 ip=7b011057 tid=010c
+9892.021:0108:010c:trace:seh:dispatch_exception  info[0]=00000054
+9892.021:0108:010c:trace:seh:dispatch_exception  info[1]=28f189ec
+9892.021:0108:010c:warn:seh:dispatch_exception "[S_API] SteamAPI_Init(): Loaded 'C:\\Program Files (x86)\\Steam\\steamclient.dll' OK.\n"
+9892.021:0108:010c:trace:seh:call_vectored_handlers calling handler at 6A640F80 code=40010006 flags=0
+9892.021:0108:010c:trace:seh:call_vectored_handlers handler at 6A640F80 returned 0
+9892.021:0108:010c:trace:seh:call_vectored_handlers calling handler at 2999A140 code=40010006 flags=0
+9892.021:0108:010c:trace:seh:call_vectored_handlers handler at 2999A140 returned 0
+9892.021:0108:010c:trace:seh:call_stack_handlers calling handler at 7B6327D0 code=40010006 flags=0
+9892.021:0108:010c:trace:seh:__regs_RtlUnwind code=40010006 flags=2
+9892.021:0108:010c:trace:seh:__regs_RtlUnwind eax=00000000 ebx=00000000 ecx=40010006 edx=28f1841c esi=28f18350 edi=28f1841c
+9892.021:0108:010c:trace:seh:__regs_RtlUnwind ebp=28f17ec8 esp=28f17ec0 eip=7b632766 cs=0023 ds=002b fs=0063 gs=006b flags=00000206
+9892.021:0108:010c:trace:seh:__regs_RtlUnwind calling handler at 7BC569F0 code=40010006 flags=2
+9892.021:0108:010c:trace:seh:__regs_RtlUnwind handler at 7BC569F0 returned 1
+9892.043:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\PSAPI.DLL" at 67840000: builtin
+9892.043:0108:010c:trace:loaddll:build_module Loaded L"C:\\Program Files (x86)\\Steam\\steam.dll" at 2A870000: native
+9893.022:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\secur32.dll" at 631C0000: builtin
+9893.023:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\Kerberos.dll" at 65F40000: builtin
+9893.023:0108:010c:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+9893.026:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dnsapi.dll" at 6E4C0000: builtin
+9893.027:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\nsi.dll" at 6F480000: builtin
+9893.027:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\iphlpapi.dll" at F2F00000: builtin
+9893.027:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\netapi32.dll" at 688C0000: builtin
+9893.027:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\MSV1_0.dll" at 6D880000: builtin
+9893.028:0108:010c:err:winediag:ntlm_check_version ntlm_auth was not found or is outdated. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+9893.028:0108:010c:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+9893.028:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\MSV1_0.dll" : builtin
+9893.036:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\netapi32.dll" : builtin
+9893.036:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\iphlpapi.dll" : builtin
+9893.037:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\nsi.dll" : builtin
+9893.037:0108:010c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\dnsapi.dll" : builtin
+9893.070:0108:010c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+9893.784:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: eax=000000d7 ebx=00000001 ecx=40010006 edx=28f1841c esi=00000001 edi=28f1de40
+9893.784:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ebp=28f1df58 esp=28f1ddfc eip=7bc0aeac cs=0023 ss=002b flags=00000246
+9893.784:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ds=002b es=002b fs=0063 gs=006b
+9893.865:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: eax=000000d7 ebx=00000001 ecx=40010006 edx=28f1841c esi=00000001 edi=28f1de40
+9893.865:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ebp=28f1df58 esp=28f1ddfc eip=7bc0aeac cs=0023 ss=002b flags=00000246
+9893.865:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ds=002b es=002b fs=0063 gs=006b
+9893.866:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\schannel.dll" at 6DD00000: builtin
+9894.080:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: eax=000000d7 ebx=00000001 ecx=40010006 edx=28f1841c esi=00000001 edi=28f1de40
+9894.080:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ebp=28f1df58 esp=28f1ddfc eip=7bc0aeac cs=0023 ss=002b flags=00000246
+9894.080:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ds=002b es=002b fs=0063 gs=006b
+9894.325:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: eax=000000d7 ebx=00000001 ecx=40010006 edx=28f1841c esi=00000001 edi=28f1de40
+9894.325:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ebp=28f1df58 esp=28f1ddfc eip=7bc0aeac cs=0023 ss=002b flags=00200246
+9894.325:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ds=002b es=002b fs=0063 gs=006b
+9894.549:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: eax=000000d7 ebx=00000001 ecx=40010006 edx=28f1841c esi=00000001 edi=28f1de40
+9894.550:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ebp=28f1df58 esp=28f1ddfc eip=7bc0aeac cs=0023 ss=002b flags=00200246
+9894.550:0108:010c:trace:seh:NtGetContextThread 0xfffffffe: ds=002b es=002b fs=0063 gs=006b
+9894.702:0108:010c:warn:debugstr:OutputDebugStringA "WM_SIZE\n"
+9894.702:0108:010c:trace:seh:dispatch_exception code=40010006 flags=0 addr=7B011057 ip=7b011057 tid=010c
+9894.702:0108:010c:trace:seh:dispatch_exception  info[0]=00000009
+9894.702:0108:010c:trace:seh:dispatch_exception  info[1]=0098d5cc
+9894.702:0108:010c:warn:seh:dispatch_exception "WM_SIZE\n"
+9894.702:0108:010c:trace:seh:call_vectored_handlers calling handler at 6A640F80 code=40010006 flags=0
+9894.702:0108:010c:trace:seh:call_vectored_handlers handler at 6A640F80 returned 0
+9894.702:0108:010c:trace:seh:call_vectored_handlers calling handler at 2999A140 code=40010006 flags=0
+9894.702:0108:010c:trace:seh:call_vectored_handlers handler at 2999A140 returned 0
+9894.702:0108:010c:trace:seh:call_stack_handlers calling handler at 7B6327D0 code=40010006 flags=0
+9894.702:0108:010c:trace:seh:__regs_RtlUnwind code=40010006 flags=2
+9894.702:0108:010c:trace:seh:__regs_RtlUnwind eax=00000000 ebx=00000000 ecx=40010006 edx=28f1eedc esi=28f1ee10 edi=28f1eedc
+9894.702:0108:010c:trace:seh:__regs_RtlUnwind ebp=28f1e988 esp=28f1e980 eip=7b632766 cs=0023 ds=002b fs=0063 gs=006b flags=00000202
+9894.702:0108:010c:trace:seh:__regs_RtlUnwind calling handler at 7BC569F0 code=40010006 flags=2
+9894.702:0108:010c:trace:seh:__regs_RtlUnwind handler at 7BC569F0 returned 1
+9894.708:0108:010c:warn:debugstr:OutputDebugStringA "WM_SIZE\n"
+9894.708:0108:010c:trace:seh:dispatch_exception code=40010006 flags=0 addr=7B011057 ip=7b011057 tid=010c
+9894.708:0108:010c:trace:seh:dispatch_exception  info[0]=00000009
+9894.708:0108:010c:trace:seh:dispatch_exception  info[1]=0098d5cc
+9894.708:0108:010c:warn:seh:dispatch_exception "WM_SIZE\n"
+9894.708:0108:010c:trace:seh:call_vectored_handlers calling handler at 6A640F80 code=40010006 flags=0
+9894.708:0108:010c:trace:seh:call_vectored_handlers handler at 6A640F80 returned 0
+9894.708:0108:010c:trace:seh:call_vectored_handlers calling handler at 2999A140 code=40010006 flags=0
+9894.708:0108:010c:trace:seh:call_vectored_handlers handler at 2999A140 returned 0
+9894.708:0108:010c:trace:seh:call_stack_handlers calling handler at 7B6327D0 code=40010006 flags=0
+9894.708:0108:010c:trace:seh:__regs_RtlUnwind code=40010006 flags=2
+9894.708:0108:010c:trace:seh:__regs_RtlUnwind eax=00000000 ebx=00000000 ecx=40010006 edx=28f1ea1c esi=28f1e950 edi=28f1ea1c
+9894.708:0108:010c:trace:seh:__regs_RtlUnwind ebp=28f1e4c8 esp=28f1e4c0 eip=7b632766 cs=0023 ds=002b fs=0063 gs=006b flags=00000206
+9894.708:0108:010c:trace:seh:__regs_RtlUnwind calling handler at 7BC569F0 code=40010006 flags=2
+9894.708:0108:010c:trace:seh:__regs_RtlUnwind handler at 7BC569F0 returned 1
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+9895.256:0108:010c:warn:debugstr:OutputDebugStringA "WM_SIZE\n"
+9895.256:0108:010c:trace:seh:dispatch_exception code=40010006 flags=0 addr=7B011057 ip=7b011057 tid=010c
+9895.256:0108:010c:trace:seh:dispatch_exception  info[0]=00000009
+9895.256:0108:010c:trace:seh:dispatch_exception  info[1]=0098d5cc
+9895.256:0108:010c:warn:seh:dispatch_exception "WM_SIZE\n"
+9895.256:0108:010c:trace:seh:call_vectored_handlers calling handler at 6A640F80 code=40010006 flags=0
+9895.256:0108:010c:trace:seh:call_vectored_handlers handler at 6A640F80 returned 0
+9895.256:0108:010c:trace:seh:call_vectored_handlers calling handler at 2999A140 code=40010006 flags=0
+9895.256:0108:010c:trace:seh:call_vectored_handlers handler at 2999A140 returned 0
+9895.256:0108:010c:trace:seh:call_stack_handlers calling handler at 7B6327D0 code=40010006 flags=0
+9895.256:0108:010c:trace:seh:__regs_RtlUnwind code=40010006 flags=2
+9895.256:0108:010c:trace:seh:__regs_RtlUnwind eax=00000000 ebx=00000000 ecx=40010006 edx=28f1e8ec esi=28f1e820 edi=28f1e8ec
+9895.256:0108:010c:trace:seh:__regs_RtlUnwind ebp=28f1e398 esp=28f1e390 eip=7b632766 cs=0023 ds=002b fs=0063 gs=006b flags=00000206
+9895.256:0108:010c:trace:seh:__regs_RtlUnwind calling handler at 7BC569F0 code=40010006 flags=2
+9895.256:0108:010c:trace:seh:__regs_RtlUnwind handler at 7BC569F0 returned 1
+9895.275:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\xactengine3_7.dll" at 2B270000: native
+9895.277:0108:010c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\XAudio2_7.dll" at F04A0000: builtin
+9897.932:0108:010c:warn:debugstr:OutputDebugStringA "Received stats and achievements from Steam\n"
+9897.932:0108:010c:trace:seh:dispatch_exception code=40010006 flags=0 addr=7B011057 ip=7b011057 tid=010c
+9897.932:0108:010c:trace:seh:dispatch_exception  info[0]=0000002c
+9897.932:0108:010c:trace:seh:dispatch_exception  info[1]=0098cc20
+9897.932:0108:010c:warn:seh:dispatch_exception "Received stats and achievements from Steam\n"
+9897.932:0108:010c:trace:seh:call_vectored_handlers calling handler at 6A640F80 code=40010006 flags=0
+9897.932:0108:010c:trace:seh:call_vectored_handlers handler at 6A640F80 returned 0
+9897.932:0108:010c:trace:seh:call_vectored_handlers calling handler at 2999A140 code=40010006 flags=0
+9897.932:0108:010c:trace:seh:call_vectored_handlers handler at 2999A140 returned 0
+9897.932:0108:010c:trace:seh:call_stack_handlers calling handler at 7B6327D0 code=40010006 flags=0
+9897.932:0108:010c:trace:seh:__regs_RtlUnwind code=40010006 flags=2
+9897.932:0108:010c:trace:seh:__regs_RtlUnwind eax=00000000 ebx=00000000 ecx=40010006 edx=28f1f0fc esi=28f1f030 edi=28f1f0fc
+9897.932:0108:010c:trace:seh:__regs_RtlUnwind ebp=28f1eba8 esp=28f1eba0 eip=7b632766 cs=0023 ds=002b fs=0063 gs=006b flags=00000206
+9897.932:0108:010c:trace:seh:__regs_RtlUnwind calling handler at 7BC569F0 code=40010006 flags=2
+9897.932:0108:010c:trace:seh:__regs_RtlUnwind handler at 7BC569F0 returned 1
+10543.603:005c:006c:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=006c
+10543.603:005c:006c:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+10543.603:005c:006c:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000164f1a8 rcx=000000000164eec0 rdx=0000000000000000
+10543.603:005c:006c:trace:seh:dispatch_exception  rsi=00000000000000d2 rdi=0000000001690230 rbp=0000000000000050 rsp=000000000164eea0
+10543.603:005c:006c:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=c33c3cc3c33c3cc3 r11=0000000000000246
+10543.603:005c:006c:trace:seh:dispatch_exception  r12=000000000164f1a8 r13=00000000016e0050 r14=0000000000000000 r15=00000000016e0050
+10543.603:005c:006c:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+10543.603:005c:006c:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+10543.603:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F080 rsp 000000000164F370 handler 00000002279C3230
+10543.603:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000164EEC0, frame=000000000164F080 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.603:005c:006c:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+10543.603:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F3A0 rsp 000000000164F4E0 handler 00000002279C4B30
+10543.603:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000164EEC0, frame=000000000164F3A0 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.603:005c:006c:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000164F370
+10543.603:005c:006c:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=006c
+10543.603:005c:006c:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+10543.603:005c:006c:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000164f1a8 rcx=000000000164eec0 rdx=0000000000000000
+10543.603:005c:006c:trace:seh:dispatch_exception  rsi=00000000000000d2 rdi=0000000001690230 rbp=0000000000000050 rsp=000000000164eea0
+10543.603:005c:006c:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=c33c3cc3c33c3cc3 r11=0000000000000246
+10543.603:005c:006c:trace:seh:dispatch_exception  r12=000000000164f1a8 r13=00000000016e0050 r14=0000000000000000 r15=00000000016e0050
+10543.603:005c:006c:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+10543.603:005c:006c:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+10543.603:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F080 rsp 000000000164F370 handler 00000002279C3230
+10543.603:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000164EEC0, frame=000000000164F080 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.603:005c:006c:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+10543.603:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F3A0 rsp 000000000164F4E0 handler 00000002279C4B30
+10543.603:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000164EEC0, frame=000000000164F3A0 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.603:005c:006c:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000164F370
+10543.607:005c:006c:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=006c
+10543.607:005c:006c:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+10543.607:005c:006c:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000164f1a8 rcx=000000000164eec0 rdx=0000000000000000
+10543.607:005c:006c:trace:seh:dispatch_exception  rsi=00000000000000d8 rdi=0000000001690230 rbp=0000000000000053 rsp=000000000164eea0
+10543.607:005c:006c:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=00000000016e0020 r11=0000000000000246
+10543.607:005c:006c:trace:seh:dispatch_exception  r12=000000000164f1a8 r13=00000000016e0050 r14=0000000000000000 r15=00000000016e0050
+10543.607:005c:006c:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+10543.607:005c:006c:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+10543.607:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F080 rsp 000000000164F370 handler 00000002279C3230
+10543.607:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000164EEC0, frame=000000000164F080 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.607:005c:006c:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+10543.607:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F3A0 rsp 000000000164F4E0 handler 00000002279C4B30
+10543.607:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000164EEC0, frame=000000000164F3A0 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.607:005c:006c:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000164F370
+10543.608:005c:006c:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01232E ip=000000007B01232E tid=006c
+10543.608:005c:006c:warn:seh:dispatch_exception unknown exception (code=6ba) raised
+10543.608:005c:006c:trace:seh:dispatch_exception  rax=000000007b0122e0 rbx=000000000164f1a8 rcx=000000000164eec0 rdx=0000000000000000
+10543.608:005c:006c:trace:seh:dispatch_exception  rsi=00000000000000d8 rdi=0000000001690230 rbp=0000000000000053 rsp=000000000164eea0
+10543.608:005c:006c:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=00000000016e0020 r11=0000000000000246
+10543.608:005c:006c:trace:seh:dispatch_exception  r12=000000000164f1a8 r13=00000000016e0050 r14=0000000000000000 r15=00000000016e0050
+10543.608:005c:006c:trace:seh:call_vectored_handlers calling handler at 00000002279AD640 code=6ba flags=0
+10543.608:005c:006c:trace:seh:call_vectored_handlers handler at 00000002279AD640 returned 0
+10543.608:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F080 rsp 000000000164F370 handler 00000002279C3230
+10543.608:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C3230 (rec=000000000164EEC0, frame=000000000164F080 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.608:005c:006c:trace:seh:call_teb_handler handler at 00000002279C3230 returned 1
+10543.608:005c:006c:trace:seh:call_stack_handlers found wine frame 000000000164F3A0 rsp 000000000164F4E0 handler 00000002279C4B30
+10543.608:005c:006c:trace:seh:call_teb_handler calling TEB handler 00000002279C4B30 (rec=000000000164EEC0, frame=000000000164F3A0 context=000000000164E3E0, dispatch=000000000164E2B0)
+10543.608:005c:006c:trace:seh:RtlRestoreContext returning to 00000002279C4ACA stack 000000000164F370
+10543.647:005c:006c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winehid.sys" : builtin
+10543.647:005c:006c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\hidclass.sys" : builtin
+10543.647:005c:006c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\hidparse.sys" : builtin
+10543.665:005c:006c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\wineusb.sys" : builtin
+10543.672:005c:006c:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winebus.sys" : builtin
+pid 12164 != 12163, skipping destruction (fork without exec?)
