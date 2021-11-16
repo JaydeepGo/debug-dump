@@ -1,0 +1,294 @@
+RelicCardinal started at 2021-11-16 21:41 [India Standard Time UTC 05:30]
+OS Win 10.0.0.0, 15986MB Physical Memory, 7025 Physical Available, 15986 Virtual Total, 11118 Virtual Available, 0 Page file.
+RUN-OPTIONS []
+WORKING-DIR [Z:\home\leader\.local\share\Steam\steamapps\common\Age of Empires IV\]
+USER [steamuser]
+COMPUTER [PEHLA-NASHA]
+LOCALE [en-US]
+
+(I) [21:41:13.757] [000000272]: Version.cpp - translation info queried modulefilename Z:\home\leader\.local\share\Steam\steamapps\common\Age of Empires IV\RelicCardinal.exe, len 1716
+(I) [21:41:13.757] [000000272]: Version [5.0.7989.0] Info [[Age of Empires IV][cardinal][hotfix][rtm][3710629]]
+(I) [21:41:15.141] [000000272]: Loading step: [Additional crash information]
+(I) [21:41:15.141] [000000272]: Loading step: [Platform]
+(I) [21:41:15.142] [000000272]: Loading step: [Single Instance Check]
+(I) [21:41:15.142] [000000272]: Loading step: [Config File]
+(I) [21:41:15.322] [000000272]: GAME -- Current Steam name is [Leader]
+(I) [21:41:15.323] [000000272]: GAME -- steam returned language 'english'
+(I) [21:41:15.336] [000000272]: GAME -- [Age of Empires IV] set to language [en]
+(I) [21:41:15.336] [000000272]: Loading step: [Init Thread Scheduler]
+(I) [21:41:15.336] [000000272]: Primary CPU is a 2700MHz [Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz] running at 2700MHz
+(I) [21:41:15.336] [000000272]: Architecture [9], Level [6], Revision [15620].
+(I) [21:41:15.340] [000000272]: 4 logical processor(s) detected.
+(I) [21:41:15.345] [000000272]: 2 physical processor(s) detected.
+(I) [21:41:15.348] [000000272]: 1 processor(s) nodes detected.
+(I) [21:41:15.355] [000000272]: Threading system initialized to [4]/[4] cores
+(I) [21:41:15.355] [000000272]: Loading step: [Render Window]
+(I) [21:41:15.355] [000000272]: Loading step: [Statgraph]
+(I) [21:41:15.355] [000000272]: Loading step: [StatGraph Stats]
+(I) [21:41:15.355] [000000272]: Loading step: [MathBox]
+(I) [21:41:15.355] [000000272]: MATHBOX -- Mode=SSE
+(I) [21:41:15.355] [000000272]: Loading step: [ArchiveManager]
+(I) [21:41:15.355] [000000272]: Loading step: [Filesystem]
+(I) [21:41:15.355] [000000272]: Using [C:\users\steamuser\Documents\My Games\Age of Empires IV\] as base writable folder
+(I) [21:41:15.355] [000000272]: Game -- System temp path is [C:\users\steamuser\Temp\]
+(I) [21:41:15.355] [000000272]: Loading step: [Load Scheduler]
+(I) [21:41:15.355] [000000272]: Loading step: [FileLogger]
+(I) [21:41:15.355] [000000272]: Loading step: [Lua GameBinding Traits]
+(I) [21:41:15.355] [000000272]: Loading step: [Lua Libraries]
+(I) [21:41:15.355] [000000272]: Loading step: [System Config]
+(I) [21:41:15.362] [000000272]: Loading step: [User Folder Unloader]
+(I) [21:41:15.362] [000000272]: Loading step: [Load/Save Config Settings]
+(I) [21:41:15.363] [000000272]: Loading step: [Warnings]
+(I) [21:41:15.363] [000000272]: Loading step: [Load Debug Symbols]
+(I) [21:41:15.364] [000000272]: Loading step: [MemoryEnvironment]
+(I) [21:41:15.371] [000000308]: DB -- Unable to load symbols.
+(I) [21:41:16.728] [000000272]: Loading step: [InitReflectSystem]
+(I) [21:41:16.803] [000000272]: Loading step: [InitStateTreeManager]
+(I) [21:41:16.803] [000000272]: Loading step: [Prerequisite Manager]
+(I) [21:41:16.803] [000000272]: Loading step: [Prerequisite Entries]
+(I) [21:41:16.803] [000000272]: Loading step: [GameModule Pre Mod Interface Init]
+(I) [21:41:16.803] [000000272]: Loading step: [ModManager]
+(I) [21:41:16.803] [000000272]: MODULE -- Creating module 'RelicGame'.
+(I) [21:41:16.822] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\attrib.sga 32026176 B [ID:ee47be61ca96024d4a4e1ec86642ee0d] [Ver:170af2e1e27a7738c47315f91c10860b] [Sig:15327608458538250355]
+(I) [21:41:16.839] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechcampaignleaders.sga 4022012 B [ID:7965640ab0c1bf7ba2373a19d2e7b069] [Ver:6e946e1c0304b5d962e8b3e7f0ee2eb1] [Sig:17502851032116184997]
+(I) [21:41:16.862] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechchinese.sga 317469955 B [ID:e19627d267be517bf5392c2e6014c423] [Ver:82bd69d5ddf4f0f7fa7cea34a8884cf6] [Sig:2754016724062746090]
+(I) [21:41:16.920] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechenglish.sga 294569663 B [ID:feaf97340d27ade41677b3c3df1ba56f] [Ver:c51a2ab2fff663a4638daa310406e923] [Sig:10347971993938578503]
+(I) [21:41:16.984] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechfrench.sga 269068636 B [ID:bb0a6805c37931642df8dfc59ace3577] [Ver:91d93871150af835ebdfe8372e94aeef] [Sig:5598542733205860302]
+(I) [21:41:17.039] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechhre.sga 275685564 B [ID:b9b7b1c4746a5da164c4122c43af789d] [Ver:0ee74d32612d5eb328853c3cfaf26a93] [Sig:3184095647338210151]
+(I) [21:41:17.074] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechmisc.sga 2384109 B [ID:e4c186b521460161f56ea8bd2b98da2b] [Ver:9190aed22cb1a63c0b05ceab73b57f50] [Sig:5801845490065423896]
+(I) [21:41:17.106] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechmongols.sga 359286578 B [ID:05c84958f92c54139e30273e08245a4d] [Ver:f2ac3f51a4806d863d3ae7cdd7fa27a5] [Sig:5844061125875378322]
+(I) [21:41:17.164] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechrus.sga 321337149 B [ID:571a52b40cc6bc0ea9986dde60365cd8] [Ver:60dda6ed6e09a1420769942e9eee37a0] [Sig:11821580515680893240]
+(I) [21:41:17.205] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechsultanate.sga 255927056 B [ID:89b1937c7703937f5844dc4ec15f22f9] [Ver:512caea79731ea971cbfff64deaea743] [Sig:5139859926441974357]
+(I) [21:41:17.246] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechabbasid.sga 373590540 B [ID:762a11281de7ccf41b2c9854c76b0870] [Ver:5e84cafe28899b8daefefb29b18dc765] [Sig:10881701950618501301]
+(I) [21:41:17.277] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\soundspeechcampaignlocalizedenglish.sga 51899547 B [ID:b97ee6c9ada021e3cbc5b0d8d8a44c40] [Ver:6221a7e5091772cd8f6d038e8ed7505b] [Sig:7244573121425624344]
+(I) [21:41:17.282] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\data.sga 7164594 B [ID:16c0f95516b6bd76239a8a743a290dba] [Ver:d01b6ea488d7736b68eb54b53809b552] [Sig:1150158378418148442]
+(I) [21:41:17.286] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\ui.sga 1131005 B [ID:09480279ef1f221e1467f0feeeb28aa2] [Ver:aae0aac76be5a997dafa5e5dac59fcce] [Sig:15712092445952964664]
+(I) [21:41:17.289] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\common\archives\data.sga 51932 B [ID:16c0f95516b6bd76239a8a743a290dba] [Ver:2eab840c73c5e0a50465e26a0c498642] [Sig:12045894921760675423]
+(I) [21:41:17.300] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\data.sga 17205114 B [ID:f4b1338f05099577586aca4849e71887] [Ver:d76a4cac01fa1ec8ddfb3a5a1e26153c] [Sig:17915543088266414548]
+(I) [21:41:17.319] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\art.sga 52251137 B [ID:d99ddc3bf2a59ab33b5a50ec14f1256c] [Ver:989e7bc704eaa1a61e7fc4382902c0d8] [Sig:2737236026878055287]
+(I) [21:41:17.325] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artcivilizations.sga 106728285 B [ID:a1848b38e5518cdbdf39590d559fac83] [Ver:a1197a777491aa3adb4d59bbfb01efd9] [Sig:16000181914362130450]
+(I) [21:41:17.330] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artenvironment.sga 479186 B [ID:a7a407191c6a9c6d7922e5be93c9c0ab] [Ver:f5f050c5231a9f2b69c24d4f56ee2539] [Sig:13565419628892128042]
+(I) [21:41:17.333] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artmaterials.sga 472 B [ID:f158b1044fc87fe0c767255d28a39503] [Ver:cd4ca20af4cc08abcb623f9c2bf1812a] [Sig:15344936433509628566]
+(I) [21:41:17.336] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artscenarios.sga 1477936 B [ID:8c73975de44dd6c1a48fcb04421475c4] [Ver:2062ceccb274605ff3e2d9e0b8c6db64] [Sig:11439821136888739016]
+(I) [21:41:17.343] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\scenarios.sga 118662869 B [ID:14a8a0e59b40c543e6087f69fee1f85e] [Ver:8b130a19017e4f9160ee9b8b08c72967] [Sig:9686027820967262157]
+(I) [21:41:17.346] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\scenariosmp.sga 472 B [ID:58730db3487b6b15734fa759553ff5c5] [Ver:cd4ca20af4cc08abcb623f9c2bf1812a] [Sig:15344936433509628566]
+(I) [21:41:17.352] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\scenariossp.sga 362825599 B [ID:660d975e8673cc3f148c18157ca51349] [Ver:f9d3efdff85c710277af697b88afe7e1] [Sig:18085690491233117019]
+(I) [21:41:17.358] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\ui.sga 108632713 B [ID:c00215033d7a6362a23396b8a85b673e] [Ver:d6227334f62fbc8f4fa271d7411e9bfe] [Sig:13472849861710675013]
+(I) [21:41:17.365] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\uiart.sga 704911750 B [ID:e9e119548401f6f9cb7ccf6351516a15] [Ver:67b69f6e660591b30a5da221bfebb5c7] [Sig:2489126717994537833]
+(I) [21:41:17.370] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artcampaign.sga 386917 B [ID:6412a87b29f706d21c1052453db9f82a] [Ver:93e937688741761a1334c6f32b212187] [Sig:13028775917948200269]
+(I) [21:41:17.374] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\campaigndata.sga 5789215 B [ID:3153ae39a848ec5c99fe004f4363e020] [Ver:33ca43c92f8d8f7086993a56c769bf5b] [Sig:2293334923640195557]
+(I) [21:41:17.379] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artabbasids.sga 4029860 B [ID:0e00db2440f4d006b08b650c273d8060] [Ver:efeef297e33ed60f7228e3a71b9b0db8] [Sig:710261492351384501]
+(I) [21:41:17.384] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artchinese.sga 8973452 B [ID:82a6adbd840c98202bc87fef753b5d65] [Ver:8f61aa69b8ac2642a7f97705cb028aaf] [Sig:4969517695682727237]
+(I) [21:41:17.389] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artenglish.sga 8707601 B [ID:f1edd63d3e0732b474dd114b8cefbe0a] [Ver:99a39096b456d1d8deab06e9f03739ee] [Sig:4461052958771817559]
+(I) [21:41:17.394] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artfrench.sga 7251604 B [ID:10e6ba5b8cd559550c78b750c102d365] [Ver:5bd1866c9edd74f5c3d421a0c4616f6d] [Sig:9010822740146421096]
+(I) [21:41:17.398] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artgaia.sga 2944193 B [ID:13f9b459d59202d5c9505386a400343a] [Ver:3f944a54a43bf7b922f379c863e2697c] [Sig:5093021259150856402]
+(I) [21:41:17.402] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\arthre.sga 8529081 B [ID:2cd9426f658c78085b3c9636b688a407] [Ver:63cc347e7f82762bc635692c0995c102] [Sig:6382047940178015588]
+(I) [21:41:17.407] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artmongols.sga 9356612 B [ID:fbe36b2d57b65570e87e63a23c830eca] [Ver:2bd591c44e3d2e92a05c2396aa280e34] [Sig:969025272693656658]
+(I) [21:41:17.413] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artrus.sga 8467883 B [ID:147955ba60fa5b6f1f9d3f1d30dac006] [Ver:cc0b7f62b417dc765f15221106012876] [Sig:4222343612497168097]
+(I) [21:41:17.417] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\artsultanate.sga 8894919 B [ID:18eda33163592da2ba61529ce754b445] [Ver:48cae41a59bf84d2845d7b22b8d43af4] [Sig:6511451074982129430]
+(I) [21:41:17.419] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\tools\archives\data.sga 1848 B [ID:94195021539650ebc2111161f08a5693] [Ver:79c7730456906881b8c847ceee7fb902] [Sig:7866792900671790264]
+(I) [21:41:17.420] [000000272]: Archive [DevOnly] is [corrupt]! [Skipping.]
+(I) [21:41:17.420] [000000272]: Archive [DevOnly] is [corrupt]! [Skipping.]
+(I) [21:41:17.422] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\otapatchassets.sga 472 B [ID:1ba10adee36f2fa055b5a175308464d0] [Ver:cd4ca20af4cc08abcb623f9c2bf1812a] [Sig:15344936433509628566]
+(I) [21:41:17.425] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\tensorflow.sga 661966 B [ID:a90e31fb9bdbd9d1907690832455739e] [Ver:613330e1756e0fad23ef77888f7f6879] [Sig:12904394957454696622]
+(I) [21:41:17.428] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\campaigntensorflow.sga 661993 B [ID:a29737bb04597fc31394a66f2c121ff4] [Ver:c09477024b940d23b48ad83f0684d830] [Sig:16995637170258585014]
+(I) [21:41:17.429] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\arthigh.sga 4616 B [ID:e8f87e4ac202807565d2b4980453804d] [Ver:ab02d3b62a7a2a6b2fa10f110300180a] [Sig:11640576002842547404]
+(I) [21:41:17.436] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\arthigh.sga 334048321 B [ID:99da1b8f8572c24ec631e9f73acb000d] [Ver:31633977f6b73e5e479dcb8542290e36] [Sig:15068583848911715101]
+(I) [21:41:17.446] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\localeenglish.sga 375238 B [ID:7c016c99df8f6c8651bc31c70aa32076] [Ver:48ce37b3d8f2b459c370f129fdfcf221] [Sig:6815591975718721575]
+(I) [21:41:17.450] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\reflect.sga 877539 B [ID:cf317ce4d037d959d1f61ec4ba4b95da] [Ver:3dfdb2cbeb2b7c7f2a68c3be9ec5bdb2] [Sig:9145199116080072682]
+(I) [21:41:17.450] [000000272]: Loading step: [Localization]
+(I) [21:41:17.469] [000000272]: Loading step: [Game]
+(I) [21:41:17.469] [000000272]: Loading step: [SimStaticApp]
+(I) [21:41:17.470] [000000272]: Loading step: [Family Manager]
+(I) [21:41:17.483] [000000272]: Loading step: [SimApp]
+(I) [21:41:17.484] [000000272]: Loading step: [Property Bag Registration]
+(I) [21:41:17.485] [000000272]: Loading step: [Sim State Tree Manager]
+(I) [21:41:17.630] [000000272]: Loading step: [Sound - Rtpc Event Database Init]
+(I) [21:41:17.630] [000000272]: Loading step: [Property Bag Manager]
+(I) [21:41:18.715] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.716] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.718] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.720] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.723] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.725] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.726] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.727] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.729] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.731] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.732] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.732] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.732] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.732] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.732] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.733] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.733] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.733] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.733] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:18.733] [000000272]: MapGen - Failed to load: attr->AttributeExists_PL(name) || attr->TableExists_PL(name)Failed loading an attribute data field for map generation. It is likely that your attribute data is out of sync with your local build or build from the build launcher.
+(I) [21:41:27.293] [000000272]: PropertyBagManager Loaded in 9.663000s
+(I) [21:41:27.293] [000000272]: Loading step: [Modifier Callbacks Initialize]
+(I) [21:41:27.293] [000000272]: Loading step: [HandleIndex Manager]
+(I) [21:41:27.294] [000000272]: Loading step: [EntityBlueprintManager]
+(I) [21:41:27.301] [000000272]: Loading step: [ReflectPostExternalSystemsInited]
+(I) [21:41:27.307] [000000272]: Loading step: [ModPackManager]
+(I) [21:41:27.308] [000000272]: Loading step: [ModDllSetup]
+(I) [21:41:27.308] [000000272]: Loading step: [FilePath Filter]
+(I) [21:41:27.308] [000000272]: Loading step: [Locale System]
+(I) [21:41:27.308] [000000272]: Loading step: [Compatible Architecture Check]
+(I) [21:41:27.308] [000000272]: Loading step: [Compatible OS Check]
+(I) [21:41:27.308] [000000272]: Loading step: [Multicore Check]
+(I) [21:41:27.310] [000000272]: Loading step: [Running in compatibility mode check]
+(I) [21:41:27.312] [000000272]: Loading step: [Parental Control]
+(I) [21:41:27.316] [000000272]: Loading step: [NetworkGlobal]
+(I) [21:41:27.319] [000000272]: Initializing Server Settings: server=aoe, title=age4
+(I) [21:41:27.332] [000000272]: WorldwideLoginService::WorldwideLoginService - initializing
+(I) [21:41:27.576] [000000272]: Opened the CA system store. 
+
+(I) [21:41:27.591] [000000272]: 141 certificates loaded
+(I) [21:41:27.592] [000000272]: NetworkLoadCallback not able to open file PresenceDataCache-age4-aoe.dat
+(I) [21:41:27.592] [000000272]: NetworkLoadCallback not able to open file ItemCategoryCache-age4-aoe.dat
+(I) [21:41:27.592] [000000272]: NetworkLoadCallback not able to open file ItemBundlesCache-age4-aoe.dat
+(I) [21:41:27.592] [000000272]: NetworkLoadCallback not able to open file LevelRewardsCache-age4-aoe.dat
+(I) [21:41:27.592] [000000272]: AutomatchInternal: Instantiating
+(I) [21:41:27.593] [000000272]: NetworkLoadCallback not able to open file GetAvailableAchievementsCache-age4-aoe.dat
+(I) [21:41:27.593] [000000272]: NetworkLoadCallback not able to open file ChallengeGetChallengesCache-age4-aoe.dat
+(I) [21:41:27.593] [000000272]: NetworkLoadCallback not able to open file CloudFileMetadataCache-age4-aoe.dat
+(I) [21:41:27.615] [000000272]: Loading step: [Telemetry]
+(I) [21:41:27.647] [000000272]: Loading step: [Lua Libraries]
+(I) [21:41:27.648] [000000272]: Loading step: [Lua Tools]
+(I) [21:41:27.648] [000000272]: Loading step: [System Tests]
+(I) [21:41:27.651] [000000272]: Loading step: [Free RAM Check]
+(I) [21:41:27.651] [000000272]: Loading step: [Command DB]
+(I) [21:41:27.690] [000000272]: Loading step: [InitGameActivator]
+(I) [21:41:27.690] [000000272]: Loading step: [InitComponentFactory]
+(I) [21:41:27.690] [000000272]: Loading step: [Inventory]
+(I) [21:41:27.691] [000000272]: Loading step: [Autodetect Settings]
+(I) [21:41:27.735] [000000272]: Enumerating Graphics Adapters
+(I) [21:41:27.752] [000000272]: Choosing first adapter
+(I) [21:41:27.754] [000000272]: Adapter: Intel(R) HD Graphics 5500 (BDW GT2) video dedicated: 9351158784 shared: 0 system dedicated: 0
+(I) [21:41:27.754] [000000272]: Chosen adapter: Intel(R) HD Graphics 5500 (BDW GT2) video dedicated: 9351158784 shared: 0 system dedicated: 0
+(I) [21:41:27.770] [000000272]: Graphics Auto-Detect: CPU physical core count detected as 2. This does not include hyperthreads/SMT.
+(I) [21:41:27.770] [000000272]: Graphics Auto-Detect: CPU Frequency detected as 2700 MHz.
+(I) [21:41:27.773] [000000272]: Graphics Auto-Detect: CPU Score calculated as 7020.
+(I) [21:41:27.773] [000000272]: Graphics Auto-Detect: RAM size detected as 15986 MB
+(I) [21:41:27.773] [000000272]: Graphics Auto-Detect: VRAM size detected as 8917 MB
+(I) [21:41:27.773] [000000272]: Graphics Auto-Detect: GPU performance level 0 (Gen7 Only)
+(I) [21:41:27.773] [000000272]: Graphics Auto-Detect: Overriding defaults for these settings groups: autoconfig_gen7, autoconfig_audio_low
+(I) [21:41:27.773] [000000272]: Loading step: [ModManager (RR deferred)]
+(I) [21:41:27.774] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\gen7shadersandedfs.sga 247121 B [ID:1abe0e29d7b50f69ccb5447fb747b1ba] [Ver:0aa5c51d8c18c36c2f256f228cbc1e51] [Sig:6295980679231379387]
+(I) [21:41:27.778] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\engine\archives\gen7assets.sga 4468668 B [ID:0f5cb99facdcd8c4e676d445f436da8f] [Ver:a2ff9fbdefd1ba6a78ba9a4129a8e6e9] [Sig:122404512978284052]
+(I) [21:41:27.781] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\common\archives\gen7shadersandedfs.sga 5369690 B [ID:3f162f3447dafbcea17086abbfa3bba1] [Ver:fa4f5539d07b47b2913a24a25e3d154a] [Sig:2137342705955226275]
+(I) [21:41:27.786] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\common\archives\gen7assets.sga 1351141 B [ID:baffebcbc517c2e0a98b9076a772cf32] [Ver:b4f0b892176f7c0abc15803b5697bbd9] [Sig:11915777344618402225]
+(I) [21:41:27.790] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\gen7shadersandedfs.sga 6391648 B [ID:638ae993bb936b6b6ce50faa4f804482] [Ver:4fc8b3de126d1ae5f3cfc4042e8ee9e8] [Sig:4833759332897253931]
+(I) [21:41:27.811] [000000272]: ARC -- z:\home\leader\.local\share\steam\steamapps\common\age of empires iv\cardinal\archives\gen7assets.sga 1382960052 B [ID:cd29148f2ad50e6022534f30337756ee] [Ver:1eec510304693ee9ede5dad7e02ed050] [Sig:8076794820859126614]
+(I) [21:41:27.839] [000000272]: Loading step: [Graphics driver check]
+(I) [21:41:27.839] [000000272]: Loading step: [AI subsystem]
+(I) [21:41:27.839] [000000272]: Loading step: [Game Hooks]
+(I) [21:41:27.839] [000000272]: Loading step: [Game Modules Init]
+(I) [21:41:27.840] [000000272]: Loading step: [User Data Shutdown]
+(I) [21:41:27.840] [000000272]: Loading step: [dbImGui]
+(I) [21:41:27.840] [000000272]: Loading step: [App Init Complete]
+(I) [21:41:27.845] [000000272]: Registered essence thread: [Main_Thread] usesRcssWorkerThreads: [false]
+(I) [21:41:27.846] [000000364]: Registered essence thread: [Simulation_Thread] usesRcssWorkerThreads: [true]
+(I) [21:41:27.871] [000000272]: -------- Display Adapter Driver Information --------
+(I) [21:41:27.871] [000000272]: Vendor: Intel (0x8086)
+(I) [21:41:27.871] [000000272]: Installed Driver Version: Unknown Adapter (0)
+(I) [21:41:27.871] [000000272]: Required Driver Version: Unknown (0)
+(I) [21:41:27.871] [000000272]: ----------------------------------------------------
+(I) [21:41:27.871] [000000272]: GPU Performance Class: Unknown
+(I) [21:41:28.012] [000000272]: Enumerating Graphics Adapters
+(I) [21:41:28.012] [000000272]: Choosing first adapter
+(I) [21:41:28.012] [000000272]: Adapter: Intel(R) HD Graphics 5500 (BDW GT2) video dedicated: 9351158784 shared: 0 system dedicated: 0
+(I) [21:41:28.012] [000000272]: Chosen adapter: Intel(R) HD Graphics 5500 (BDW GT2) video dedicated: 9351158784 shared: 0 system dedicated: 0
+(I) [21:41:28.115] [000000272]: D3DLOG Begin
+(I) [21:41:28.115] [000000272]: D3DLOG End
+(I) [21:41:28.116] [000000272]: Failed to create D3D12 device. HRESULT = 0x80004005 - Call failed.
+
+(I) [21:41:28.116] [000000272]: -------- GPU and Output INFO --------
+(I) [21:41:28.116] [000000272]: Intel(R) HD Graphics 5500 (BDW GT2) -- 8917MB dedicated video memory, 0MB dedicated system memory and 0MB shared system memory available.
+(I) [21:41:28.116] [000000272]: Primary Output Device is \\.\DISPLAY1, Resolution is 1366x768
+(I) [21:41:28.116] [000000272]: Context failed to initialize
+(I) [21:41:28.131] [000000272]: APP -- The application failed to initialize its devices, code: 2
+(I) [21:41:28.131] [000000364]: Unregistered essence thread: [Simulation_Thread]
+(I) [21:41:28.131] [000000272]: Unregistered essence thread: [Main_Thread]
+(I) [21:41:28.132] [000000272]: Unloading step: [App Init Complete]
+(I) [21:41:28.132] [000000272]: Unloading step: [dbImGui]
+(I) [21:41:28.132] [000000272]: Unloading step: [User Data Shutdown]
+(I) [21:41:28.132] [000000272]: Unloading step: [Game Modules Init]
+(I) [21:41:28.132] [000000272]: Unloading step: [Game Hooks]
+(I) [21:41:28.132] [000000272]: Unloading step: [AI subsystem]
+(I) [21:41:28.132] [000000272]: Unloading step: [Graphics driver check]
+(I) [21:41:28.132] [000000272]: Unloading step: [ModManager (RR deferred)]
+(I) [21:41:28.144] [000000272]: Unloading step: [Autodetect Settings]
+(I) [21:41:28.144] [000000272]: Unloading step: [Inventory]
+(I) [21:41:28.144] [000000272]: Purging: Resource [ReflectObject]-[data:drivers\drivers] still referenced! [visible]
+(I) [21:41:28.144] [000000272]: Unloading step: [InitComponentFactory]
+(I) [21:41:28.144] [000000272]: Unloading step: [InitGameActivator]
+(I) [21:41:28.144] [000000272]: Unloading step: [Command DB]
+(I) [21:41:28.145] [000000272]: Unloading step: [Free RAM Check]
+(I) [21:41:28.145] [000000272]: Unloading step: [System Tests]
+(I) [21:41:28.145] [000000272]: Unloading step: [Lua Tools]
+(I) [21:41:28.145] [000000272]: Unloading step: [Lua Libraries]
+(I) [21:41:28.146] [000000272]: Unloading step: [Telemetry]
+(I) [21:41:29.422] [000000272]: Unloading step: [NetworkGlobal]
+(E) [21:41:29.428] [000000272]: LogoutAsync - response was failure: -9 We are not connected
+(E) [21:41:29.429] [000000272]: WorldwideItemService failed to load offline profile info because signedInventory profileID is invalid or defaultProfileInfo is invalid
+(E) [21:41:29.429] [000000272]: WorldwideAccountService failed to load offline profile info after logging out
+(I) [21:41:29.489] [000000272]: Automatch2Internal: Fade to black
+(I) [21:41:29.489] [000000272]: AutomatchInternal: Fade to black
+(I) [21:41:29.492] [000000272]: Unloading step: [Parental Control]
+(I) [21:41:29.492] [000000272]: Unloading step: [Running in compatibility mode check]
+(I) [21:41:29.492] [000000272]: Unloading step: [Multicore Check]
+(I) [21:41:29.492] [000000272]: Unloading step: [Compatible OS Check]
+(I) [21:41:29.492] [000000272]: Unloading step: [Compatible Architecture Check]
+(I) [21:41:29.492] [000000272]: Unloading step: [Locale System]
+(I) [21:41:29.492] [000000272]: Unloading step: [FilePath Filter]
+(I) [21:41:29.492] [000000272]: Unloading step: [ModManager]
+(I) [21:41:29.492] [000000272]: Unloading step: [ModDllSetup]
+(I) [21:41:29.492] [000000272]: Unloading step: [ModPackManager]
+(I) [21:41:29.492] [000000272]: Unloading step: [Game]
+(I) [21:41:29.492] [000000272]: Unloading step: [ReflectPostExternalSystemsInited]
+(I) [21:41:29.492] [000000272]: Unloading step: [EntityBlueprintManager]
+(I) [21:41:29.492] [000000272]: Unloading step: [HandleIndex Manager]
+(I) [21:41:29.492] [000000272]: Unloading step: [Modifier Callbacks Initialize]
+(I) [21:41:29.492] [000000272]: Unloading step: [Property Bag Manager]
+(I) [21:41:29.586] [000000272]: Unloading step: [Sound - Rtpc Event Database Init]
+(I) [21:41:29.586] [000000272]: Unloading step: [Sim State Tree Manager]
+(I) [21:41:29.613] [000000272]: Unloading step: [Property Bag Registration]
+(I) [21:41:29.613] [000000272]: Unloading step: [SimApp]
+(I) [21:41:29.613] [000000272]: Unloading step: [Family Manager]
+(I) [21:41:29.613] [000000272]: Unloading step: [SimStaticApp]
+(I) [21:41:29.614] [000000272]: Unloading step: [Localization]
+(I) [21:41:29.658] [000000272]: Unloading step: [GameModule Pre Mod Interface Init]
+(I) [21:41:29.658] [000000272]: Unloading step: [Prerequisite Entries]
+(I) [21:41:29.658] [000000272]: Unloading step: [Prerequisite Manager]
+(I) [21:41:29.658] [000000272]: Unloading step: [InitStateTreeManager]
+(I) [21:41:29.658] [000000272]: Unloading step: [InitReflectSystem]
+(I) [21:41:29.698] [000000272]: Unloading step: [MemoryEnvironment]
+(I) [21:41:29.948] [000000272]: Unloading step: [Load Debug Symbols]
+(I) [21:41:29.948] [000000272]: Unloading step: [Warnings]
+(I) [21:41:29.948] [000000272]: Unloading step: [Load/Save Config Settings]
+(I) [21:41:29.955] [000000272]: FILESYSTEM -- filepath failure, missing alias 'peruserdata:configuration_user.lua'
+(I) [21:41:29.955] [000000272]: SYSTEMCONFIG -- Failed to save configuration to 'peruserdata:configuration_user.lua'.
+(I) [21:41:29.956] [000000272]: Unloading step: [User Folder Unloader]
+(I) [21:41:29.956] [000000272]: FILESYSTEM -- filepath failed to remove alias, missing alias 'peruserdata'
+(I) [21:41:29.956] [000000272]: FILESYSTEM -- filepath failed to remove alias, missing alias 'save'
+(I) [21:41:29.956] [000000272]: Unloading step: [System Config]
+(I) [21:41:29.956] [000000272]: Unloading step: [Lua Libraries]
+(I) [21:41:29.956] [000000272]: Unloading step: [Lua GameBinding Traits]
+(I) [21:41:29.956] [000000272]: Unloading step: [FileLogger]
+(I) [21:41:29.956] [000000272]: Unloading step: [Load Scheduler]
+(I) [21:41:29.957] [000000272]: Unloading step: [Filesystem]
+(I) [21:41:29.957] [000000272]: FILESYSTEM -- filepath failed to remove alias, missing alias 'stats'
+(I) [21:41:29.957] [000000272]: Unloading step: [ArchiveManager]
+(I) [21:41:29.957] [000000272]: Unloading step: [MathBox]
+(I) [21:41:29.957] [000000272]: Unloading step: [StatGraph Stats]
+(I) [21:41:29.957] [000000272]: Unloading step: [Statgraph]
+(I) [21:41:29.957] [000000272]: Unloading step: [Render Window]
+(I) [21:41:29.957] [000000272]: Unloading step: [Init Thread Scheduler]
+(I) [21:41:29.959] [000000272]: Threading system shutdown
+(I) [21:41:29.959] [000000272]: Unloading step: [Config File]
+(I) [21:41:29.960] [000000272]: Unloading step: [Single Instance Check]
+(I) [21:41:29.960] [000000272]: Unloading step: [Platform]
+
+Application closed without errors
